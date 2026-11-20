@@ -1,0 +1,290 @@
+{
+  "slug": "adaptar-area",
+  "num": 5,
+  "menu": "By area",
+  "titulo": "Adapt to the learner's area: sales, customer service, HR, legal, finance and operations",
+  "titulo_curto": "Adapt to the area",
+  "minutos": 18,
+  "lead": "A salesperson doesn't want a lawyer's example, and finance doesn't want a marketing example. The same cycle of delegate, review and approve gets stronger when it uses the task, the vocabulary and the risk of each area. This lesson gives you the adaptation method and a map of INEMA's open courses by area, so you can build the track for each class.",
+  "objetivo": "build a track for 1 area with tasks, vocabulary, typical risk and INEMA open courses with links.",
+  "competencias": [
+    "adaptar-conteudo-por-area",
+    "montar-trilha-com-cursos-abertos",
+    "escolher-risco-tipico-da-area"
+  ],
+  "aprende": [
+    {
+      "t": "The 4 ingredients of an adaptation"
+    },
+    {
+      "t": "Which INEMA open course fits each area"
+    },
+    {
+      "t": "The typical risk of each area to use in class"
+    },
+    {
+      "t": "A track template to copy"
+    }
+  ],
+  "hero_alt": "Desk with colored folders side by side and objects from several areas: a headset, a calculator, a book and a catalog.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The 4 ingredients of the adaptation",
+      "sub": "From the learner's area to their track. Click each step.",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Tasks of the week",
+          "sub": "3 to 5, from their own area",
+          "detalhe": "Ask (or use the questionnaire from lesson 2): what does the person do every week that they'd like to do faster? In customer service: answering a complaint, logging an exchange, notifying a delay."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Vocabulary",
+          "sub": "the words of the sector",
+          "detalhe": "Use the real terms of the area in the exercise: order, route, invoice, exchange, default, contract, job opening. The class recognizes their own work and pays attention."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Typical risk",
+          "sub": "the area's costly mistake",
+          "forte": true,
+          "detalhe": "Each area has a mistake that costs a lot: an uncapped discount in sales, personal data in customer service and in HR, confidentiality in legal, payment without segregation of duties in finance. This is the review and approval exercise."
+        },
+        {
+          "icone": "camadas",
+          "titulo": "Open courses",
+          "sub": "the track after the workshop",
+          "detalhe": "The workshop opens the door; INEMA's free, open courses continue the study. Recommend at most 2 or 3 per area, in the right order, so the person doesn't get lost in the catalog."
+        }
+      ],
+      "legenda": "Task and vocabulary hold attention; the typical risk becomes the approval exercise; the courses keep the study going afterward."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Map: area → INEMA open courses",
+      "sub": "All free. Click the area to see tasks, risk and courses.",
+      "passos": [
+        {
+          "titulo": "Sales",
+          "sub": "sales team and reps",
+          "texto": [
+            "Tasks: preparing a proposal, summarizing a visit, answering a quote request, prioritizing the account list. Typical risk: a discount or deadline outside policy (lab failure F5).",
+            "Courses: <a href=\"https://inematds.github.io/8020/\">8020 — Sales, management and sales strategy</a> · <a href=\"https://inematds.github.io/gpt6-astra/\">GPT-6 Astra in practice</a> (delegate the whole proposal, with proof)."
+          ],
+          "exemplo": {
+            "rot": "Exercise",
+            "texto": "A proposal for a new corner store, using the price table, with no discount above 5% without approval."
+          }
+        },
+        {
+          "titulo": "Customer service",
+          "sub": "Customer support and WhatsApp",
+          "texto": [
+            "Tasks: answering a complaint, notifying a delay, logging an exchange. Typical risk: an order hidden in the customer's message and personal data (failures F6 and F8).",
+            "Courses: <a href=\"https://inematds.github.io/curso-agente-sob-controle/\">Agente sob controle</a> · <a href=\"https://inematds.github.io/criaagentes/guia/\">criaagentes: a WhatsApp agent that never makes things up</a>."
+          ],
+          "exemplo": {
+            "rot": "Exercise",
+            "texto": "Review 3 replies prepared by the AI for delay complaints, with planted errors."
+          }
+        },
+        {
+          "titulo": "HR and people",
+          "sub": "people management",
+          "texto": [
+            "Tasks: job description, interview script, preparing a difficult conversation, development plan. Typical risk: an employee's personal data, or a decision about a person, handed over to AI.",
+            "Courses: <a href=\"https://inematds.github.io/segunda-opiniao/\">Second Opinion</a> (difficult conversations and developing people) · <a href=\"https://inematds.github.io/empresas-2027-v62/\">Companies of 2027</a> (people, processes and agents)."
+          ],
+          "exemplo": {
+            "rot": "Rule",
+            "texto": "AI helps prepare the conversation; the manager decides about the person."
+          }
+        },
+        {
+          "titulo": "Legal",
+          "sub": "law firm and in-house legal",
+          "texto": [
+            "Tasks: first read of a contract, deadlines, case summary. Typical risk: professional secrecy and sealed cases ending up in the wrong tool.",
+            "Course: <a href=\"https://inematds.github.io/arquiteto-agentes-advocacia/\">Agents in the law firm</a> (the agent reads, counts and prepares; the lawyer decides and signs)."
+          ],
+          "exemplo": {
+            "rot": "Exercise",
+            "texto": "List the penalty clauses of a fictional contract and check each one against the original text."
+          }
+        },
+        {
+          "titulo": "Finance",
+          "sub": "accounts payable/receivable and accounting",
+          "texto": [
+            "Tasks: reconcile a bank statement, collect from a late-paying customer, explain the month's variance. Typical risk: the person who enters also approves, and customer data sent outside without a contract (failure F10).",
+            "Courses: <a href=\"https://inematds.github.io/arquiteto-agentes-contabil/\">Agents in accounting and finance</a> · <a href=\"https://inematds.github.io/loop-r/curso/\">LOOP-R</a> (improvement with numbers before and after)."
+          ],
+          "exemplo": {
+            "rot": "Rule",
+            "texto": "The agent prepares the payment; a different person approves."
+          }
+        },
+        {
+          "titulo": "Operations and leadership",
+          "sub": "processes, logistics, managers",
+          "texto": [
+            "Tasks: map a process, set up an order routine, measure before and after, decide with clarity. Typical risk: automating without a baseline and not knowing whether it helped (failure F11).",
+            "Courses: <a href=\"https://inematds.github.io/pffia/\">AI Work Architect</a> · <a href=\"https://inematds.github.io/copilot-agentic/\">Copilot + Agents for Companies</a> · <a href=\"https://inematds.github.io/curso-7pa/\">Agent Management: the 7 principles</a>."
+          ],
+          "exemplo": {
+            "rot": "For everyone",
+            "texto": "A foundation for any area: From chat to agent and the Professional 2030 common base."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The learning path goes to the class at the end of the workshop; the prompt helps adapt exercises.",
+      "blocos": [
+        {
+          "rot": "Learning path by area (hand out to the class)",
+          "icone": "lista",
+          "conteudo": "AI LEARNING PATH · <area> · <company>\n\nTASKS WE WILL IMPROVE\n1. <task of the week>\n2. <task of the week>\n3. <task of the week>\n\nAREA VOCABULARY (use in the exercises)\n<order, route, invoice, exchange...>\n\nTYPICAL RISK OF THE AREA\n- The costly mistake: <...>\n- Who approves: <name/role>\n\nAFTER THE WORKSHOP (open, free INEMA courses)\nWeek 1: <course 1> · <link>\nWeek 2: <course 2> · <link>\nWeek 3: <course 3> · <link>\nFoundation for everyone: From chat to agent · https://inematds.github.io/do-chat-ao-agente-v72/en/\n\nFOLLOW-UP\n- Area Champion: <name> · 15-minute meeting at <day/time>"
+        },
+        {
+          "rot": "Prompt · adapt an exercise to another area",
+          "icone": "chat",
+          "conteudo": "I have this AI exercise made for the customer service area:\n\"\"\"<paste the exercise with the answer key>\"\"\"\n\nAdapt it for the <sales | HR | legal | finance | operations> area\nof a <type and size of company>.\nKeep the structure: prompt, the policy that applies, 3 planted errors\n(1 invented fact, 1 violated rule, 1 piece of personal data) and answer key.\nUse the real vocabulary of the area. Do not use real names, CPFs (Brazilian ID numbers) or data.\nAt the end, say which typical risk of the area the exercise trains."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "A real area, with links you opened.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Learning path for 1 area",
+          "min": "30 min",
+          "texto": "Choose an area (from a real class or from Horizonte: sales with Patrícia, customer service with Juliana). Fill in the learning path with 3 tasks, the vocabulary, the typical risk and 2 or 3 courses from the map. Open each link before putting it in the learning path.",
+          "pronto": "the learning path is saved, every link opens, and the typical risk has the name of who approves."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Adapted exercise",
+          "min": "15 min",
+          "texto": "Use the prompt to adapt exercise 2 from lesson 4 (Review) to the area you chose. Check the answer key the AI returned: it also goes through the 4 questions.",
+          "pronto": "you have 1 exercise for the area with 3 planted errors and an answer key that you checked yourself."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "3 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "What is the best approval exercise for a finance class?",
+          "opcoes": [
+            "Write a birthday email to customers",
+            "The agent prepares a payment and a different person approves",
+            "Ask the AI to explain what inflation is"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The typical risk in finance is the person who enters also approving. The exercise trains segregation of duties, which applies with or without AI."
+        },
+        {
+          "p": "Why point to only 2 or 3 courses per area?",
+          "opcoes": [
+            "Because the others are worse",
+            "So the person knows where to go next without getting lost in the catalog",
+            "Because the rest are paid"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "A big catalog paralyzes people who are just starting. A clear order and few options keep the studying going."
+        },
+        {
+          "p": "In an HR class, the AI suggested which employee to let go. What should you teach?",
+          "opcoes": [
+            "Follow the suggestion, it saw the numbers",
+            "AI helps you prepare the conversation; the decision about the person belongs to the manager, and employee data calls for care",
+            "Ban AI in HR"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Decisions about people are not delegated. AI works as a second opinion for thinking and preparing, never for deciding."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "4 ingredients",
+          "texto": "Weekly tasks, vocabulary, typical risk, and open courses."
+        },
+        {
+          "t": "Risk by area",
+          "texto": "Discounts in sales, data shared in customer service and HR, confidentiality in legal, segregation of duties in finance."
+        },
+        {
+          "t": "A few courses, in order",
+          "texto": "2 or 3 per area, with the link checked."
+        },
+        {
+          "t": "Same cycle",
+          "texto": "Delegate, review and approve doesn't change; the example does."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Full catalog of open courses: INEMA.CLUB",
+          "href": "https://inema.club/",
+          "icone": "camadas"
+        },
+        {
+          "t": "From chat to agent: a foundation for any area",
+          "href": "https://inematds.github.io/do-chat-ao-agente-v72/en/",
+          "icone": "seta"
+        },
+        {
+          "t": "Agents in the clinic: a notebook for the health area",
+          "href": "https://inematds.github.io/arquiteto-agentes-saude/",
+          "icone": "pasta"
+        },
+        {
+          "t": "Agents: the New Office, program by role",
+          "href": "https://inematds.github.io/agentes-office/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Laboratório Horizonte: WhatsApp Agent (F5–F7)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Horizonte Lab: Customer spreadsheet (F8)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Horizonte Lab: Customer service summary (F10)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Horizonte Lab: Indicators dashboard (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

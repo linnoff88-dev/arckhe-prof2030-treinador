@@ -1,0 +1,290 @@
+{
+  "slug": "adaptar-area",
+  "num": 5,
+  "menu": "Por área",
+  "titulo": "Adaptar à área do aluno: vendas, atendimento, RH, jurídico, financeiro e operação",
+  "titulo_curto": "Adaptar à área",
+  "minutos": 18,
+  "lead": "Vendedor não quer exemplo de advogado, e o financeiro não quer exemplo de marketing. O mesmo ciclo de delegar, revisar e aprovar ganha força quando usa a tarefa, o vocabulário e o risco de cada área. Esta aula traz o método de adaptação e um mapa dos cursos abertos do INEMA por área, para você montar a trilha de cada turma.",
+  "objetivo": "montar uma trilha para 1 área com tarefas, vocabulário, risco típico e cursos abertos do INEMA com link.",
+  "competencias": [
+    "adaptar-conteudo-por-area",
+    "montar-trilha-com-cursos-abertos",
+    "escolher-risco-tipico-da-area"
+  ],
+  "aprende": [
+    {
+      "t": "Os 4 ingredientes de uma adaptação"
+    },
+    {
+      "t": "Que curso aberto do INEMA serve para cada área"
+    },
+    {
+      "t": "O risco típico de cada área para usar em aula"
+    },
+    {
+      "t": "Um modelo de trilha para copiar"
+    }
+  ],
+  "hero_alt": "Mesa com pastas coloridas lado a lado e objetos de várias áreas: headset, calculadora, livro e catálogo.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Os 4 ingredientes da adaptação",
+      "sub": "Da área do aluno até a trilha dele. Clique em cada passo.",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Tarefas da semana",
+          "sub": "3 a 5, da própria área",
+          "detalhe": "Pergunte (ou use o questionário da aula 2): o que a pessoa faz toda semana e gostaria de fazer mais rápido? No atendimento: responder reclamação, registrar troca, avisar atraso."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Vocabulário",
+          "sub": "as palavras do setor",
+          "detalhe": "Use os termos reais da área no exercício: pedido, rota, nota fiscal, troca, inadimplência, contrato, vaga. A turma reconhece o próprio trabalho e presta atenção."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Risco típico",
+          "sub": "o erro caro da área",
+          "forte": true,
+          "detalhe": "Cada área tem um erro que custa caro: desconto sem teto em vendas, dado pessoal no atendimento e no RH, sigilo no jurídico, pagamento sem segregação no financeiro. Esse é o exercício de revisão e aprovação."
+        },
+        {
+          "icone": "camadas",
+          "titulo": "Cursos abertos",
+          "sub": "a trilha depois do workshop",
+          "detalhe": "O workshop abre a porta; os cursos abertos e gratuitos do INEMA continuam o estudo. Indique no máximo 2 ou 3 por área, na ordem certa, para a pessoa não se perder no catálogo."
+        }
+      ],
+      "legenda": "Tarefa e vocabulário prendem a atenção; o risco típico vira o exercício de aprovação; os cursos mantêm o estudo depois."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Mapa: área → cursos abertos do INEMA",
+      "sub": "Todos gratuitos. Clique na área para ver tarefas, risco e cursos.",
+      "passos": [
+        {
+          "titulo": "Vendas",
+          "sub": "comercial e representantes",
+          "texto": [
+            "Tarefas: preparar proposta, resumir visita, responder cotação, priorizar a carteira. Risco típico: desconto ou prazo fora da política (falha F5 do laboratório).",
+            "Cursos: <a href=\"https://inematds.github.io/8020/\">8020 — Vendas, gestão e estratégia comercial</a> · <a href=\"https://inematds.github.io/gpt6-astra/\">GPT-6 Astra na prática</a> (delegar a proposta inteira com prova)."
+          ],
+          "exemplo": {
+            "rot": "Exercício",
+            "texto": "Proposta para um mercadinho novo com a tabela de preços, sem desconto acima de 5% sem aprovação."
+          }
+        },
+        {
+          "titulo": "Atendimento",
+          "sub": "SAC e WhatsApp",
+          "texto": [
+            "Tarefas: responder reclamação, avisar atraso, registrar troca. Risco típico: ordem escondida na mensagem do cliente e dado pessoal (falhas F6 e F8).",
+            "Cursos: <a href=\"https://inematds.github.io/curso-agente-sob-controle/\">Agente sob controle</a> · <a href=\"https://inematds.github.io/criaagentes/guia/\">criaagentes: um atendente de WhatsApp que nunca inventa</a>."
+          ],
+          "exemplo": {
+            "rot": "Exercício",
+            "texto": "Revisar 3 respostas preparadas pela IA para reclamações de atraso, com erros plantados."
+          }
+        },
+        {
+          "titulo": "RH e pessoas",
+          "sub": "gestão de pessoas",
+          "texto": [
+            "Tarefas: descrição de vaga, roteiro de entrevista, preparar conversa difícil, plano de desenvolvimento. Risco típico: dado pessoal de funcionário e decisão sobre pessoa entregue à IA.",
+            "Cursos: <a href=\"https://inematds.github.io/segunda-opiniao/\">Segunda Opinião</a> (conversas difíceis e desenvolver pessoas) · <a href=\"https://inematds.github.io/empresas-2027-v62/\">Empresas de 2027</a> (pessoas, processos e agentes)."
+          ],
+          "exemplo": {
+            "rot": "Regra",
+            "texto": "A IA ajuda a preparar a conversa; quem decide sobre a pessoa é o gestor."
+          }
+        },
+        {
+          "titulo": "Jurídico",
+          "sub": "escritório e jurídico interno",
+          "texto": [
+            "Tarefas: primeira leitura de contrato, prazos, resumo de processo. Risco típico: sigilo profissional e segredo de justiça fora da ferramenta errada.",
+            "Curso: <a href=\"https://inematds.github.io/arquiteto-agentes-advocacia/\">Agentes no escritório de advocacia</a> (o agente lê, conta e prepara; o advogado decide e assina)."
+          ],
+          "exemplo": {
+            "rot": "Exercício",
+            "texto": "Listar cláusulas de multa de um contrato fictício e conferir cada uma no texto original."
+          }
+        },
+        {
+          "titulo": "Financeiro",
+          "sub": "contas e contábil",
+          "texto": [
+            "Tarefas: conciliar extrato, cobrar inadimplente, explicar variação do mês. Risco típico: quem lança também aprova, e dado de cliente enviado para fora sem contrato (falha F10).",
+            "Cursos: <a href=\"https://inematds.github.io/arquiteto-agentes-contabil/\">Agentes no contábil e no financeiro</a> · <a href=\"https://inematds.github.io/loop-r/curso/\">LOOP-R</a> (melhoria com número antes e depois)."
+          ],
+          "exemplo": {
+            "rot": "Regra",
+            "texto": "O agente prepara o pagamento; uma pessoa diferente aprova."
+          }
+        },
+        {
+          "titulo": "Operação e liderança",
+          "sub": "processos, logística, gestores",
+          "texto": [
+            "Tarefas: mapear processo, montar rotina de pedidos, medir antes e depois, decidir com clareza. Risco típico: automatizar sem linha de base e não saber se ajudou (falha F11).",
+            "Cursos: <a href=\"https://inematds.github.io/pffia/\">Arquiteto de Trabalho com IA</a> · <a href=\"https://inematds.github.io/copilot-agentic/\">Copilot + Agentes para Empresas</a> · <a href=\"https://inematds.github.io/curso-7pa/\">Gestão de Agentes: os 7 princípios</a>."
+          ],
+          "exemplo": {
+            "rot": "Para todos",
+            "texto": "Base para qualquer área: Do chat ao agente e a Base comum do Profissional 2030."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "A trilha vai para a turma no fim do workshop; o prompt ajuda a adaptar exercícios.",
+      "blocos": [
+        {
+          "rot": "Trilha por área (entregar à turma)",
+          "icone": "lista",
+          "conteudo": "TRILHA DE IA · <área> · <empresa>\n\nTAREFAS QUE VAMOS MELHORAR\n1. <tarefa da semana>\n2. <tarefa da semana>\n3. <tarefa da semana>\n\nPALAVRAS DA ÁREA (usar nos exercícios)\n<pedido, rota, nota fiscal, troca...>\n\nRISCO TÍPICO DA ÁREA\n- O erro caro: <...>\n- Quem aprova: <nome/cargo>\n\nDEPOIS DO WORKSHOP (cursos abertos e gratuitos do INEMA)\nSemana 1: <curso 1> · <link>\nSemana 2: <curso 2> · <link>\nSemana 3: <curso 3> · <link>\nBase para todos: Do chat ao agente · https://inematds.github.io/do-chat-ao-agente-v72/\n\nRETORNO\n- Campeão da área: <nome> · encontro de 15 min às <dia/hora>"
+        },
+        {
+          "rot": "Prompt · adaptar um exercício a outra área",
+          "icone": "chat",
+          "conteudo": "Tenho este exercício de IA feito para a área de atendimento:\n\"\"\"<cole o exercício com o gabarito>\"\"\"\n\nAdapte para a área de <vendas | RH | jurídico | financeiro | operação>\nde uma <tipo de empresa e porte>.\nMantenha a estrutura: enunciado, política que vale, 3 erros plantados\n(1 fato inventado, 1 regra violada, 1 dado pessoal) e gabarito.\nUse o vocabulário real da área. Não use nomes, CPFs ou dados reais.\nNo fim, diga qual é o risco típico da área que o exercício treina."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Uma área de verdade, com links que você abriu.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Trilha para 1 área",
+          "min": "30 min",
+          "texto": "Escolha uma área (de uma turma real ou da Horizonte: vendas com a Patrícia, atendimento com a Juliana). Preencha a trilha com 3 tarefas, o vocabulário, o risco típico e 2 ou 3 cursos do mapa. Abra cada link antes de colocar na trilha.",
+          "pronto": "a trilha está salva, cada link abre, e o risco típico tem um nome de quem aprova."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Exercício adaptado",
+          "min": "15 min",
+          "texto": "Use o prompt para adaptar o exercício 2 da aula 4 (revisar) para a área escolhida. Confira o gabarito que a IA devolveu: ele também passa pelas 4 perguntas.",
+          "pronto": "você tem 1 exercício da área com 3 erros plantados e um gabarito que você mesmo conferiu."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "3 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {
+          "p": "Qual é o melhor exercício de aprovação para uma turma do financeiro?",
+          "opcoes": [
+            "Escrever um e-mail de aniversário para clientes",
+            "O agente prepara um pagamento e uma pessoa diferente aprova",
+            "Pedir à IA para explicar o que é inflação"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "O risco típico do financeiro é quem lança também aprovar. O exercício treina a segregação, que vale com ou sem IA."
+        },
+        {
+          "p": "Por que indicar só 2 ou 3 cursos por área?",
+          "opcoes": [
+            "Porque os outros são piores",
+            "Para a pessoa saber por onde seguir sem se perder no catálogo",
+            "Porque o resto é pago"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Catálogo grande paralisa quem está começando. Ordem e poucas opções fazem o estudo continuar."
+        },
+        {
+          "p": "Numa turma de RH, a IA sugeriu qual funcionário desligar. O que ensinar?",
+          "opcoes": [
+            "Seguir a sugestão, ela viu os números",
+            "A IA ajuda a preparar a conversa; a decisão sobre a pessoa é do gestor, e dado de funcionário pede cuidado",
+            "Proibir IA no RH"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Decisão sobre pessoa não se delega. A IA serve de segunda opinião para pensar e preparar, nunca para decidir."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {
+          "t": "4 ingredientes",
+          "texto": "Tarefas da semana, vocabulário, risco típico e cursos abertos."
+        },
+        {
+          "t": "Risco por área",
+          "texto": "Desconto em vendas, dado no atendimento e RH, sigilo no jurídico, segregação no financeiro."
+        },
+        {
+          "t": "Poucos cursos, em ordem",
+          "texto": "2 ou 3 por área, com o link conferido."
+        },
+        {
+          "t": "Mesmo ciclo",
+          "texto": "Delegar, revisar e aprovar não muda; muda o exemplo."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir além",
+      "links": [
+        {
+          "t": "Catálogo completo de cursos abertos: INEMA.CLUB",
+          "href": "https://inema.club/",
+          "icone": "camadas"
+        },
+        {
+          "t": "Do chat ao agente: base para qualquer área",
+          "href": "https://inematds.github.io/do-chat-ao-agente-v72/",
+          "icone": "seta"
+        },
+        {
+          "t": "Agentes na clínica: caderno da área de saúde",
+          "href": "https://inematds.github.io/arquiteto-agentes-saude/",
+          "icone": "pasta"
+        },
+        {
+          "t": "Agentes: o Novo Office, formação por perfil",
+          "href": "https://inematds.github.io/agentes-office/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Laboratório Horizonte: Agente de WhatsApp (F5–F7)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Planilha de clientes (F8)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Resumo de atendimento (F10)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Painel de indicadores (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

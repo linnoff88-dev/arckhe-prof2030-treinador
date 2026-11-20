@@ -1,0 +1,265 @@
+{
+  "slug": "avaliar-turma",
+  "num": 7,
+  "menu": "Evaluar",
+  "titulo": "Evaluar al grupo: rúbrica, prueba práctica, referentes internos y seguimiento",
+  "titulo_curto": "Evaluar al grupo",
+  "minutos": 20,
+  "lead": "\"Me gustó mucho\" en la encuesta de satisfacción no prueba que alguien haya aprendido. Necesitas ver a la persona haciendo, con un criterio claro, y volver semanas después para ver si el hábito se quedó. Esta clase trae la rúbrica de 4 niveles, la prueba práctica, cómo elegir al referente interno y el plan de seguimiento de 30, 60 y 90 días.",
+  "objetivo": "evaluar al grupo con una rúbrica de 4 niveles y una prueba práctica, elegir al referente interno y armar el seguimiento de 90 días.",
+  "competencias": [
+    "avaliar-com-rubrica",
+    "aplicar-prova-pratica",
+    "escolher-campeao-interno",
+    "planejar-acompanhamento"
+  ],
+  "aprende": [
+    {
+      "t": "Los 4 niveles de evaluación de una capacitación"
+    },
+    {
+      "t": "Una rúbrica de 4 niveles para el ciclo delegar, revisar, aprobar"
+    },
+    {
+      "t": "Quién es (y quién no es) el referente interno"
+    },
+    {
+      "t": "El ritual de seguimiento que sostiene el hábito"
+    }
+  ],
+  "hero_alt": "Hojas de evaluación con una cuadrícula de cuatro columnas sobre la mesa y, al fondo, personas conversando en parejas.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Qué medir, de lo más fácil a lo que importa",
+      "sub": "Los 4 niveles del modelo de Kirkpatrick. Haz clic en cada uno.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Reacción",
+          "sub": "¿les gustó?",
+          "detalhe": "Encuesta al final de la clase. Sirve para ajustar el ritmo y los ejemplos, pero no prueba el aprendizaje. Pregunta también: \"¿qué vas a hacer diferente la semana que viene?\"."
+        },
+        {
+          "icone": "check",
+          "titulo": "Aprendizaje",
+          "sub": "¿logran hacerlo?",
+          "detalhe": "Prueba práctica al final del taller: una tarea real, con una salida con errores plantados para revisar, evaluada con la rúbrica. Ver a alguien hacerlo vale más que preguntarle si entendió."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Comportamiento",
+          "sub": "¿lo usan en el trabajo?",
+          "forte": true,
+          "detalhe": "Semanas después, ¿la persona usa el ciclo en el trabajo? Cuéntalo en el registro de uso y en los seguimientos semanales. Aquí es donde la capacitación suele morir, y donde el referente interno marca la diferencia."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Resultado",
+          "sub": "¿cambió el número?",
+          "detalhe": "¿Cambió el número acordado en la propuesta (clase 2)? Tiempo de respuesta, reclamos resueltos en el día, retrabajo. Compáralo con el número de antes; sin línea de base, no hay resultado que mostrar (falla F11)."
+        }
+      ],
+      "legenda": "Casi toda capacitación mide solo la reacción. La tuya mide al menos aprendizaje y comportamiento.",
+      "dica": "Acuerda el número del nivel 4 antes del taller. Después, nadie recuerda cuánto era."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Prueba, referente y seguimiento",
+      "sub": "Tres piezas que convierten la clase en hábito.",
+      "passos": [
+        {
+          "titulo": "Prueba práctica",
+          "sub": "20 minutos, al final",
+          "texto": [
+            "Una tarea del área: delegar un pedido, revisar una salida con 3 errores plantados y decidir 3 acciones (sigue, aprueba, bloquea). Igual que los ejercicios de la clase 4, con un caso nuevo.",
+            "Evalúa con la rúbrica y devuelve el nivel con una frase de retroalimentación. Una nota sin retroalimentación no enseña."
+          ],
+          "exemplo": {
+            "rot": "Retroalimentación",
+            "texto": "Revisión nivel 3: encontró los 3 errores. Para llegar al 4, escribe la regla que evitaría el descuento equivocado."
+          }
+        },
+        {
+          "titulo": "Referente interno",
+          "sub": "nombre propio, no cargo",
+          "texto": [
+            "Es quien mira el uso todos los días, reúne las dudas y las lleva al seguimiento semanal. Un buen referente: lleva más de un año en la empresa, tiene tiempo reservado en la agenda, quiere el rol (lo dice él mismo) y tiene autoridad para ajustar.",
+            "Referente equivocado: quien se va en pocos meses, quien ya tiene demasiadas funciones, quien fue designado sin ser consultado."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Juliana usa el agente y los resúmenes todos los días: es la candidata natural, si quiere el rol y tiene tiempo en la agenda. O un asistente de atención sénior que sacó nivel 3 o 4 en la prueba."
+          }
+        },
+        {
+          "titulo": "Seguimiento semanal",
+          "sub": "15 a 20 minutos, hora fija",
+          "texto": [
+            "Mismo día y hora todas las semanas. Agenda fija: números de la semana, dudas del registro, una mejora y la próxima fecha.",
+            "Una duda que aparece 3 veces se convierte en un microvideo de 3 a 4 minutos o en una línea en la guía de 1 página."
+          ],
+          "exemplo": {
+            "rot": "Agenda",
+            "texto": "5 min números · 10 min dudas y ajustes · 5 min próxima semana."
+          }
+        },
+        {
+          "titulo": "30, 60, 90 días",
+          "sub": "el fin del seguimiento",
+          "texto": [
+            "Día 30: comportamiento (cuántos usan el ciclo y con qué frecuencia). Día 60: segunda prueba práctica corta, para ver quién subió de nivel. Día 90: resultado contra el número de antes y decisión del próximo paso.",
+            "Reconoce en público a quien trajo resultados: las personas imitan lo que ven que se valora."
+          ],
+          "exemplo": {
+            "rot": "Decisión del día 90",
+            "texto": "Mantener, ampliar a otra área o corregir lo que no prendió."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La rúbrica y el plan entran en el kit de la clase 8.",
+      "blocos": [
+        {
+          "rot": "Rúbrica de 4 niveles · delegar, revisar y aprobar",
+          "icone": "lista",
+          "conteudo": "RÚBRICA · <grupo> · <fecha>\nNiveles: 1 Principiante · 2 En desarrollo · 3 Competente · 4 Referente\n\nDELEGAR\n1 pedido vago (\"haz un resumen\")\n2 dice el resultado, pero sin contexto ni formato\n3 resultado + contexto + formato + lo que está prohibido\n4 nivel 3 + pide prueba (citar la fuente) y lo reutiliza como modelo\n\nREVISAR\n1 no revisa o solo corrige la gramática\n2 encuentra 1 de los 3 errores plantados\n3 encuentra los 3 errores (dato, regla, dato personal)\n4 nivel 3 + escribe la regla que evita el error la próxima vez\n\nAPROBAR Y SEGURIDAD\n1 deja salir una acción irreversible sin aprobación\n2 reconoce el valor alto, pero no la inyección ni el dato personal\n3 clasifica bien las 3 acciones (sigue / aprueba / bloquea)\n4 nivel 3 + dice quién aprueba y qué registrar\n\nAPLICAR EN EL TRABAJO (día 30)\n1 no lo usó\n2 lo usó 1 o 2 veces\n3 lo usa cada semana en la tarea acordada\n4 lo usa y le enseñó a un colega o creó un modelo para el equipo\n\nMeta del grupo: mayoría en el nivel 3 en delegar y revisar el día de la prueba."
+        },
+        {
+          "rot": "Plan de seguimiento a 90 días + referente",
+          "icone": "calendario",
+          "conteudo": "SEGUIMIENTO · <empresa> · <área> · inicio <fecha>\n\nREFERENTE INTERNO\n- Nombre: <...> · tiempo en la empresa: <...> · tiempo en la agenda: <30 min/día>\n- ¿Aceptó el rol con sus propias palabras? ( ) sí\n- Reemplazo si se va: <nombre>\n\nENCUENTRO SEMANAL · <día y hora fijos> · 15-20 min\n- 0-5 números · 5-15 dudas del registro · 15-20 próxima semana\n\nREGISTRO DE USO Y DUDAS (1 pestaña)\nfecha | persona | tarea | en qué se equivocó la IA | qué hicimos\n- Una duda que aparece 3 veces se convierte en microvideo (3-4 min) o en una línea de la guía\n\nINDICADORES (máximo 4)\n1. Personas usando el ciclo en la semana: <n de n>\n2. Casos hechos con IA y revisión: <n>\n3. Errores encontrados en la revisión: <n> (que suba al principio es buena señal)\n4. Número del resultado acordado: antes <...> · ahora <...>\n\nHITOS\n- Día 30: comportamiento (rúbrica \"aplicar\")\n- Día 60: prueba práctica corta\n- Día 90: resultado vs. antes · decisión: mantener / ampliar / corregir"
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Las dos piezas van al kit de la clase 8.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Rúbrica de tu grupo",
+          "min": "20 min",
+          "texto": "Adapta la rúbrica al área elegida en la clase 5: cambia los ejemplos de cada nivel por situaciones del área.",
+          "pronto": "cada criterio tiene 4 niveles descritos con algo que se puede observar, sin palabras como \"bueno\" o \"satisfactorio\"."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Plan de seguimiento",
+          "min": "20 min",
+          "texto": "Completa el plan de 90 días con un referente (real o de Horizonte), día y hora del encuentro y los indicadores.",
+          "pronto": "el plan tiene un referente con reemplazo, un encuentro con día y hora, máximo 4 indicadores y los 3 hitos con fecha."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "La encuesta al final del taller dio nota 9,5. ¿Qué demuestra eso?",
+          "opcoes": [
+            "Que el grupo aprendió",
+            "Que al grupo le gustó; el aprendizaje se ve en la prueba práctica y en el hábito, semanas después",
+            "Que el resultado de la empresa va a mejorar"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "La reacción es el nivel 1. Que guste es buena señal, pero no muestra si la persona sabe hacerlo ni si lo va a usar."
+        },
+        {
+          "p": "En la prueba, la persona encontró 2 de los 3 errores plantados. ¿Qué nivel de revisión es?",
+          "opcoes": [
+            "Nivel 1",
+            "Nivel 2: en desarrollo",
+            "Nivel 3"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "El nivel 3 pide los 3 errores. Devuelve el nivel con una frase: qué error se escapó y cómo encontrarlo."
+        },
+        {
+          "p": "¿Quién es el mejor referente interno?",
+          "opcoes": [
+            "La practicante que maneja bien la computadora y se va en 3 meses",
+            "El agente de atención sénior, con tiempo reservado, que quiere el rol y sacó nivel 3 en la prueba",
+            "Quien el dueño designó sin preguntar"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "El referente tiene que quedarse, tener tiempo en la agenda y querer el rol. El referente que se va se lleva el conocimiento y el proyecto queda huérfano."
+        },
+        {
+          "p": "La misma duda apareció 3 veces en el registro. ¿Qué hacer?",
+          "opcoes": [
+            "Responder otra vez, una por una",
+            "Convertirla en un microvideo corto o en una línea de la guía de 1 página",
+            "Agendar otro taller completo"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Una duda repetida es material. Responder una por una no escala; el microvideo responde a todos."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "4 niveles de evaluación",
+          "texto": "Reacción, aprendizaje, comportamiento y resultado. Mide al menos los del medio."
+        },
+        {
+          "t": "Rúbrica de 4 niveles",
+          "texto": "Delegar, revisar, aprobar y aplicar, con descripción observable."
+        },
+        {
+          "t": "Referente interno",
+          "texto": "Nombre propio, tiempo en la agenda, ganas dichas por la propia persona, reemplazo definido."
+        },
+        {
+          "t": "Seguimiento",
+          "texto": "Encuentro semanal fijo e hitos de 30, 60 y 90 días."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Kirkpatrick Partners: el modelo de 4 niveles",
+          "href": "https://www.kirkpatrickpartners.com/the-kirkpatrick-model/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Mapa del Cliente: referente interno y seguimiento semanal (ruta 5)",
+          "href": "https://inematds.github.io/mapacliente/",
+          "icone": "usuario"
+        },
+        {
+          "t": "LOOP-R: medir antes y después, con tarjeta de decisión",
+          "href": "https://inematds.github.io/loop-r/curso/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Efecto de prueba: por qué el examen también enseña (en inglés)",
+          "href": "https://en.wikipedia.org/wiki/Testing_effect",
+          "icone": "seta"
+        },
+        {
+          "t": "Laboratorio Horizonte: Panel de indicadores (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "slug": "kit-workshop",
+  "num": 8,
+  "menu": "Kit final",
+  "titulo": "Kit de taller para Horizonte y lo que cambió en el mercado",
+  "titulo_curto": "Kit final y lo que cambió",
+  "minutos": 25,
+  "lead": "Es hora de juntar las piezas. El proyecto final es un kit de taller de 1 hora para el equipo de atención de Horizonte Distribuidora, donde trabaja Juliana: diagnóstico, guion, ejercicios con respuestas, mini-clase de incidente, rúbrica y seguimiento. Ensayas, grabas 10 minutos y te evalúas. Al final, el panel de lo que cambió en el mercado en octubre de 2026.",
+  "objetivo": "entregar el kit completo de taller de 1 hora para la atención de Horizonte y dar una clase grabada de 10 minutos evaluada con la rúbrica.",
+  "competencias": [
+    "montar-kit-de-workshop",
+    "conduzir-aula-avaliada",
+    "atualizar-conteudo-pelo-mercado"
+  ],
+  "aprende": [
+    {
+      "t": "Los 6 archivos del kit y dónde se hizo cada uno"
+    },
+    {
+      "t": "Cómo ensayar y evaluarte con la rúbrica del formador"
+    },
+    {
+      "t": "Cómo pedir una segunda opinión sobre el kit"
+    },
+    {
+      "t": "Qué cambió en el mercado y afecta esta formación"
+    }
+  ],
+  "hero_alt": "Kit de taller organizado sobre la mesa: carpeta con guion, tarjetas de ejercicio, hoja de evaluación y auriculares.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "El kit: 6 archivos",
+      "sub": "Haz clic en cada pieza para ver de qué clase viene.",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Diagnóstico",
+          "sub": "clase 2",
+          "detalhe": "El cuestionario aplicado (o simulado) al equipo de atención y la lectura: cuántos hay en cada nivel, activos, curiosos y resistentes, IA en la sombra."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Guion de 1 h",
+          "sub": "clases 1 y 3",
+          "forte": true,
+          "detalhe": "Las 5 partes con tiempos, los 5 principios marcados, preguntas de práctica de recuperación, reservas y el bloque que se puede saltar."
+        },
+        {
+          "icone": "check",
+          "titulo": "Ejercicios",
+          "sub": "clases 4 y 5",
+          "detalhe": "Delegar, revisar y aprobar con casos de atención: reclamo por retraso, descuento pedido por el cliente, orden escondida en el mensaje. Cada uno con respuesta modelo."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Incidente",
+          "sub": "clase 6",
+          "detalhe": "10 minutos sobre un caso real ligado a una falla de Horizonte, con regla y prueba. Dentro de la hora, usa la versión de 2 minutos."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Rúbrica",
+          "sub": "clase 7",
+          "detalhe": "Rúbrica de 4 niveles (delegar, revisar, aprobar, aplicar) adaptada a la atención, para la prueba práctica del final del taller."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Seguimiento",
+          "sub": "90 días · clase 7",
+          "detalhe": "Referente de atención con suplente, reunión semanal de 15 a 20 minutos y hitos de 30, 60 y 90 días con el número de antes."
+        }
+      ],
+      "legenda": "Un kit que solo existe en papel todavía no está listo: la grabación de 10 minutos (paso 2 abajo) muestra qué cambiar antes del grupo real."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Del kit a la clase evaluada",
+      "sub": "Cuatro pasos, en este orden.",
+      "passos": [
+        {
+          "titulo": "Armar",
+          "sub": "una sola carpeta",
+          "texto": [
+            "Junta las piezas de las clases 1 a 7 en una carpeta: diagnostico, roteiro, exercicios, incidente, rubrica, acompanhamento. Adapta todo a la atención de Horizonte, con el vocabulario del área.",
+            "Usa solo datos ficticios del laboratorio. Ningún CPF ni teléfono, ni siquiera inventado con apariencia de real."
+          ],
+          "exemplo": {
+            "rot": "Destino del taller",
+            "texto": "Después de esta hora, el equipo responde reclamos con IA, revisa con las 4 preguntas y sabe qué solo sale con la aprobación de alguien con nombre."
+          }
+        },
+        {
+          "titulo": "Ensayar y grabar",
+          "sub": "10 minutos",
+          "texto": [
+            "Elige el tramo más difícil: la apertura con el miedo nombrado o el ejercicio de revisión. Graba con el celular, hablando como hablarías al grupo.",
+            "Si puedes, pide a una persona que haga el papel de participante escéptico, como Sérgio de la clase 3."
+          ],
+          "exemplo": {
+            "rot": "Consejo",
+            "texto": "Cronometra. Si el tramo de 10 minutos pasó de 13, el guion de 1 hora no cabe."
+          }
+        },
+        {
+          "titulo": "Evaluar",
+          "sub": "rúbrica del formador",
+          "texto": [
+            "Mira la grabación y evalúate tú mismo con los 5 criterios de la lista de abajo, de 1 a 4. Anota 1 cosa para mantener y 1 para cambiar.",
+            "Pide una segunda opinión a la IA con el prompt listo. No decide por ti: señala lo que podrías estar pasando por alto."
+          ],
+          "exemplo": {
+            "rot": "Retorno útil",
+            "texto": "Mantener: el caso del descuento. Cambiar: esperé solo 4 segundos después de la pregunta."
+          }
+        },
+        {
+          "titulo": "Ajustar y entregar",
+          "sub": "versión 1 del kit",
+          "texto": [
+            "Corrige el guion con lo que mostró la grabación y cierra el checklist del kit.",
+            "En la vida real, muestra el kit a quien contrata (aquí, Carlos, el dueño, con Juliana) antes del taller y acuerden el número que se medirá en 30 días."
+          ],
+          "exemplo": {
+            "rot": "Entrega",
+            "texto": "Carpeta con 6 archivos + enlace del video de 10 min + checklist completado."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "El checklist cierra el kit; el prompt da la segunda opinión.",
+      "blocos": [
+        {
+          "rot": "Checklist del kit + rúbrica del formador",
+          "icone": "lista",
+          "conteudo": "CHECKLIST DEL KIT · Taller de 1 h · atención al cliente · Horizonte Distribuidora\n\nPIEZAS\n[ ] Diagnóstico: cuestionario + lectura (niveles, grupos, IA en la sombra)\n[ ] Guion de 1 h en las 5 partes, sumando 60 min, con reserva y bloque que se puede saltar\n[ ] Los 5 principios marcados en el guion\n[ ] 3 ejercicios (delegar, revisar, aprobar) con solucionario, casos de atención al cliente\n[ ] Mini-clase de incidente (versión de 2 min dentro de la hora) con fecha y fuente\n[ ] Rúbrica de 4 niveles adaptada a atención al cliente\n[ ] Plan de seguimiento: referente + suplente, retorno semanal, 30/60/90\n[ ] Número de hoy acordado para medir en 30 días\n[ ] Solo datos ficticios; ninguna promesa de empleo ni de resultado garantizado\n\nRÚBRICA DEL FORMADOR (grabación de 10 min · de 1 a 4 cada una)\n1. Por qué: ¿abrió con el problema del grupo, con un número?   ___\n2. Práctica: ¿el grupo hace más de lo que mira?                ___\n3. Recuperación: ¿preguntó y esperó ~15 s?                    ___\n4. Seguridad: ¿riesgo con caso real, sin alarmismo?           ___\n5. Aterrizaje: ¿compromiso con fecha y retorno agendado?      ___\nMantener: <...>   Cambiar: <...>"
+        },
+        {
+          "rot": "Prompt · segunda opinión sobre el kit",
+          "icone": "chat",
+          "conteudo": "Voy a dar un taller de IA de 1 hora para el equipo de atención al cliente de una\ndistribuidora de productos de limpieza (empresa ficticia, 40 personas).\nAquí está mi guion y los ejercicios:\n\"\"\"<pega el guion y los ejercicios>\"\"\"\n\nNo reescribas el material. Ayúdame a pensar:\n1. la situación real: qué promete entregar este guion en 1 hora;\n2. las opciones que tengo para los 2 tramos más débiles;\n3. el riesgo de cada opción (tiempo, grupo escéptico, seguridad);\n4. qué puedo estar ignorando sobre este grupo;\n5. qué validar con la gerente antes de dar la clase.\nSeñala cualquier promesa que yo no pueda cumplir."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Proyecto final",
+      "sub": "El kit es la entrega de esta formación.",
+      "fonte": "Escenario: <a href=\"https://inematds.github.io/prof2030-lab/\">empresa laboratorio Horizonte Distribuidora</a> (datos ficticios).",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Kit completo",
+          "min": "2 h",
+          "texto": "Arma la carpeta del kit de taller de 1 hora para el equipo de atención al cliente de Horizonte Distribuidora (Juliana), usando el laboratorio como escenario.",
+          "pronto": "todas las líneas de PIEZAS del checklist están marcadas y los 6 archivos están en la carpeta."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Clase evaluada de 10 minutos",
+          "min": "45 min",
+          "texto": "Graba un tramo de 10 minutos del taller, evalúalo con la rúbrica del formador y pide la segunda opinión con el prompt. Ajusta el guion.",
+          "pronto": "el video existe, los 5 criterios tienen nota, hay 1 punto que mantener y 1 que cambiar, y el guion tiene una versión 2 con el cambio hecho."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "¿Por qué grabar 10 minutos antes de dar el taller?",
+          "opcoes": [
+            "Para publicar en redes sociales",
+            "Porque la grabación muestra lo que el guion en papel esconde: tiempo, silencio y tono",
+            "Porque la certificación exige un video largo"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "En el papel todo cabe. Grabado, ves que esperaste 4 segundos, que el caso tardó 6 minutos o que el tono asustó."
+        },
+        {
+          "p": "El kit está listo, pero nadie acordó el número de hoy. ¿Qué falta?",
+          "opcoes": [
+            "Nada, el número se descubre después",
+            "La línea de base: sin ella, en el día 90 no hay resultado que mostrar",
+            "Más ejercicios"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "Sin un número de antes, nadie sabe si la capacitación ayudó. Es la misma falla del panel de Horizonte (F11)."
+        },
+        {
+          "p": "¿Para qué sirve el prompt de segunda opinión?",
+          "opcoes": [
+            "Para que la IA reescriba todo el kit",
+            "Para señalar puntos débiles, riesgos y lo que puedes estar ignorando; quien decide eres tú",
+            "Para generar la rúbrica"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "La segunda opinión aclara, no decide. El prompt pide no reescribir y señalar promesas que no puedes cumplir."
+        },
+        {
+          "p": "El panel \"Qué cambió\" queda desactualizado. ¿Qué hacer con las clases 1 a 7?",
+          "opcoes": [
+            "Rehacerlas todas cada trimestre",
+            "Mantenerlas: el método no cambia; solo se cambia el panel",
+            "Borrar las fechas"
+          ],
+          "certa": 1,
+          "ref": "texto",
+          "explica": "El método (enseñar a adultos, taller, ciclo, rúbrica) sobrevive al cambio de herramienta. Lo que cambia cada trimestre es el panel."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen de la formación",
+      "itens": [
+        {
+          "t": "Enseñar a adultos",
+          "texto": "Por qué, problema real, práctica, recuperación y próxima semana."
+        },
+        {
+          "t": "Taller",
+          "texto": "Diagnóstico, 5 partes, ciclo delegar-revisar-aprobar adaptado al área."
+        },
+        {
+          "t": "Seguridad y evaluación",
+          "texto": "Caso real sin alarmismo, rúbrica de 4 niveles, referente y 90 días."
+        },
+        {
+          "t": "Kit y panel",
+          "texto": "Kit probado en grabación; el panel del mercado se actualiza cada trimestre."
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Qué cambió (oct/2026)",
+      "sub": "Panel actualizado cada trimestre. El método de las clases 1 a 7 se mantiene; los hechos de abajo cambian.",
+      "paragrafos": [
+        "<b>Alfabetización en IA obligatoria en la UE (desde el 02/02/2025).</b> El artículo 4 del AI Act exige medidas de alfabetización en IA para quienes usan IA en el trabajo. Es el argumento más directo para vender capacitación. <a href=\"https://artificialintelligenceact.eu/article/4/\">Artículo 4</a>.",
+        "<b>Alto riesgo aplazado al 02/12/2027 (acuerdo del 07/05/2026).</b> El paquete Omnibus aplazó las reglas de alto riesgo del Anexo III; la alfabetización en IA sigue vigente. <a href=\"https://www.gibsondunn.com/eu-ai-act-omnibus-agreement\">Gibson Dunn</a>.",
+        "<b>Agentes que entregan el trabajo terminado (09/07/2026).</b> ChatGPT Work produce documentos, hojas de cálculo y diapositivas, y trabaja durante horas. Por eso la clase 4 entrena a delegar, revisar y aprobar, no a escribir prompts. <a href=\"https://channellife.co.nz/story/openai-launches-chatgpt-work-for-workplace-automation\">ChannelLife</a>.",
+        "<b>Apps hechas con IA expuestas (mayo/2026).</b> Se analizaron cerca de 380 mil apps públicas y alrededor de 5 mil tenían datos corporativos sensibles. Caso listo para la clase 6. <a href=\"https://dpo.hku.hk/news/thousands-of-ai-%E2%80%98vibe-coding%E2%80%99-apps-may-expose-sensitive-medical%2C-business-data\">HKU</a>.",
+        "<b>Agente que actuó sin autorización (09/10/2026).</b> Anthropic reportó modelos que actuaron en sitios reales durante evaluaciones, incluso enviando formularios, y cortó el acceso a internet en vivo en esas pruebas. <a href=\"https://www.resultsense.com/news/2026-10-12-anthropic-unintended-model-actions-report/\">ResultSense</a>.",
+        "<b>Deepfakes de Grok bajo investigación (26/01/2026).</b> La Comisión Europea abrió una investigación formal contra X bajo la ley de servicios digitales. Caso para hablar de la imagen de personas reales y de estafas con voz. <a href=\"https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors\">Al Jazeera</a>.",
+        "<b>Brasil: la gobernanza va detrás de la adopción (sep/2026).</b> Solo el 27 % de las empresas brasileñas dice tener una gobernanza de IA madura, según Deloitte. Capacitar al equipo es el primer paso. <a href=\"https://www.deloitte.com/br/pt/about/press-room/state-of-ai-2026.html\">Deloitte</a>."
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Empresa laboratorio: Horizonte Distribuidora",
+          "href": "https://inematds.github.io/prof2030-lab/",
+          "icone": "pasta"
+        },
+        {
+          "t": "Profesional 2030: las formaciones y la certificación",
+          "href": "https://inematds.github.io/profissional-2030/",
+          "icone": "camadas"
+        },
+        {
+          "t": "Base común del Profesional 2030",
+          "href": "https://inematds.github.io/prof2030-base/",
+          "icone": "seta"
+        },
+        {
+          "t": "Segunda Opinión: el pedido de claridad en 5 partes",
+          "href": "https://inematds.github.io/segunda-opiniao/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Comisión Europea: preguntas y respuestas sobre alfabetización en IA",
+          "href": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+          "icone": "escudo"
+        },
+        {
+          "t": "Laboratorio Horizonte: Panel de indicadores (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

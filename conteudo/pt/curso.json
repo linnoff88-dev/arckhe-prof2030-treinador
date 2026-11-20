@@ -1,0 +1,183 @@
+{
+  "id": "prof2030-treinador",
+  "lang": "pt-BR",
+  "url": "https://inematds.github.io/prof2030-treinador/",
+  "nome": "Treinador de IA",
+  "sub": "Profissional 2030 · formação",
+  "icone": "megafone",
+  "volta": {
+    "t": "Profissional 2030",
+    "href": "https://inematds.github.io/profissional-2030/"
+  },
+  "lado_card": {
+    "rot": "Projeto final",
+    "t": "Kit de workshop de 1 hora",
+    "texto": "Para a equipe de atendimento da Horizonte Distribuidora: roteiro, exercícios, rubrica e acompanhamento.",
+    "link": "Abrir a empresa-laboratório",
+    "href": "https://inematds.github.io/prof2030-lab/"
+  },
+  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · A certificação INEMA é de qualificação, não de profissão regulada. · <a href=\"https://www.inema.club/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">Ficha deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender IA</a>",
+  "videos": {},
+  "inicio": {
+    "kicker": "Profissional 2030 · formação Treinador de IA · 8 aulas",
+    "titulo": "Treinador de IA: ensine equipes a delegar, revisar e aprovar o trabalho feito com IA",
+    "lead": "Para quem vai dar workshops, bootcamps e formar equipes e lideranças usando o conteúdo aberto do INEMA. Você aprende a ensinar adultos, diagnosticar a turma, montar o workshop, treinar o hábito certo, ensinar segurança com casos reais e avaliar quem aprendeu.",
+    "cta": "Começar pela aula 1",
+    "cta2": {
+      "t": "Ver o Profissional 2030",
+      "href": "https://inematds.github.io/profissional-2030/"
+    },
+    "capa_alt": "Sala de treinamento pequena com flipchart, cadeiras em semicírculo e um facilitador apontando para o quadro.",
+    "numeros": [
+      {
+        "v": "8",
+        "t": "aulas curtas"
+      },
+      {
+        "v": "6",
+        "t": "arquivos no kit final"
+      },
+      {
+        "v": "1",
+        "t": "workshop simulado"
+      },
+      {
+        "v": "1",
+        "t": "kit de workshop no fim"
+      }
+    ],
+    "aulas_titulo": "As aulas",
+    "aulas_sub": "Cada aula termina com uma peça do seu kit. Na aula 8 você junta tudo para a equipe de atendimento da Horizonte Distribuidora.",
+    "blocos": [
+      {
+        "t": "Para quem é",
+        "itens": [
+          "Quem vai dar workshop ou bootcamp de IA para equipes e lideranças de empresas.",
+          "Gestores e profissionais de RH, T&D ou operação que viraram a referência de IA da casa.",
+          "Consultores que querem incluir capacitação no trabalho, com método e sem promessa de milagre."
+        ]
+      },
+      {
+        "t": "O que você sai fazendo",
+        "itens": [
+          "Planejar uma aula com 5 princípios de aprendizagem de adultos.",
+          "Diagnosticar a turma e montar um workshop de 1 h, 4 h ou um bootcamp.",
+          "Treinar o hábito de delegar, revisar e aprovar, adaptado à área de cada aluno.",
+          "Ensinar segurança com casos reais e avaliar a turma com rubrica de 4 níveis."
+        ]
+      },
+      {
+        "t": "Parte do Profissional 2030",
+        "itens": [
+          "Este curso faz parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a>. Cada formação terá certificação INEMA; detalhes em breve.",
+          "Pré-requisito recomendado (não obrigatório): <a href=\"https://inematds.github.io/prof2030-base/\">Base comum</a>.",
+          "Outras formações: <a href=\"https://inematds.github.io/prof2030-consultor/\">Consultor</a> · <a href=\"https://inematds.github.io/prof2030-auditor/\">Auditor</a> · <a href=\"https://inematds.github.io/prof2030-mentor/\">Mentor</a> · <a href=\"https://inematds.github.io/prof2030-treinador/\">Treinador</a>.",
+          "Empresa usada nos exercícios: <a href=\"https://inematds.github.io/prof2030-lab/\">Laboratório Horizonte Distribuidora</a>."
+        ]
+      }
+    ]
+  },
+  "ui": {
+    "pular": "Pular para o conteúdo",
+    "aulas": "Aulas",
+    "concluido": "concluído",
+    "aula": "Aula",
+    "nesta_aula": "Nesta aula, você vai aprender:",
+    "objetivo": "Objetivo:",
+    "proxima_aula": "Próxima aula",
+    "aula_anterior": "Aula anterior",
+    "voltar_inicio": "Voltar ao início do curso",
+    "marcar_concluida": "Marcar aula como concluída",
+    "dg_dica": "Clique em cada bloco do diagrama para ver o que ele faz.",
+    "copiar": "Copiar",
+    "copiado": "Copiado",
+    "selo_simulacao": "Simulação: exemplo ilustrativo",
+    "selo_real": "Exemplo do repositório",
+    "pronto_quando": "Pronto quando:",
+    "fiz": "Fiz este exercício",
+    "video_pagina": "Página do vídeo com roteiro",
+    "pergunta": "Pergunta",
+    "de": "de",
+    "cert_tag": "competência",
+    "correto": "Correto",
+    "errado": "Não é essa",
+    "quiz_aguarda": "Escolha uma alternativa. A explicação aparece depois da sua tentativa.",
+    "proxima_pergunta": "Próxima pergunta",
+    "quiz_ver": "Ver resultado",
+    "quiz_fim": "Teste concluído",
+    "quiz_total": "Você acertou {a} de {n}. Acertando todas, a aula é marcada como concluída.",
+    "aparencia": "Aparência",
+    "tamanho_texto": "Tamanho do texto",
+    "tema": "Tema",
+    "tema_escuro": "Escuro",
+    "tema_papel": "Papel claro",
+    "role_dica": "Role a página: cada etapa abaixo acende a sua parte do diagrama.",
+    "pre_requisito": "requer",
+    "ver_aula": "Ver a aula",
+    "mapa_dica": "Clique num exercício para ver o que fazer e o \"pronto quando\".",
+    "etapas": "Etapas",
+    "exercicios": "exercícios",
+    "rever": "Rever:",
+    "revisar_erradas": "Revisar as erradas",
+    "refazer": "Refazer o teste",
+    "h_semana": "h por semana",
+    "data_inicio": "Data de início",
+    "ritmo": "Tempo disponível",
+    "gerar_plano": "Gerar meu plano",
+    "baixar_md": "Baixar plano.md",
+    "baixar_ics": "Baixar para o calendário (.ics)",
+    "ind_estudo": "Estudo (aulas)",
+    "ind_pratica": "Prática declarada",
+    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovação vem na prova da certificação.",
+    "estudo": {
+      "titulo": "Seu estudo",
+      "continuar": "Continuar de onde parei",
+      "comecar": "Começar pela aula 1",
+      "cta_continuar": "Continuar a aula {n}",
+      "hoje": "hoje",
+      "ontem": "ontem",
+      "ha_dias": "há {n} dias",
+      "desempenho": "Desempenho nos testes",
+      "notas": "Minhas anotações",
+      "dados": "Copiar meus dados",
+      "sem_testes": "Nenhum teste feito ainda. O teste fica no fim de cada aula.",
+      "nao_fez": "teste ainda não feito",
+      "ultimo": "Último",
+      "melhor": "Melhor",
+      "tentativas": "tentativas",
+      "tentativa": "tentativa",
+      "tudo_certo": "Acertou tudo no último teste.",
+      "rever": "Para rever",
+      "resposta": "Resposta certa:",
+      "ir_teste": "Refazer o teste",
+      "sem_notas": "Nenhuma anotação ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
+      "so_marcado": "(só marcado)",
+      "marcar": "Marcar",
+      "anotar": "Anotar",
+      "salvar": "Salvar",
+      "apagar": "Apagar marca",
+      "fechar": "Fechar",
+      "nota_ph": "Escreva sua anotação sobre este trecho…",
+      "um_bloco": "Marque dentro de um parágrafo só.",
+      "nao_marca": "Este trecho não pode ser marcado.",
+      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e não apaga nada.",
+      "exportar": "Baixar cópia",
+      "importar": "Carregar cópia",
+      "import_ok": "Cópia carregada ({n} itens). Atualizando a página…",
+      "import_erro": "Arquivo não reconhecido. Nada foi alterado.",
+      "import_outro": "Esta cópia é de outro curso. Nada foi alterado.",
+      "export_ok": "Cópia baixada."
+    },
+    "conv_dica": "Escolha a sua resposta. O comentário aparece logo depois e a conversa segue conforme a escolha.",
+    "conv_voce": "Você",
+    "conv_escolha": "Sua resposta",
+    "conv_boa": "Boa escolha",
+    "conv_meio": "Dá para melhorar",
+    "conv_ruim": "Escolha fraca",
+    "conv_fim": "Fim da conversa",
+    "conv_placar": "Você fez {p} de {m} pontos possíveis.",
+    "conv_licao": "Lição:",
+    "conv_recomecar": "Recomeçar a conversa",
+    "conv_feita": "Seu melhor placar: {p} de {m} pontos."
+  }
+}

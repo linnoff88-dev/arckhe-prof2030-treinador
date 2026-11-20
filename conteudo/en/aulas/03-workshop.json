@@ -1,0 +1,421 @@
+{
+  "slug": "workshop",
+  "num": 3,
+  "menu": "Workshop",
+  "titulo": "1-hour workshop, 4-hour workshop and bootcamp: the same 5-part structure",
+  "titulo_curto": "Workshop 1 h, 4 h, bootcamp",
+  "minutos": 22,
+  "lead": "The format changes, the backbone doesn't. A 1-hour workshop, a 4-hour morning and a 5-session bootcamp follow the same 5 parts: destination, route, flight plan, in-flight service and landing. In this lesson you build the 1-hour script and practice the hardest part: the skeptical participant.",
+  "objetivo": "build the full script for a 1-hour workshop in the 5 parts and know how to stretch it to 4 hours or to a 5-session bootcamp.",
+  "competencias": [
+    "desenhar-workshop-em-5-partes",
+    "escalar-formato-1h-4h-bootcamp",
+    "conduzir-participante-resistente"
+  ],
+  "aprende": [
+    {
+      "t": "The 5 parts of any workshop"
+    },
+    {
+      "t": "How the same backbone becomes 1 h, 4 h or a bootcamp"
+    },
+    {
+      "t": "Room rules: silence, leftovers and hands in pockets"
+    },
+    {
+      "t": "Guiding a skeptical participant in a simulation"
+    }
+  ],
+  "hero_alt": "Workshop room with chairs, a projector, a flipchart, a wall clock and a table with coffee.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The 5 parts",
+      "sub": "It works for 1 hour and for 5 sessions. Click each part.",
+      "nos": [
+        {
+          "icone": "alvo",
+          "titulo": "Destination",
+          "sub": "what the person does afterward",
+          "detalhe": "It's not what you will say: it's what the person will be able to do when they leave. If it doesn't fit in one sentence, the workshop isn't ready. Ex.: reply to a complaint with AI and review in half the time."
+        },
+        {
+          "icone": "seta",
+          "titulo": "Route",
+          "sub": "the map of the room",
+          "detalhe": "Show the path ahead and acknowledge what the room thinks today: \"a lot of people here have already tried it and thought it was just a prettier chat.\" Name the fear in the first few minutes."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Flight plan",
+          "sub": "warn about the hard stretch",
+          "detalhe": "Announce it ahead of time: \"around the halfway point comes a boring part, but a quick one.\" When they're warned, the room can handle it. Put the densest content at the peak of attention, between minutes 20 and 40."
+        },
+        {
+          "icone": "check",
+          "titulo": "In-flight service",
+          "sub": "a delivery every few minutes",
+          "forte": true,
+          "detalhe": "A shortcut, an example, a short practice every few minutes. Attention isn't held up by the promise of a happy ending. This is where the two practice rounds from lesson 1 go."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Landing",
+          "sub": "what to do on Monday",
+          "detalhe": "Recap in 3 points, ask the retrieval questions, collect each person's commitment, and only then open the floor for questions. Ending without a landing leaves the feeling that nothing happened."
+        }
+      ],
+      "legenda": "The destination and the landing are the parts the class remembers. If you run short on time, cut from the middle, never from the landing."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Three formats, the same backbone",
+      "sub": "Choose by the goal, not by the client's open calendar.",
+      "passos": [
+        {
+          "titulo": "1 hour",
+          "sub": "open the door",
+          "texto": [
+            "Good for easing the fear, showing a use that works, and collecting 1 commitment. It doesn't build a habit on its own.",
+            "One real task, two practice rounds, a scheduled follow-up. Class of up to 12 people so there's time to walk the room."
+          ],
+          "exemplo": {
+            "rot": "Destination",
+            "texto": "Leave able to answer 1 type of complaint with AI and review."
+          }
+        },
+        {
+          "titulo": "4 hours",
+          "sub": "a morning",
+          "texto": [
+            "The 5 parts with 3 real tasks from the area instead of 1, a 15-minute break, and a security block with a real case.",
+            "It ends with each person showing 1 result to their colleagues: public recognition teaches that using it is the expected thing."
+          ],
+          "exemplo": {
+            "rot": "Structure",
+            "texto": "0:00 opening · 0:20 task 1 · 1:10 task 2 · 1:50 break · 2:05 security · 2:35 task 3 · 3:30 showcase and commitment · 3:50 landing."
+          }
+        },
+        {
+          "titulo": "Bootcamp",
+          "sub": "5 spaced-out sessions",
+          "texto": [
+            "Five sessions of 1 to 2 hours, one per week. Each follows the 5 parts and opens with retrieval practice from the previous week.",
+            "Sequence: 1 delegate and review · 2 tasks from the area · 3 security · 4 personal project · 5 hands-on test and choosing the champions."
+          ],
+          "exemplo": {
+            "rot": "Why space them out",
+            "texto": "A week between sessions gives people time to use it at work and come back with real cases."
+          }
+        },
+        {
+          "titulo": "Room rules",
+          "sub": "apply to all three",
+          "texto": [
+            "Prepare extra content: two spare blocks in case the room goes quiet, and one block you skip if they talk a lot.",
+            "Ask the question and wait 15 seconds. During practice, hands in your pockets: whoever touches the learner's mouse teaches them to watch, not to do."
+          ],
+          "exemplo": {
+            "rot": "Audience",
+            "texto": "Ask the client up front: is the class required to attend or there voluntarily? Required: open with a demonstration. Voluntary: they want the grounding."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Simulated workshop: the skeptical participant",
+      "sub": "Simulated conversation for practice. A 1-hour workshop with the Horizonte customer service team. Choose what you would say.",
+      "personagem": {
+        "nome": "Sérgio, customer service agent",
+        "papel": "12 years at the company · distrusts AI"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "I've seen this before. AI makes things up. Last week it gave me a delivery date that doesn't exist. Why waste an hour on this?",
+          "opcoes": [
+            {
+              "t": "The new models almost never get it wrong anymore, you can trust them.",
+              "vai": "fim-defensivo",
+              "nota": 0,
+              "comenta": "You defended the tool against his real experience. The whole room heard that Sérgio's mistake doesn't count."
+            },
+            {
+              "t": "You're right: it makes things up. That's why today's lesson is about checking before you send. Can I use your case as an example?",
+              "vai": "caso",
+              "nota": 2,
+              "comenta": "You validated the fact, tied the doubt to the goal of the class, and turned the skeptic into material. He became part of the exercise."
+            },
+            {
+              "t": "Good question, let's leave it for the end.",
+              "vai": "caso",
+              "nota": 1,
+              "comenta": "It's not wrong, but the doubt hangs in the air for the whole class. When the objection is the very topic of the class, use it right away."
+            }
+          ]
+        },
+        "caso": {
+          "cliente": "You can use it. But then I'll spend more time checking than writing it my own way.",
+          "opcoes": [
+            {
+              "t": "Let's measure it: you answer one complaint your way and another with AI plus review. We compare the time and the quality.",
+              "vai": "pratica",
+              "nota": 2,
+              "comenta": "You swapped opinion for experiment. Whatever the result, the room learns to measure before believing."
+            },
+            {
+              "t": "Over time you get faster, trust me.",
+              "vai": "pratica",
+              "nota": 1,
+              "comenta": "It may be true, but it's a promise. With a skeptic, showing is worth more than guaranteeing."
+            },
+            {
+              "t": "Then maybe this use isn't for you.",
+              "vai": "fim-perdeu",
+              "nota": 0,
+              "comenta": "You dismissed the most experienced participant in the room. The curious ones understood that doubt is not welcome."
+            }
+          ]
+        },
+        "pratica": {
+          "cliente": "Look at this: in the reply it offered the customer a 15% discount. We can't give that.",
+          "opcoes": [
+            {
+              "t": "Great catch. Everyone, stop for a minute: Sérgio caught the most expensive mistake of the day. That is reviewing.",
+              "vai": "medo",
+              "nota": 2,
+              "comenta": "Public recognition at the right moment. The error became the best lesson of the day and the skeptic became the reference for review."
+            },
+            {
+              "t": "Delete it and ask again.",
+              "vai": "medo",
+              "nota": 1,
+              "comenta": "It solves the case, but loses the lesson. The class didn't see why checking the discount matters (it's failure F5 of the lab)."
+            },
+            {
+              "t": "That's rare, go ahead.",
+              "vai": "fim-perdeu",
+              "nota": 0,
+              "comenta": "You played down the risk he found. Next time, nobody will point out an error out loud."
+            }
+          ]
+        },
+        "medo": {
+          "cliente": "In the end, the idea is to shrink the team, right?",
+          "opcoes": [
+            {
+              "t": "I don't know what the company will decide and I won't promise anything. What I saw today is that someone needs to check what the AI writes, and you did that better than anyone. About the team's plans, the one who answers is Carlos, the owner.",
+              "vai": "compromisso",
+              "nota": 2,
+              "comenta": "Honest and within your role: you didn't promise what you don't control, you showed his value, and you passed the management question to the person who answers for it."
+            },
+            {
+              "t": "Come on, nobody is going to be laid off.",
+              "vai": "compromisso",
+              "nota": 0,
+              "comenta": "A promise you can't keep. If something changes, your credibility and the training's end together."
+            },
+            {
+              "t": "That's not a topic for this class.",
+              "vai": "compromisso",
+              "nota": 1,
+              "comenta": "It's true, but it sounds like dodging. Acknowledge the fear in one sentence before moving on."
+            }
+          ]
+        },
+        "compromisso": {
+          "cliente": "Okay. So what do I do with this now?",
+          "opcoes": [
+            {
+              "t": "Pick one type of complaint and use the model with review on 10 cases by Friday. Show me 2 on Thursday, in the 15-minute follow-up.",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "A small commitment, countable and dated. It's the start of next week."
+            },
+            {
+              "t": "Use it whenever you want, the material is in your email.",
+              "vai": "fim-morno",
+              "nota": 0,
+              "comenta": "Without a commitment, what was trained disappears in a few days."
+            },
+            {
+              "t": "Want to be the team's AI champion?",
+              "vai": "fim-cedo",
+              "nota": 1,
+              "comenta": "He has the critical eye of a good champion, but the invitation came too early. A champion is chosen after you see use, with the wish stated by the person themselves."
+            }
+          ]
+        },
+        "fim-defensivo": {
+          "fim": true,
+          "titulo": "The room stopped listening",
+          "texto": "By defending the tool, you lost the most experienced participant and taught that doubt gets in the way. The rest of the hour became a demo for a silent room."
+        },
+        "fim-perdeu": {
+          "fim": true,
+          "titulo": "The skeptic left and took the room with him",
+          "texto": "Sérgio tuned out of the class and, the next week, says over coffee that \"that doesn't work.\" The curious ones listen to someone with 12 years at the company, not someone who spent one hour there."
+        },
+        "fim-morno": {
+          "fim": true,
+          "titulo": "Good class, no habit",
+          "texto": "The room liked it and Sérgio changed his mind, but nobody agreed on what to do. In two weeks, customer service is the same as before."
+        },
+        "fim-cedo": {
+          "fim": true,
+          "titulo": "Good candidate, rushed invitation",
+          "texto": "Sérgio distrusts the invitation and pulls back. A champion is chosen with criteria (class 7): use it, show results, and then talk with him and with Carlos."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "The skeptic became the team's reviewer",
+          "texto": "You used his doubt as an exercise, measured instead of promising, acknowledged the catch, and left with a commitment and a date. On Thursday, he brings the 2 cases and is the one who explains to colleagues what to check."
+        }
+      },
+      "licao": "A skeptical participant is class material: validate the fact, turn the doubt into an experiment, acknowledge the catch in public, and don't promise what doesn't depend on you."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The 1-hour script is the centerpiece of your kit (class 8).",
+      "blocos": [
+        {
+          "rot": "1-hour workshop script (5 parts)",
+          "icone": "lista",
+          "conteudo": "WORKSHOP · <topic> · <company> · <date>\nAudience: <roles> · mandatory or voluntary: <which> · up to <n> people\nDESTINATION (1 sentence): after this hour, you will be able to <do what>.\n\n00-05 ROUTE\n- Problem with a company number: <...>\n- What the room thinks today: <...>\n- Fear to name: <...>\n- Flight plan: \"around the 20-minute mark comes the densest part\"\n\n05-20 IN-FLIGHT SERVICE 1 · short demo + round 1\n- Real task: <...>\n- Question for the room (wait 15 s): <...>\n\n20-40 IN-FLIGHT SERVICE 2 · the dense stretch + round 2\n- How to review: <3-item checklist>\n- Redo the task with the feedback from round 1\n\n40-52 IN-FLIGHT SERVICE 3 · applied\n- Risk case from the area (2 min): <...>\n- Whoever found an error shows it to the room\n\n52-60 LANDING\n- 3 questions without looking at the material\n- Commitment: 1 task, 10 cases, by <day>\n- Follow-up: <date> · 15 min\n\nBACKUP (silent room): <block A> / <block B>\nSKIP (talkative room): <block>"
+        },
+        {
+          "rot": "Prompt · prepare answers to objections",
+          "icone": "chat",
+          "conteudo": "I'm going to run a <duration> AI workshop for <area and roles> at <type of company>.\nThe diagnosis showed: <levels and groups>.\n\nList the 5 most likely objections from this class (fear, distrust, lack of time, security, \"I already tried\").\nFor each one:\n1. the sentence as the person would say it;\n2. a short, honest answer, without promising what I don't control\n   (jobs, guaranteed results, \"AI doesn't make mistakes\");\n3. how to turn the objection into a 3-minute exercise."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "The script for this practice goes into the lesson 8 kit.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Full 1-hour script",
+          "min": "40 min",
+          "texto": "Copy the script and fill it in for the Horizonte customer service team (or for your real class), using the diagnosis from lesson 2 and the lesson plan from lesson 1.",
+          "pronto": "all fields are filled in, the blocks add up to 60 minutes, there are 2 practice rounds, and a commitment with a date."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Simulated workshop",
+          "min": "10 min",
+          "texto": "Run the simulated conversation with Sérgio. If you don't reach the top score, read the comments and start over.",
+          "pronto": "you finished with the top score and wrote, for 3 objections from your class, the answer you would give."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The workshop ran 10 minutes late. What do you cut?",
+          "opcoes": [
+            "The landing: questions can go by email",
+            "A middle block planned as \"skip if we run short on time\"",
+            "The second practice round"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "The landing and the practice are what the class takes home. That's why the script already includes a block marked to skip."
+        },
+        {
+          "p": "The client wants \"a 1-hour workshop so the team becomes AI experts.\" What do you say?",
+          "opcoes": [
+            "Accept: it can be done",
+            "Explain that 1 hour opens the door and gathers commitment; habit takes follow-up or a bootcamp",
+            "Turn the request down"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Be honest about what each format delivers. 1 hour removes the fear and shows one use; habit comes with follow-up and spacing."
+        },
+        {
+          "p": "You asked a question and the room went silent for 5 seconds. What do you do?",
+          "opcoes": [
+            "Answer it yourself",
+            "Wait up to about 15 seconds; if no one speaks, move on lightly",
+            "Call on someone by name to answer"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Answering within 3 seconds teaches the room not to answer. Waiting shows the question was real."
+        },
+        {
+          "p": "A participant asks whether AI will cut jobs at the company. Which answer is the most honest?",
+          "opcoes": [
+            "Guarantee that no one will be laid off",
+            "Say you don't control that decision, show the value of the people who review, and point to who answers for team plans",
+            "Say that topic doesn't belong in the class"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Promising what you don't control destroys the training's credibility. Acknowledge the fear and stay in your role."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "5 parts",
+          "texto": "Destination, route, flight plan, in-flight service, and landing."
+        },
+        {
+          "t": "3 formats",
+          "texto": "1 h opens the door, 4 h trains 3 tasks, a bootcamp builds habit over 5 sessions."
+        },
+        {
+          "t": "Room rules",
+          "texto": "Spare prepared, 15 seconds of silence, hands in pockets."
+        },
+        {
+          "t": "The skeptic is material",
+          "texto": "Validate, measure, acknowledge the finding, and don't promise what you don't control."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Mapa do Cliente: track 5, train the client and follow up",
+          "href": "https://inematds.github.io/mapacliente/",
+          "icone": "lista"
+        },
+        {
+          "t": "CAIO: change and adoption inside the company (track 3)",
+          "href": "https://inematds.github.io/caio/",
+          "icone": "camadas"
+        },
+        {
+          "t": "Segunda Opinião: material for a leaders' workshop",
+          "href": "https://inematds.github.io/segunda-opiniao/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Spacing effect: why to space out the sessions (in English)",
+          "href": "https://en.wikipedia.org/wiki/Spacing_effect",
+          "icone": "seta"
+        },
+        {
+          "t": "Laboratório Horizonte: WhatsApp Agent (F5–F7)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

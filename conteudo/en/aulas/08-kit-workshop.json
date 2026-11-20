@@ -1,0 +1,294 @@
+{
+  "slug": "kit-workshop",
+  "num": 8,
+  "menu": "Final kit",
+  "titulo": "Workshop kit for Horizonte and what changed in the market",
+  "titulo_curto": "Final kit and what changed",
+  "minutos": 25,
+  "lead": "Time to put the pieces together. The final project is a 1-hour workshop kit for the support team at Horizonte Distribuidora, where Juliana works: diagnosis, script, exercises with answer key, incident mini-lesson, rubric, and follow-up. You rehearse, record 10 minutes, and evaluate yourself. At the end, you get the dashboard of what changed in the market in October 2026.",
+  "objetivo": "deliver the complete 1-hour workshop kit for Horizonte's support team and give a recorded 10-minute lesson, evaluated with the rubric.",
+  "competencias": [
+    "montar-kit-de-workshop",
+    "conduzir-aula-avaliada",
+    "atualizar-conteudo-pelo-mercado"
+  ],
+  "aprende": [
+    {
+      "t": "The 6 kit files and where each one was made"
+    },
+    {
+      "t": "How to rehearse and score yourself with the trainer rubric"
+    },
+    {
+      "t": "How to ask for a second opinion on the kit"
+    },
+    {
+      "t": "What changed in the market and affects this program"
+    }
+  ],
+  "hero_alt": "Workshop kit organized on a table: folder with script, exercise cards, scoring sheet and headset.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The kit: 6 files",
+      "sub": "Click each piece to see which lesson it comes from.",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Diagnosis",
+          "sub": "lesson 2",
+          "detalhe": "The questionnaire given (or simulated) to the support team, and the readout: how many at each level, active, curious and resistant, shadow AI."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "1-hour script",
+          "sub": "lessons 1 and 3",
+          "forte": true,
+          "detalhe": "The 5 parts with timing, the 5 principles marked, retrieval practice questions, backups and the block to skip."
+        },
+        {
+          "icone": "check",
+          "titulo": "Exercises",
+          "sub": "lessons 4 and 5",
+          "detalhe": "Delegate, review and approve with support cases: a late-delivery complaint, a discount the customer asks for, an order hidden in the message. Each one with an answer key."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Incident",
+          "sub": "lesson 6",
+          "detalhe": "10 minutes on a real case tied to a Horizonte failure, with a rule and a test. Within the hour, use the 2-minute version."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Rubric",
+          "sub": "lesson 7",
+          "detalhe": "4-level rubric (delegate, review, approve, apply) adapted to support, for the hands-on test at the end of the workshop."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Follow up",
+          "sub": "90 days · lesson 7",
+          "detalhe": "Support champion with a backup, a weekly check-in of 15 to 20 minutes, and milestones at 30, 60 and 90 days with the before number."
+        }
+      ],
+      "legenda": "A kit that exists only on paper is not ready yet: the 10-minute recording (step 2 below) shows what to change before the real class."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "From kit to scored lesson",
+      "sub": "Four steps, in this order.",
+      "passos": [
+        {
+          "titulo": "Assemble",
+          "sub": "one folder only",
+          "texto": [
+            "Put the pieces from lessons 1 to 7 into one folder: diagnostico, roteiro, exercicios, incidente, rubrica, acompanhamento. Adapt everything to Horizonte's support work, using the vocabulary of the field.",
+            "Use only fictional lab data. No CPF or phone number, not even made-up ones that look real."
+          ],
+          "exemplo": {
+            "rot": "Workshop destination",
+            "texto": "After this hour, the team answers complaints with AI, reviews with the 4 questions, and knows what only goes out with approval from someone with a name."
+          }
+        },
+        {
+          "titulo": "Rehearse and record",
+          "sub": "10 minutes",
+          "texto": [
+            "Pick the hardest stretch: the opening with the fear named, or the review exercise. Record with your phone, speaking as you would to the class.",
+            "If you can, ask someone to play the skeptical participant, like Sérgio in lesson 3."
+          ],
+          "exemplo": {
+            "rot": "Tip",
+            "texto": "Time it. If the 10-minute stretch ran past 13, the 1-hour script won't fit."
+          }
+        },
+        {
+          "titulo": "Assess",
+          "sub": "trainer rubric",
+          "texto": [
+            "Watch the recording and score yourself on the 5 criteria in the checklist below, from 1 to 4. Note 1 thing to keep and 1 to change.",
+            "Ask AI for a second opinion with the ready-made prompt. It doesn't decide for you: it points out what you may be overlooking."
+          ],
+          "exemplo": {
+            "rot": "Useful feedback",
+            "texto": "Keep: the discount case. Change: I waited only 4 seconds after the question."
+          }
+        },
+        {
+          "titulo": "Adjust and deliver",
+          "sub": "version 1 of the kit",
+          "texto": [
+            "Fix the script with what the recording showed and complete the kit checklist.",
+            "In real life, show the kit to the client (here, Carlos, the owner, with Juliana) before the workshop and agree on the number that will be measured in 30 days."
+          ],
+          "exemplo": {
+            "rot": "Deliverable",
+            "texto": "Folder with 6 files + link to the 10-minute video + completed checklist."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The checklist closes the kit; the prompt gives the second opinion.",
+      "blocos": [
+        {
+          "rot": "Kit checklist + AI trainer rubric",
+          "icone": "lista",
+          "conteudo": "KIT CHECKLIST · 1-hour workshop · customer service · Horizonte Distribuidora\n\nPARTS\n[ ] Diagnostic: questionnaire + reading (levels, groups, shadow AI)\n[ ] 1-hour script in 5 parts, adding up to 60 min, with a buffer and a block to skip\n[ ] The 5 principles marked in the script\n[ ] 3 exercises (delegate, review, approve) with answer key, customer service cases\n[ ] Incident mini-lesson (2-minute version inside the hour) with date and source\n[ ] 4-level rubric adapted to customer service\n[ ] Follow-up plan: champion + backup, weekly check-in, 30/60/90\n[ ] Today's number agreed on to measure in 30 days\n[ ] Fictional data only; no promise of jobs or guaranteed results\n\nAI TRAINER RUBRIC (10-min recording · 1 to 4 each)\n1. Why: did you open with the class's problem, with a number?   ___\n2. Practice: does the class do more than watch?                  ___\n3. Retrieval: did you ask and wait ~15 s?                       ___\n4. Safety: risk with a real case, without alarmism?             ___\n5. Landing: commitment with a date and a follow-up scheduled?   ___\nKeep: <...>   Change: <...>"
+        },
+        {
+          "rot": "Prompt · second opinion on the kit",
+          "icone": "chat",
+          "conteudo": "I'm going to give a 1-hour AI workshop for the customer service team of a\ncleaning products distributor (fictional company, 40 people).\nHere are my script and exercises:\n\"\"\"<paste the script and the exercises>\"\"\"\n\nDo not rewrite the material. Help me think through:\n1. the real situation: what this script promises to deliver in 1 hour;\n2. the options I have for the 2 weakest parts;\n3. the risk of each option (time, skeptical class, safety);\n4. what I might be overlooking about this class;\n5. what to validate with the manager before giving the lesson.\nPoint out any promise I can't keep."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Final project",
+      "sub": "The kit is the deliverable of this program.",
+      "fonte": "Scenario: <a href=\"https://inematds.github.io/prof2030-lab/\">lab company Horizonte Distribuidora</a> (fictional data).",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Complete kit",
+          "min": "2 h",
+          "texto": "Build the folder for the 1-hour workshop kit for the Horizonte Distribuidora customer service team (Juliana), using the lab as the scenario.",
+          "pronto": "all the PARTS lines of the checklist are checked and the 6 files are in the folder."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Graded 10-minute lesson",
+          "min": "45 min",
+          "texto": "Record a 10-minute segment of the workshop, grade it with the AI trainer rubric, and ask for the second opinion with the prompt. Adjust the script.",
+          "pronto": "the video exists, the 5 criteria have scores, there is 1 item to keep and 1 to change, and the script has a version 2 with the change made."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "Why record 10 minutes before giving the workshop?",
+          "opcoes": [
+            "To post on social media",
+            "Because the recording shows what the script on paper hides: timing, silence, and tone",
+            "Because the certification requires a long video"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "On paper, everything fits. Recorded, you see that you waited 4 seconds, that the case took 6 minutes, or that the tone scared people."
+        },
+        {
+          "p": "The kit is ready, but no one agreed on today's number. What is missing?",
+          "opcoes": [
+            "Nothing, the number is found out later",
+            "The baseline: without it, on day 90 there is no result to show",
+            "More exercises"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "Without a before number, no one knows whether the training helped. It's the same flaw as the Horizonte dashboard (F11)."
+        },
+        {
+          "p": "What is the second-opinion prompt for?",
+          "opcoes": [
+            "For the AI to rewrite the whole kit",
+            "To point out weak spots, risks, and what you might be overlooking; you decide",
+            "To generate the rubric"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "A second opinion clarifies, it doesn't decide. The prompt asks it not to rewrite and to point out promises you can't keep."
+        },
+        {
+          "p": "The \"What changed\" panel gets outdated. What do you do with lessons 1 to 7?",
+          "opcoes": [
+            "Redo all of them every quarter",
+            "Keep them: the method doesn't change; you only swap the panel",
+            "Delete the dates"
+          ],
+          "certa": 1,
+          "ref": "texto",
+          "explica": "The method (teaching adults, workshop, cycle, rubric) survives a change of tool. The panel is what changes every quarter."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Program summary",
+      "itens": [
+        {
+          "t": "Teaching adults",
+          "texto": "Why, real problem, practice, retrieval, and next week."
+        },
+        {
+          "t": "Workshop",
+          "texto": "Diagnostic, 5 parts, delegate-review-approve cycle adapted to the area."
+        },
+        {
+          "t": "Security and evaluation",
+          "texto": "A real case without alarmism, a 4-level rubric, a champion, and 90 days."
+        },
+        {
+          "t": "Kit and dashboard",
+          "texto": "Kit tested on video; the market dashboard is updated every quarter."
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "What changed (Oct/2026)",
+      "sub": "Dashboard updated every quarter. The method in lessons 1 to 7 stays; the facts below change.",
+      "paragrafos": [
+        "<b>AI literacy required in the EU (since 02/02/2025).</b> Article 4 of the AI Act requires AI literacy measures for people who use AI at work. It is the most direct argument for selling training. <a href=\"https://artificialintelligenceact.eu/article/4/\">Article 4</a>.",
+        "<b>High risk postponed to 02/12/2027 (agreement of 05/07/2026).</b> The Omnibus package postponed the high-risk rules in Annex III; AI literacy still applies. <a href=\"https://www.gibsondunn.com/eu-ai-act-omnibus-agreement\">Gibson Dunn</a>.",
+        "<b>Agents that deliver finished work (07/09/2026).</b> ChatGPT Work produces documents, spreadsheets, and slides, and works for hours. That is why lesson 4 trains you to delegate, review and approve, not to write prompts. <a href=\"https://channellife.co.nz/story/openai-launches-chatgpt-work-for-workplace-automation\">ChannelLife</a>.",
+        "<b>Exposed AI-built apps (May/2026).</b> About 380 thousand public apps were scanned, and close to 5 thousand held sensitive company data. A ready-made case for lesson 6. <a href=\"https://dpo.hku.hk/news/thousands-of-ai-%E2%80%98vibe-coding%E2%80%99-apps-may-expose-sensitive-medical%2C-business-data\">HKU</a>.",
+        "<b>Agent that acted without authorization (10/09/2026).</b> Anthropic reported models acting on real websites during evaluations, including submitting forms, and cut off live internet access in those tests. <a href=\"https://www.resultsense.com/news/2026-10-12-anthropic-unintended-model-actions-report/\">ResultSense</a>.",
+        "<b>Grok deepfakes under investigation (01/26/2026).</b> The European Commission opened a formal investigation into X under the Digital Services Act. A case for talking about images of real people and voice scams. <a href=\"https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors\">Al Jazeera</a>.",
+        "<b>Brazil: governance trailing adoption (Sep/2026).</b> Only 27% of Brazilian companies say they have mature AI governance, according to Deloitte. Training the team is the first step. <a href=\"https://www.deloitte.com/br/pt/about/press-room/state-of-ai-2026.html\">Deloitte</a>."
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Lab company: Horizonte Distribuidora",
+          "href": "https://inematds.github.io/prof2030-lab/",
+          "icone": "pasta"
+        },
+        {
+          "t": "Professional 2030: the programs and the certification",
+          "href": "https://inematds.github.io/profissional-2030/",
+          "icone": "camadas"
+        },
+        {
+          "t": "Professional 2030 common base",
+          "href": "https://inematds.github.io/prof2030-base/",
+          "icone": "seta"
+        },
+        {
+          "t": "Second Opinion: the 5-part request for clarity",
+          "href": "https://inematds.github.io/segunda-opiniao/",
+          "icone": "usuario"
+        },
+        {
+          "t": "European Commission: questions and answers on AI literacy",
+          "href": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+          "icone": "escudo"
+        },
+        {
+          "t": "Horizonte Lab: Indicators dashboard (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

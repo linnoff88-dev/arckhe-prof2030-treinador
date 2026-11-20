@@ -1,0 +1,277 @@
+{
+  "slug": "diagnostico-turma",
+  "num": 2,
+  "menu": "Diagnosis",
+  "titulo": "AI literacy as a product: diagnose the class and propose the training",
+  "titulo_curto": "Class diagnosis",
+  "minutos": 17,
+  "lead": "Training that works for everyone works for no one. Before you design the workshop, find out what level the class is at, who already uses AI and who is afraid of it. With that in hand, your proposal to the owner stops being \"an AI course\" and becomes AI literacy with a goal and a measure.",
+  "objetivo": "give a diagnostic questionnaire, sort the class into 4 levels and write the training proposal on 1 page.",
+  "competencias": [
+    "diagnosticar-nivel-da-turma",
+    "propor-letramento-em-ia",
+    "identificar-ativos-curiosos-resistentes"
+  ],
+  "aprende": [
+    {
+      "t": "The 4 levels of AI use in a team"
+    },
+    {
+      "t": "The 3 groups of people and the order of attention"
+    },
+    {
+      "t": "Why AI literacy became a requirement and a selling point"
+    },
+    {
+      "t": "Questionnaire and proposal ready to copy"
+    }
+  ],
+  "hero_alt": "Paper questionnaire on a clipboard, a stack of completed sheets and a laptop with a blurred chart.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The 4 levels of AI use",
+      "sub": "The class is almost never at just one level. Click to see what each level needs.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Level 0",
+          "sub": "never used it, or tried it out of curiosity",
+          "detalhe": "Needs to see a use that solves something of their own in 5 minutes, safely. Fear and distrust tend to show up here. Goal for the session: first task done and checked."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Level 1",
+          "sub": "uses the chat for text",
+          "detalhe": "Asks for emails, summaries, corrections. Copies and pastes without checking by any method. Goal: a request with outcome, context and format, and a review before using the result."
+        },
+        {
+          "icone": "check",
+          "titulo": "Level 2",
+          "sub": "delegates and reviews",
+          "forte": true,
+          "detalhe": "Hands over a whole task (document, spreadsheet, analysis) and checks it against criteria. This is the level that changes team productivity and the target of most workshops."
+        },
+        {
+          "icone": "robo",
+          "titulo": "Level 3",
+          "sub": "agent with approval",
+          "detalhe": "Uses or supervises an agent that acts on its own in part of the process, with limits, logging and human approval on the costly decisions. Calls for management training, not just usage training."
+        }
+      ],
+      "legenda": "Design the workshop to take most people up one level, not to the highest level in the room.",
+      "dica": "The 3 groups of people (active, curious, resistant) cut across the levels: there are resistant people at level 2 and curious people at level 0."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "From diagnosis to proposal",
+      "sub": "Four steps, in the week before the workshop.",
+      "passos": [
+        {
+          "titulo": "Give the questionnaire",
+          "sub": "5 minutes, anonymous",
+          "texto": [
+            "Send the questionnaire a week ahead, through an anonymous form. Anonymous gets honest answers about fear and about tools people use on their own.",
+            "Ask the manager to say what it's for: designing the class, not evaluating anyone."
+          ],
+          "exemplo": {
+            "rot": "Invitation",
+            "texto": "It's 10 questions, 5 minutes, no name. It helps the class start from where you are."
+          }
+        },
+        {
+          "titulo": "Classify",
+          "sub": "levels and groups",
+          "texto": [
+            "Count how many people are at each level and split them into three groups: active (already use it and like it), curious (want to, but don't know where to start) and resistant (distrustful or afraid).",
+            "Active ones become allies and examples. Curious ones are the target of the workshop. Resistant ones won't be convinced in month 1: give them space and show them their colleagues' results."
+          ],
+          "exemplo": {
+            "rot": "Reading",
+            "texto": "8 people: 2 at level 0, 4 at level 1, 2 at level 2. Target: move the 4 at level 1 up to level 2."
+          }
+        },
+        {
+          "titulo": "Find the shadow AI",
+          "sub": "what is already in use",
+          "texto": [
+            "One question in the questionnaire reveals tools the team uses without IT knowing. This is not to punish: it's a map of risk and of real interest.",
+            "At Horizonte, the inventory found 4 tools like this (lab failure F12)."
+          ],
+          "exemplo": {
+            "rot": "Question",
+            "texto": "What AI tools have you already used at work, even on your own?"
+          }
+        },
+        {
+          "titulo": "Write the proposal",
+          "sub": "1 page",
+          "texto": [
+            "The proposal states the goal as a behavior (\"answer a complaint with AI and review\"), the format, what the team leaves able to do, and how we will measure in 30 days.",
+            "No promise of gains you haven't measured. State today's number and agree to measure again."
+          ],
+          "exemplo": {
+            "rot": "Goal",
+            "texto": "In 30 days, 6 of the 8 people in customer service use the response template with review in at least 10 cases per week."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Why AI literacy became an argument",
+      "paragrafos": [
+        "In the European Union, Article 4 of the AI Act requires those who provide or use AI systems to ensure a sufficient level of AI literacy among their staff. This rule has applied since 02/02/2025, even with the postponement of the high-risk rules to 02/12/2027.",
+        "In Brazil there is no equivalent obligation in force, but the pressure is the same: Deloitte (State of AI in the Enterprise 2026) shows that only 27% of Brazilian companies say they have mature AI governance. Training the team is the first step of that governance, and it is an honest argument for the owner."
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "Questionnaire for the class and proposal for the person who hires you.",
+      "blocos": [
+        {
+          "rot": "Class diagnostic questionnaire (anonymous)",
+          "icone": "lista",
+          "conteudo": "CLASS DIAGNOSTIC · <empresa> · <área> · 5 minutes, no name\n\n1. How often do you use AI at work?\n   ( ) never ( ) I've tried it ( ) every week ( ) every day\n2. For what? (check all that apply)\n   ( ) text/email ( ) summary ( ) spreadsheet/analysis ( ) customer service ( ) other: ___\n3. What AI tools have you already used at work, even on your own? ___\n4. Have you ever handed a whole task to AI and reviewed it afterward? ( ) yes ( ) no\n5. Before using an AI answer, what do you check? ___\n6. Have you ever pasted customer data (name, CPF, phone number) into an AI? ( ) yes ( ) no ( ) I don't know\n7. From 1 to 5, how much do you trust AI answers? ___\n8. From 1 to 5, how worried are you about AI changing your job? ___\n9. Which task of your week would you most like to do faster? ___\n10. What would make this class worth it for you? ___\n\nREADING (for the trainer)\n- Level 0: Q1 never/tried and Q4 no\n- Level 1: Q1 week/day and Q4 no\n- Level 2: Q4 yes and Q5 with a clear criterion\n- Level 3: uses an agent that acts on its own (Q2/Q3)\n- Groups: Q7 and Q8 high + high use = active; low use + clear Q10 = curious; Q8 high + Q7 low = resistant\n- Q3 and Q6 = risk map (shadow AI, personal data)"
+        },
+        {
+          "rot": "1-page training proposal",
+          "icone": "arquivo",
+          "conteudo": "AI LITERACY PROPOSAL · <empresa> · <área>\n\nWHY NOW\n- Diagnostic: <n> people · level 0: <n> · level 1: <n> · level 2: <n> · level 3: <n>\n- Risk found: <e.g.: customer data pasted into an unapproved tool>\n\nGOAL (behavior, in 30 days)\n- <how many people> doing <task> with AI and review, <frequency>\n\nFORMAT\n- <1 h workshop | 4 h | bootcamp in 5 sessions>\n- Class of up to <n> people · material from their own area\n\nWHAT THE TEAM LEAVES ABLE TO DO\n1. <...>\n2. <...>\n3. <...>\n\nHOW WE WILL MEASURE\n- Before: <today's number> · After 30 days: <same number>\n- 4-level rubric in the hands-on test\n\nWHAT IS NOT INCLUDED\n- System deployment, legal opinion, technical audit\n\nFOLLOW-UP\n- Internal champion: <name> · weekly 15-min check-in for <n> weeks"
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Use a real class or the Horizonte customer service team.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Diagnostic ready",
+          "min": "20 min",
+          "texto": "Copy the questionnaire, replace <empresa> and <área> and adjust question 9 with real tasks from the area. If you have a class, run it. If not, answer as if you were 3 different people at Horizonte (Juliana, a new attendant and a skeptical attendant).",
+          "pronto": "the questionnaire is ready to send and you classified at least 3 answers by level and group, with the reasoning for each."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · 1-page proposal",
+          "min": "20 min",
+          "texto": "Fill in the proposal with the result of the diagnostic. The goal has to be a behavior someone can count in 30 days.",
+          "pronto": "the proposal fits on 1 page, has a goal as a behavior, today's number and what is not included."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The diagnostic showed 2 people at level 0, 4 at level 1 and 2 at level 2. Which level do you design the workshop for?",
+          "opcoes": [
+            "Level 3, to pull the class up",
+            "To move the 4 at level 1 up to level 2",
+            "Level 0, so nobody is left behind"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Design it so most people move up one level. Those at level 2 become helpers in the practice; those at level 0 get an entry exercise."
+        },
+        {
+          "p": "One person marked worry 5 and trust 1. What do you do in month 1?",
+          "opcoes": [
+            "Keep pushing until they change their mind",
+            "Give them space, name the fear in class and let their colleagues' results speak",
+            "Take the person out of the training"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Resistant people don't change under pressure. Time spent convincing the resistant is time taken from the curious, who are the target."
+        },
+        {
+          "p": "What does the AI Act's literacy rule require of a company that uses AI in the EU?",
+          "opcoes": [
+            "Official certification for each employee",
+            "Measures to ensure a sufficient level of AI literacy among the team",
+            "Nothing until 2027"
+          ],
+          "certa": 1,
+          "ref": "texto",
+          "explica": "Article 4 has applied since 02/02/2025 and asks for AI literacy measures, not a specific certificate. The delay to 2027 applies to the high-risk rules."
+        },
+        {
+          "p": "Which objective works for measuring the training at 30 days?",
+          "opcoes": [
+            "The team will understand AI",
+            "6 of 8 agents use the reply template with review on 10 cases per week",
+            "The team will be more productive"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "A behavior objective can be counted. \"Understand\" and \"more productive\" don't tell you what to observe."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "4 levels",
+          "texto": "Never used it, uses chat, delegates and reviews, agent with approval."
+        },
+        {
+          "t": "3 groups",
+          "texto": "Active users as allies, curious as the target, resistant with room."
+        },
+        {
+          "t": "Anonymous questionnaire",
+          "texto": "10 questions, including shadow AI and customer data."
+        },
+        {
+          "t": "1-page proposal",
+          "texto": "Behavior objective, today's number, and what is not included."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "AI Act, Article 4: AI literacy (text and explanation)",
+          "href": "https://artificialintelligenceact.eu/article/4/",
+          "icone": "escudo"
+        },
+        {
+          "t": "European Commission: questions and answers on AI literacy",
+          "href": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+          "icone": "escudo"
+        },
+        {
+          "t": "Gibson Dunn: the Omnibus agreement and the high-risk delay",
+          "href": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement",
+          "icone": "arquivo"
+        },
+        {
+          "t": "Deloitte Brazil: State of AI in the Enterprise 2026",
+          "href": "https://www.deloitte.com/br/pt/about/press-room/state-of-ai-2026.html",
+          "icone": "grafico"
+        },
+        {
+          "t": "Horizonte Lab: shadow AI inventory (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/",
+          "icone": "pasta"
+        },
+        {
+          "t": "Horizonte Lab: Inventory and shadow AI (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

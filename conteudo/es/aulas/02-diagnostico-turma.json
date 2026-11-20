@@ -1,0 +1,277 @@
+{
+  "slug": "diagnostico-turma",
+  "num": 2,
+  "menu": "Diagnóstico",
+  "titulo": "Alfabetización en IA como producto: diagnosticar al grupo y proponer la capacitación",
+  "titulo_curto": "Diagnóstico del grupo",
+  "minutos": 17,
+  "lead": "Una capacitación que sirve para todos no le sirve a nadie. Antes de diseñar el taller, descubres en qué nivel está el grupo, quién ya usa IA y quién le tiene miedo. Con eso en la mano, la propuesta para el dueño deja de ser \"un curso de IA\" y se convierte en una alfabetización en IA con objetivo y medida.",
+  "objetivo": "aplicar un cuestionario de diagnóstico, clasificar al grupo en 4 niveles y escribir la propuesta de capacitación en 1 página.",
+  "competencias": [
+    "diagnosticar-nivel-da-turma",
+    "propor-letramento-em-ia",
+    "identificar-ativos-curiosos-resistentes"
+  ],
+  "aprende": [
+    {
+      "t": "Los 4 niveles de uso de IA en un equipo"
+    },
+    {
+      "t": "Los 3 grupos de personas y el orden de atención"
+    },
+    {
+      "t": "Por qué la alfabetización en IA se volvió una exigencia y un argumento"
+    },
+    {
+      "t": "Cuestionario y propuesta listos para copiar"
+    }
+  ],
+  "hero_alt": "Cuestionario en papel sobre una tablilla, pila de hojas completadas y laptop con un gráfico desenfocado.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Los 4 niveles de uso de IA",
+      "sub": "El grupo casi nunca está en un solo nivel. Haz clic para ver lo que necesita cada nivel.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Nivel 0",
+          "sub": "nunca la usó o la usó por curiosidad",
+          "detalhe": "Necesita ver un uso que resuelva algo suyo en 5 minutos, con seguridad. Aquí suelen aparecer el miedo y la desconfianza. Objetivo de la clase: primera tarea hecha y verificada."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Nivel 1",
+          "sub": "usa el chat para texto",
+          "detalhe": "Pide correos, resúmenes, correcciones. Copia y pega sin verificar con método. Objetivo: pedido con resultado, contexto y formato, y revisión antes de usar."
+        },
+        {
+          "icone": "check",
+          "titulo": "Nivel 2",
+          "sub": "delega y revisa",
+          "forte": true,
+          "detalhe": "Entrega una tarea completa (documento, hoja de cálculo, análisis) y la verifica con criterio. Es el nivel que cambia la productividad del equipo y el objetivo de la mayoría de los talleres."
+        },
+        {
+          "icone": "robo",
+          "titulo": "Nivel 3",
+          "sub": "agente con aprobación",
+          "detalhe": "Usa o supervisa un agente que actúa solo en parte del proceso, con límites, registro y aprobación humana en las decisiones costosas. Pide formación de gestión, no solo de uso."
+        }
+      ],
+      "legenda": "Diseña el taller para llevar a la mayoría un nivel más arriba, no al nivel más alto de la sala.",
+      "dica": "Los 3 grupos de personas (activos, curiosos, resistentes) cruzan los niveles: hay resistentes en el nivel 2 y curiosos en el nivel 0."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Del diagnóstico a la propuesta",
+      "sub": "Cuatro pasos, en una semana antes del taller.",
+      "passos": [
+        {
+          "titulo": "Aplicar el cuestionario",
+          "sub": "5 minutos, anónimo",
+          "texto": [
+            "Envía el cuestionario una semana antes, por formulario anónimo. Lo anónimo da respuestas honestas sobre el miedo y sobre las herramientas que usan por su cuenta.",
+            "Pídele al gestor que diga para qué sirve: diseñar la clase, no evaluar a nadie."
+          ],
+          "exemplo": {
+            "rot": "Invitación",
+            "texto": "Son 10 preguntas, 5 minutos, sin nombre. Sirve para que la clase empiece desde el punto en que están ustedes."
+          }
+        },
+        {
+          "titulo": "Clasificar",
+          "sub": "niveles y grupos",
+          "texto": [
+            "Cuenta cuántos hay en cada nivel y separa tres grupos: activos (ya usan y les gusta), curiosos (quieren, pero no saben por dónde empezar) y resistentes (desconfían o temen).",
+            "Los activos se vuelven aliados y ejemplos. Los curiosos son el objetivo del taller. Los resistentes no se convencen en el mes 1: dales espacio y muestra el resultado de sus colegas."
+          ],
+          "exemplo": {
+            "rot": "Lectura",
+            "texto": "8 personas: 2 en el nivel 0, 4 en el nivel 1, 2 en el nivel 2. Objetivo: llevar a los 4 del nivel 1 al nivel 2."
+          }
+        },
+        {
+          "titulo": "Encontrar la IA en la sombra",
+          "sub": "lo que ya está en uso",
+          "texto": [
+            "Una pregunta del cuestionario revela herramientas que el equipo usa sin que TI lo sepa. Esto no es para castigar: es el mapa del riesgo y del interés real.",
+            "En Horizonte, el inventario encontró 4 herramientas así (falla F12 del laboratorio)."
+          ],
+          "exemplo": {
+            "rot": "Pregunta",
+            "texto": "¿Qué herramientas de IA has usado en el trabajo, aunque haya sido por tu cuenta?"
+          }
+        },
+        {
+          "titulo": "Escribir la propuesta",
+          "sub": "1 página",
+          "texto": [
+            "La propuesta dice el objetivo en términos de comportamiento (\"responder un reclamo con IA y revisión\"), el formato, lo que el equipo sale haciendo y cómo vamos a medir a los 30 días.",
+            "Sin promesas de ganancia que no hayas medido. Di el número de hoy y acuerden medir de nuevo."
+          ],
+          "exemplo": {
+            "rot": "Objetivo",
+            "texto": "En 30 días, 6 de las 8 personas de atención al cliente usan el modelo de respuesta con revisión en al menos 10 casos por semana."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por qué la alfabetización en IA se volvió un argumento",
+      "paragrafos": [
+        "En la Unión Europea, el artículo 4 del AI Act obliga a quien provee o usa sistemas de IA a garantizar un nivel suficiente de alfabetización en IA de su equipo. Esta regla rige desde el 02/02/2025, aun con el aplazamiento de las reglas de alto riesgo para el 02/12/2027.",
+        "En Brasil no hay una obligación equivalente en vigor, pero la presión es la misma: Deloitte (State of AI in the Enterprise 2026) muestra que solo el 27% de las empresas brasileñas dicen tener una gobernanza de IA madura. Capacitar al equipo es el primer paso de esa gobernanza, y es un argumento honesto para el dueño."
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "Cuestionario para el grupo y propuesta para quien contrata.",
+      "blocos": [
+        {
+          "rot": "Cuestionario de diagnóstico del grupo (anónimo)",
+          "icone": "lista",
+          "conteudo": "DIAGNÓSTICO DE GRUPO · <empresa> · <área> · 5 minutos, sin nombre\n\n1. ¿Con qué frecuencia usas IA en el trabajo?\n   ( ) nunca ( ) ya probé ( ) toda semana ( ) todos los días\n2. ¿Para qué? (marca todas)\n   ( ) texto/correo ( ) resumen ( ) planilla/análisis ( ) atención al cliente ( ) otro: ___\n3. ¿Qué herramientas de IA has usado en el trabajo, aunque haya sido por tu cuenta? ___\n4. ¿Alguna vez le entregaste una tarea completa a la IA y la revisaste después? ( ) sí ( ) no\n5. Antes de usar una respuesta de la IA, ¿qué verificas? ___\n6. ¿Alguna vez pegaste datos de un cliente (nombre, CPF, teléfono) en una IA? ( ) sí ( ) no ( ) no sé\n7. Del 1 al 5, ¿cuánto confías en las respuestas de la IA? ___\n8. Del 1 al 5, ¿cuánto te preocupa que la IA cambie tu trabajo? ___\n9. ¿Qué tarea de tu semana te gustaría hacer más rápido? ___\n10. ¿Qué haría que esta clase valiera la pena para ti? ___\n\nLECTURA (para el formador)\n- Nivel 0: P1 nunca/probé y P4 no\n- Nivel 1: P1 semana/día y P4 no\n- Nivel 2: P4 sí y P5 con criterio claro\n- Nivel 3: usa un agente que actúa solo (P2/P3)\n- Grupos: P7 y P8 altos + uso alto = activo; uso bajo + P10 claro = curioso; P8 alto + P7 bajo = resistente\n- P3 y P6 = mapa de riesgo (IA en la sombra, datos personales)"
+        },
+        {
+          "rot": "Propuesta de capacitación en 1 página",
+          "icone": "arquivo",
+          "conteudo": "PROPUESTA DE ALFABETIZACIÓN EN IA · <empresa> · <área>\n\nPOR QUÉ AHORA\n- Diagnóstico: <n> personas · nivel 0: <n> · nivel 1: <n> · nivel 2: <n> · nivel 3: <n>\n- Riesgo encontrado: <ej.: datos de clientes pegados en una herramienta no aprobada>\n\nOBJETIVO (comportamiento, en 30 días)\n- <cuántas personas> haciendo <tarea> con IA y revisión, <frecuencia>\n\nFORMATO\n- <taller de 1 h | 4 h | bootcamp en 5 encuentros>\n- Grupo de hasta <n> personas · material del propio área\n\nLO QUE EL EQUIPO SALE HACIENDO\n1. <...>\n2. <...>\n3. <...>\n\nCÓMO VAMOS A MEDIR\n- Antes: <número de hoy> · Después de 30 días: <mismo número>\n- Rúbrica de 4 niveles en la prueba práctica\n\nLO QUE NO ESTÁ INCLUIDO\n- Implantación de sistemas, dictamen jurídico, auditoría técnica\n\nSEGUIMIENTO\n- Referente interno: <nombre> · reunión semanal de 15 min durante <n> semanas"
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Usa un grupo real o el equipo de atención al cliente de Horizonte.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Diagnóstico listo",
+          "min": "20 min",
+          "texto": "Copia el cuestionario, cambia <empresa> y <área> y ajusta la pregunta 9 con tareas reales del área. Si tienes un grupo, aplícalo. Si no, responde como si fueran 3 personas distintas de Horizonte (Juliana, una asistente nueva y una asistente escéptica).",
+          "pronto": "el cuestionario está listo para enviar y clasificaste al menos 3 respuestas por nivel y grupo, con la justificación de cada una."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Propuesta de 1 página",
+          "min": "20 min",
+          "texto": "Completa la propuesta con el resultado del diagnóstico. El objetivo tiene que ser un comportamiento que alguien pueda contar en 30 días.",
+          "pronto": "la propuesta cabe en 1 página, tiene objetivo en términos de comportamiento, el número de hoy y lo que no está incluido."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El diagnóstico mostró 2 personas en el nivel 0, 4 en el nivel 1 y 2 en el nivel 2. ¿Para qué nivel diseñas el taller?",
+          "opcoes": [
+            "Nivel 3, para impulsar al grupo",
+            "Para llevar a los 4 del nivel 1 al nivel 2",
+            "Nivel 0, para que nadie se quede atrás"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Diseña para que la mayoría suba un nivel. Los del nivel 2 se vuelven ayudantes en la práctica; los del nivel 0 reciben un ejercicio de entrada."
+        },
+        {
+          "p": "Una persona marcó preocupación 5 y confianza 1. ¿Qué hacer en el mes 1?",
+          "opcoes": [
+            "Insistir hasta que cambie de opinión",
+            "Darle espacio, nombrar el miedo en la clase y dejar que el resultado de sus colegas hable",
+            "Sacar a la persona del entrenamiento"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Quien se resiste no se convierte por presión. El tiempo que gastas convenciendo a quien se resiste es tiempo que le quitas a los curiosos, que son el objetivo."
+        },
+        {
+          "p": "¿Qué exige la regla de alfabetización en IA del AI Act a una empresa que usa IA en la UE?",
+          "opcoes": [
+            "Certificación oficial de cada empleado",
+            "Medidas para garantizar un nivel suficiente de alfabetización en IA del equipo",
+            "Nada hasta 2027"
+          ],
+          "certa": 1,
+          "ref": "texto",
+          "explica": "El artículo 4 rige desde el 02/02/2025 y pide medidas de alfabetización, no un certificado específico. El aplazamiento a 2027 corresponde a las reglas de alto riesgo."
+        },
+        {
+          "p": "¿Qué objetivo sirve para medir el entrenamiento en 30 días?",
+          "opcoes": [
+            "El equipo va a entender la IA",
+            "6 de 8 agentes de atención usan la plantilla de respuesta con revisión en 10 casos por semana",
+            "El equipo va a ser más productivo"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Un objetivo de comportamiento se puede contar. \"Entender\" y \"más productivo\" no dicen qué observar."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "4 niveles",
+          "texto": "Nunca la usó, usa el chat, delega y revisa, agente con aprobación."
+        },
+        {
+          "t": "3 grupos",
+          "texto": "Activos como aliados, curiosos como objetivo, resistentes con espacio."
+        },
+        {
+          "t": "Cuestionario anónimo",
+          "texto": "10 preguntas, incluidas la IA en la sombra y los datos de clientes."
+        },
+        {
+          "t": "Propuesta en 1 página",
+          "texto": "Objetivo de comportamiento, número de hoy y lo que no está incluido."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "AI Act, artículo 4: alfabetización en IA (texto y explicación)",
+          "href": "https://artificialintelligenceact.eu/article/4/",
+          "icone": "escudo"
+        },
+        {
+          "t": "Comisión Europea: preguntas y respuestas sobre alfabetización en IA",
+          "href": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+          "icone": "escudo"
+        },
+        {
+          "t": "Gibson Dunn: acuerdo del Omnibus y el aplazamiento del alto riesgo",
+          "href": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement",
+          "icone": "arquivo"
+        },
+        {
+          "t": "Deloitte Brasil: State of AI in the Enterprise 2026",
+          "href": "https://www.deloitte.com/br/pt/about/press-room/state-of-ai-2026.html",
+          "icone": "grafico"
+        },
+        {
+          "t": "Laboratorio Horizonte: inventario de IA en la sombra (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/",
+          "icone": "pasta"
+        },
+        {
+          "t": "Laboratorio Horizonte: Inventario e IA en la sombra (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

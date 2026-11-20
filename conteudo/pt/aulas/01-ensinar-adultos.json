@@ -1,0 +1,127 @@
+{
+  "slug": "ensinar-adultos",
+  "num": 1,
+  "menu": "Adultos",
+  "titulo": "Ensinar adultos: os 5 princípios que fazem a turma usar na segunda-feira",
+  "titulo_curto": "Ensinar adultos",
+  "minutos": 18,
+  "lead": "Adulto não aprende IA assistindo palestra. Ele aprende quando vê o porquê, trabalha num problema dele, pratica com retorno, tenta lembrar sem olhar e usa de novo na semana seguinte. Esta aula transforma isso em 5 princípios e num plano de aula que você reusa em todo workshop.",
+  "objetivo": "planejar uma aula de IA para adultos com os 5 princípios marcados: porquê, problema real, prática, recuperação e próxima semana.",
+  "competencias": ["aplicar-principios-aprendizagem-adultos", "planejar-aula-pratica", "usar-recuperacao-e-espacamento"],
+  "aprende": [
+    {"t": "Os 5 princípios e de onde vem cada um"},
+    {"t": "Por que palestra de IA não muda o trabalho de ninguém"},
+    {"t": "Como trocar exemplo genérico por tarefa do próprio aluno"},
+    {"t": "Um plano de aula pronto para copiar"}
+  ],
+  "hero_alt": "Adultos numa mesa de trabalho fazendo um exercício prático em notebooks, um mostrando a tela ao colega.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Os 5 princípios, na ordem da aula",
+      "sub": "Cada bloco é um momento da sua aula. Clique para ver o que fazer.",
+      "nos": [
+        {"icone": "alvo", "titulo": "Porquê", "sub": "antes do como",
+         "detalhe": "Adulto pergunta \"para que serve isso no meu trabalho?\" antes de prestar atenção. Abra com o problema que a turma já sente (fila de mensagens, relatório que toma a tarde) e só depois mostre a ferramenta. Vem da teoria de aprendizagem de adultos de Malcolm Knowles: a necessidade de saber."},
+        {"icone": "pasta", "titulo": "Problema real", "sub": "do trabalho do aluno", "forte": true,
+         "detalhe": "O exercício usa a tarefa que a pessoa faz toda semana, não um exemplo de livro. A Juliana, do atendimento, treina com uma reclamação de cliente; a Patrícia, do comercial, com uma proposta. A experiência do aluno é o material da aula."},
+        {"icone": "check", "titulo": "Prática", "sub": "com retorno na hora",
+         "detalhe": "Prática deliberada: uma tarefa um pouco acima do que a pessoa já faz, com retorno imediato e uma segunda tentativa. Mostrar 10 recursos vale menos que fazer 1 tarefa duas vezes, a segunda melhor que a primeira."},
+        {"icone": "memoria", "titulo": "Recuperação", "sub": "puxar da memória",
+         "detalhe": "Pergunte antes de reexplicar. Tentar lembrar (mesmo errando) fixa mais do que reler: é o efeito de teste, medido em laboratório e em sala. Um teste de 3 perguntas no fim vale mais que um resumo lido em voz alta."},
+        {"icone": "calendario", "titulo": "Próxima semana", "sub": "espaçar e aplicar",
+         "detalhe": "O que não é usado em 7 dias some. Termine com um compromisso (1 tarefa real na semana) e volte ao assunto alguns dias depois, com um exercício curto. Espaçar a revisão rende mais que concentrar tudo num dia."}
+      ],
+      "legenda": "Porquê e problema real prendem a atenção; prática, recuperação e próxima semana fazem o hábito ficar.",
+      "dica": "Se só der tempo para um princípio, fique com o problema real: é o que mais muda o resultado de um workshop de IA."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Os 5 princípios na sala",
+      "sub": "O que muda no seu jeito de dar aula. Clique em cada aba.",
+      "passos": [
+        {"titulo": "Porquê", "sub": "os primeiros 5 minutos",
+         "texto": ["Comece pelo custo do problema, com número da própria empresa: \"quantas mensagens ficam sem resposta depois das 18h?\".", "Nomeie o medo cedo (\"isso vai me substituir?\") e diga com calma o que a aula muda e o que não muda."],
+         "exemplo": {"rot": "Abertura", "texto": "Hoje vocês vão sair respondendo reclamação em metade do tempo, sem perder o controle do que vai para o cliente."}},
+        {"titulo": "Problema real", "sub": "a tarefa do aluno",
+         "texto": ["Peça antes da aula: \"traga um texto, planilha ou mensagem que você usou esta semana\" (sem dado pessoal de cliente).", "Sem material do aluno, use a empresa-laboratório, com o vocabulário do setor: pedido, rota, nota fiscal, troca."],
+         "exemplo": {"rot": "Troca", "texto": "Em vez de \"escreva um poema sobre IA\", use \"resuma as 5 reclamações de ontem e diga qual pede ação hoje\"."}},
+        {"titulo": "Prática e recuperação", "sub": "o meio da aula",
+         "texto": ["Rodada 1: a pessoa faz sozinha. Você circula e não toca no mouse de ninguém. Rodada 2: refaz com o retorno que recebeu.", "Antes de cada bloco novo, pergunte o que ficou do anterior. Espere 15 segundos pela resposta."],
+         "exemplo": {"rot": "Pergunta", "texto": "Sem olhar o slide: quais são as 3 coisas que vocês conferem antes de mandar a resposta para o cliente?"}},
+        {"titulo": "Próxima semana", "sub": "o fim da aula",
+         "texto": ["Cada pessoa escreve 1 tarefa que vai fazer com IA nos próximos 7 dias e com quem vai mostrar o resultado.", "Agende um retorno curto (15 minutos, alguns dias depois) com 2 perguntas de recuperação e os casos da semana."],
+         "exemplo": {"rot": "Compromisso", "texto": "Até sexta, vou usar o modelo de resposta em 10 reclamações e mostrar 2 delas para a Juliana."}}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "O plano de aula é o seu molde para todas as aulas desta formação.",
+      "blocos": [
+        {"rot": "Plano de aula com os 5 princípios", "icone": "lista",
+         "conteudo": "PLANO DE AULA · <tema> · <turma> · <duração>\nObjetivo (verbo + o que a pessoa consegue fazer depois):\n<...>\n\n[1] PORQUÊ (até 5 min)\n- Problema que a turma já sente: <...>\n- Número da empresa que mostra o custo: <...>\n- Medo a nomear: <...>\n\n[2] PROBLEMA REAL\n- Material do aluno pedido antes: <...>\n- Reserva (empresa-laboratório): <...>\n\n[3] PRÁTICA (rodada 1 e rodada 2)\n- Tarefa: <...>\n- Como a pessoa sabe que acertou: <...>\n- Retorno que eu dou entre as rodadas: <...>\n\n[4] RECUPERAÇÃO\n- 3 perguntas sem olhar o material: <...> / <...> / <...>\n\n[5] PRÓXIMA SEMANA\n- Compromisso de cada um: 1 tarefa em 7 dias\n- Retorno marcado: <data> · 15 min\n\nCONFERÊNCIA FINAL\n[ ] os 5 princípios aparecem acima\n[ ] mais tempo de prática do que de fala\n[ ] nenhum dado pessoal real de cliente no exercício"},
+        {"rot": "Prompt · adaptar o exercício à turma", "icone": "chat",
+         "conteudo": "Vou dar uma aula de IA para <área e cargos> de uma <tipo de empresa e porte>.\nTarefas que eles fazem toda semana: <liste 3 a 5>.\n\nCrie 3 exercícios práticos de 10 minutos, um por tarefa, com:\n1. o pedido que o aluno faz à IA (com resultado esperado e formato);\n2. o que ele deve conferir na resposta antes de usar;\n3. como ele sabe que acertou (pronto quando).\nUse o vocabulário real da área. Não use dados pessoais reais.\nNão invente números da empresa: deixe <número> onde eu devo preencher."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Faça com uma aula que você realmente vai dar.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Plano de 1 aula", "min": "30 min",
+         "texto": "Copie o plano de aula e preencha para uma aula de 30 a 60 minutos sobre um uso de IA no trabalho de uma turma que você conhece (ou para a equipe de atendimento da Horizonte Distribuidora).",
+         "pronto": "o plano está salvo e cada um dos 5 princípios tem uma linha preenchida e marcada; a prática ocupa mais tempo que a explicação."},
+        {"id": "e2", "titulo": "2 · Troca de exemplo", "min": "10 min",
+         "texto": "Pegue um exemplo genérico que você costuma usar (\"peça um poema\", \"pergunte a capital da França\") e troque por uma tarefa real da área da turma, usando o prompt de adaptação.",
+         "pronto": "você tem 1 exercício novo com pedido, o que conferir e um \"pronto quando\" que a própria pessoa consegue verificar."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {"p": "A turma está dispersa nos primeiros minutos. Qual princípio faltou?",
+         "opcoes": ["Recuperação", "Porquê: a turma não viu o problema dela antes da ferramenta", "Próxima semana"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "Adulto presta atenção quando enxerga para que serve. Abrir pela ferramenta (\"hoje vamos ver o recurso X\") é o erro comum; abra pelo custo do problema, com número da empresa."},
+        {"p": "Você tem 60 minutos. Qual distribuição segue os princípios?",
+         "opcoes": ["45 min de demonstração e 15 de perguntas", "15 min de contexto e 45 de prática em duas rodadas, com recuperação no meio", "60 min de demonstração bem feita"],
+         "certa": 1, "ref": "passos",
+         "explica": "Prática deliberada pede fazer, receber retorno e refazer. Demonstração longa dá a sensação de aprender, mas ninguém sai fazendo."},
+        {"p": "No fim da aula, o que fixa mais o conteúdo?",
+         "opcoes": ["Reler os slides em voz alta", "Três perguntas respondidas sem olhar o material", "Mandar o PDF por e-mail"],
+         "certa": 1, "ref": "diagrama",
+         "explica": "Tentar lembrar, mesmo errando, fixa mais do que reler (efeito de teste). O PDF ajuda depois, mas não substitui a recuperação."},
+        {"p": "Por que pedir ao aluno um material do trabalho dele antes da aula?",
+         "opcoes": ["Para ter exemplos mais bonitos", "Porque o problema real do aluno é o que faz o uso continuar depois da aula", "Para coletar dados da empresa"],
+         "certa": 1, "ref": "passos",
+         "explica": "Exercício na tarefa real vira hábito; exemplo de livro fica na sala. Cuidado: peça material sem dado pessoal de cliente."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Porquê e problema real", "texto": "Abra pelo custo que a turma sente e use a tarefa dela no exercício."},
+        {"t": "Prática em duas rodadas", "texto": "Fazer, receber retorno e refazer vale mais que ver dez recursos."},
+        {"t": "Recuperação", "texto": "Pergunte antes de reexplicar; teste curto no fim."},
+        {"t": "Próxima semana", "texto": "Compromisso de 1 tarefa e retorno marcado alguns dias depois."}
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir além",
+      "links": [
+        {"t": "Andragogia e os princípios de Malcolm Knowles (Wikipedia, em inglês)", "href": "https://en.wikipedia.org/wiki/Andragogy", "icone": "seta"},
+        {"t": "Prática deliberada (Wikipedia, em inglês)", "href": "https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice", "icone": "seta"},
+        {"t": "Efeito de teste: lembrar fixa mais que reler (Wikipedia, em inglês)", "href": "https://en.wikipedia.org/wiki/Testing_effect", "icone": "seta"},
+        {"t": "Efeito de espaçamento (Wikipedia, em inglês)", "href": "https://en.wikipedia.org/wiki/Spacing_effect", "icone": "seta"},
+        {"t": "Merrill (2002): First Principles of Instruction", "href": "https://doi.org/10.1007/BF02505024", "icone": "arquivo"},
+        {"t": "Retrieval Practice: guias de recuperação para professores", "href": "https://www.retrievalpractice.org/", "icone": "seta"}
+      ]
+    }
+  ]
+}

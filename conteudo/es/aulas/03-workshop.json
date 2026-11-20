@@ -1,0 +1,421 @@
+{
+  "slug": "workshop",
+  "num": 3,
+  "menu": "Taller",
+  "titulo": "Taller de 1 hora, de 4 horas y bootcamp: la misma estructura en 5 partes",
+  "titulo_curto": "Taller de 1 h, 4 h, bootcamp",
+  "minutos": 22,
+  "lead": "El formato cambia, la columna vertebral no. Un taller de 1 hora, una mañana de 4 horas y un bootcamp de 5 encuentros siguen las mismas 5 partes: destino, camino, plan de vuelo, servicio a bordo y aterrizaje. En esta clase armas el guion de 1 hora y practicas la parte más difícil: el participante escéptico.",
+  "objetivo": "armar el guion completo de un taller de 1 hora en las 5 partes y saber extenderlo a 4 horas o a un bootcamp de 5 encuentros.",
+  "competencias": [
+    "desenhar-workshop-em-5-partes",
+    "escalar-formato-1h-4h-bootcamp",
+    "conduzir-participante-resistente"
+  ],
+  "aprende": [
+    {
+      "t": "Las 5 partes de cualquier taller"
+    },
+    {
+      "t": "Cómo la misma columna vertebral se vuelve 1 h, 4 h o bootcamp"
+    },
+    {
+      "t": "Reglas de sala: silencio, sobra y manos en los bolsillos"
+    },
+    {
+      "t": "Conducir a un participante escéptico en una simulación"
+    }
+  ],
+  "hero_alt": "Sala de taller con sillas, proyector, rotafolio, reloj de pared y mesa con café.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las 5 partes",
+      "sub": "Vale para 1 hora y para 5 encuentros. Haz clic en cada parte.",
+      "nos": [
+        {
+          "icone": "alvo",
+          "titulo": "Destino",
+          "sub": "lo que la persona hace después",
+          "detalhe": "No es lo que vas a decir: es lo que la persona va a poder hacer cuando salga. Si no cabe en una frase, el taller no está listo. Ej.: responder un reclamo con IA y revisión en la mitad del tiempo."
+        },
+        {
+          "icone": "seta",
+          "titulo": "Camino",
+          "sub": "el mapa del grupo",
+          "detalhe": "Muestra el recorrido y reconoce lo que el grupo piensa hoy: \"mucha gente aquí ya lo probó y pensó que era solo un chat más bonito\". Nombra el miedo en los primeros minutos."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Plan de vuelo",
+          "sub": "avisar del tramo difícil",
+          "detalhe": "Anúncialo antes: \"hacia la mitad viene una parte aburrida, pero rápida\". Si se les avisa, el grupo aguanta. Pon el contenido más denso en el pico de atención, entre los minutos 20 y 40."
+        },
+        {
+          "icone": "check",
+          "titulo": "Servicio a bordo",
+          "sub": "una entrega cada pocos minutos",
+          "forte": true,
+          "detalhe": "Un atajo, un ejemplo, una práctica corta cada pocos minutos. La atención no se sostiene con la promesa de un final feliz. Aquí entran las dos rondas de práctica de la clase 1."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Aterrizaje",
+          "sub": "qué hacer el lunes",
+          "detalhe": "Recapitula en 3 puntos, haz las preguntas de práctica de recuperación, recoge el compromiso de cada persona y solo entonces abre el espacio para dudas. Terminar sin aterrizaje deja la sensación de que no pasó nada."
+        }
+      ],
+      "legenda": "El destino y el aterrizaje son lo que el grupo recuerda. Si falta tiempo, recorta del medio, nunca del aterrizaje."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Tres formatos, la misma columna vertebral",
+      "sub": "Elige según el objetivo, no según la agenda libre del cliente.",
+      "passos": [
+        {
+          "titulo": "1 hora",
+          "sub": "abrir la puerta",
+          "texto": [
+            "Sirve para quitar el miedo, mostrar un uso que funciona y recoger 1 compromiso. No forma el hábito por sí solo.",
+            "Una tarea real, dos rondas de práctica, seguimiento programado. Grupo de hasta 12 personas para que haya tiempo de circular."
+          ],
+          "exemplo": {
+            "rot": "Destino",
+            "texto": "Salir respondiendo 1 tipo de reclamo con IA y revisión."
+          }
+        },
+        {
+          "titulo": "4 horas",
+          "sub": "una mañana",
+          "texto": [
+            "Las 5 partes con 3 tareas reales del área en lugar de 1, una pausa de 15 minutos y un bloque de seguridad con un caso real.",
+            "Termina con cada persona mostrando 1 resultado a sus compañeros: el reconocimiento público enseña que usar la IA es lo esperado."
+          ],
+          "exemplo": {
+            "rot": "Estructura",
+            "texto": "0:00 apertura · 0:20 tarea 1 · 1:10 tarea 2 · 1:50 pausa · 2:05 seguridad · 2:35 tarea 3 · 3:30 muestra y compromiso · 3:50 aterrizaje."
+          }
+        },
+        {
+          "titulo": "Bootcamp",
+          "sub": "5 encuentros espaciados",
+          "texto": [
+            "Cinco encuentros de 1 a 2 horas, uno por semana. Cada uno sigue las 5 partes y abre con la práctica de recuperación de la semana anterior.",
+            "Secuencia: 1 delegar y revisar · 2 tareas del área · 3 seguridad · 4 proyecto personal · 5 prueba práctica y elección de los referentes."
+          ],
+          "exemplo": {
+            "rot": "Por qué espaciar",
+            "texto": "Una semana entre encuentros da tiempo de usarlo en el trabajo y volver con casos reales."
+          }
+        },
+        {
+          "titulo": "Reglas del aula",
+          "sub": "valen para los tres",
+          "texto": [
+            "Prepara contenido de sobra: dos bloques de reserva si el grupo se queda callado y un bloque que te saltas si habla mucho.",
+            "Haz la pregunta y espera 15 segundos. En la práctica, manos en los bolsillos: quien toca el mouse del alumno enseña a mirar, no a hacer."
+          ],
+          "exemplo": {
+            "rot": "Audiencia",
+            "texto": "Pregunta antes a quien contrata: ¿el grupo está obligado o es voluntario? Obligado: abre con una demostración. Voluntario: quiere fundamento."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Taller simulado: el participante escéptico",
+      "sub": "Conversación simulada para practicar. Taller de 1 hora con el equipo de atención de Horizonte. Elige lo que tú dirías.",
+      "personagem": {
+        "nome": "Sérgio, agente de atención",
+        "papel": "12 años en la empresa · desconfía de la IA"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "Ya lo vi. La IA inventa cosas. La semana pasada me dio un plazo de entrega que no existe. ¿Para qué perder una hora con esto?",
+          "opcoes": [
+            {
+              "t": "Los modelos nuevos casi ya no fallan, puedes confiar.",
+              "vai": "fim-defensivo",
+              "nota": 0,
+              "comenta": "Defendiste la herramienta contra la experiencia real de él. Todo el grupo escuchó que el error de Sérgio no cuenta."
+            },
+            {
+              "t": "Tienes razón: inventa. Por eso la clase de hoy es sobre verificar antes de enviar. ¿Puedo usar tu caso como ejemplo?",
+              "vai": "caso",
+              "nota": 2,
+              "comenta": "Validaste el hecho, conectaste la duda con el destino de la clase y convertiste al escéptico en material. Pasó a ser parte del ejercicio."
+            },
+            {
+              "t": "Buena pregunta, la dejamos para el final.",
+              "vai": "caso",
+              "nota": 1,
+              "comenta": "No está mal, pero la duda queda en el aire toda la clase. Cuando la objeción es el tema mismo de la clase, úsala de inmediato."
+            }
+          ]
+        },
+        "caso": {
+          "cliente": "Puedes usarla. Pero así tardo más revisando que escribiendo a mi manera.",
+          "opcoes": [
+            {
+              "t": "Vamos a medir: tú respondes un reclamo a tu manera y otro con la IA más revisión. Comparamos el tiempo y la calidad.",
+              "vai": "pratica",
+              "nota": 2,
+              "comenta": "Cambiaste opinión por experimento. Sea cual sea el resultado, la sala aprende a medir antes de creer."
+            },
+            {
+              "t": "Con el tiempo te vuelves más rápido, confía en mí.",
+              "vai": "pratica",
+              "nota": 1,
+              "comenta": "Puede ser verdad, pero es una promesa. Con un escéptico, mostrar vale más que garantizar."
+            },
+            {
+              "t": "Entonces quizás este uso no sea para ti.",
+              "vai": "fim-perdeu",
+              "nota": 0,
+              "comenta": "Descartaste al participante más experimentado de la sala. Los curiosos entendieron que la duda no es bienvenida."
+            }
+          ]
+        },
+        "pratica": {
+          "cliente": "Mira: en la respuesta ofreció un 15% de descuento al cliente. Nosotros no podemos dar eso.",
+          "opcoes": [
+            {
+              "t": "Excelente hallazgo. Chicos, paren un minuto: Sérgio detectó el error más caro del día. Eso es revisar.",
+              "vai": "medo",
+              "nota": 2,
+              "comenta": "Reconocimiento público en el momento justo. El error se convirtió en la mejor lección del día y el escéptico pasó a ser un referente de revisión."
+            },
+            {
+              "t": "Bórralo y pídelo de nuevo.",
+              "vai": "medo",
+              "nota": 1,
+              "comenta": "Resuelve el caso, pero pierde la lección. El grupo no vio por qué importa revisar el descuento (es la falla F5 del laboratorio)."
+            },
+            {
+              "t": "Eso es raro, puedes seguir.",
+              "vai": "fim-perdeu",
+              "nota": 0,
+              "comenta": "Minimizaste el riesgo que él encontró. La próxima vez, nadie va a señalar un error en voz alta."
+            }
+          ]
+        },
+        "medo": {
+          "cliente": "Al final, la idea es reducir el equipo, ¿no?",
+          "opcoes": [
+            {
+              "t": "No sé qué va a decidir la empresa y no voy a prometer nada. Lo que vi hoy es que alguien tiene que revisar lo que escribe la IA, y tú lo hiciste mejor que todos. Sobre los planes del equipo, quien responde es Carlos, el dueño.",
+              "vai": "compromisso",
+              "nota": 2,
+              "comenta": "Honesto y en tu rol: no prometiste lo que no controlas, mostraste su valor y pasaste la pregunta de gestión a quien responde por ella."
+            },
+            {
+              "t": "Ni pienses, nadie va a ser despedido.",
+              "vai": "compromisso",
+              "nota": 0,
+              "comenta": "Una promesa que no puedes cumplir. Si algo cambia, tu credibilidad y la de la formación se acaban juntas."
+            },
+            {
+              "t": "Ese no es tema de esta clase.",
+              "vai": "compromisso",
+              "nota": 1,
+              "comenta": "Es verdad, pero suena a evasiva. Reconoce el miedo en una frase antes de seguir."
+            }
+          ]
+        },
+        "compromisso": {
+          "cliente": "Bueno. ¿Y ahora qué hago con esto?",
+          "opcoes": [
+            {
+              "t": "Elige un tipo de reclamo y usa el modelo con revisión en 10 casos hasta el viernes. Me muestras 2 el jueves, en el seguimiento de 15 minutos.",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "Compromiso pequeño, medible y con fecha. Es el comienzo de la próxima semana."
+            },
+            {
+              "t": "Úsalo cuando quieras, el material está en el correo.",
+              "vai": "fim-morno",
+              "nota": 0,
+              "comenta": "Sin compromiso, lo que se entrenó desaparece en pocos días."
+            },
+            {
+              "t": "¿Quieres ser el referente de IA del equipo?",
+              "vai": "fim-cedo",
+              "nota": 1,
+              "comenta": "Tiene la mirada crítica de un buen referente, pero la invitación llegó temprano. El referente se elige después de ver el uso, con la voluntad expresada por la propia persona."
+            }
+          ]
+        },
+        "fim-defensivo": {
+          "fim": true,
+          "titulo": "La sala dejó de escuchar",
+          "texto": "Al defender la herramienta, perdiste al participante más experimentado y enseñaste que la duda estorba. El resto de la hora se convirtió en una demostración para una sala callada."
+        },
+        "fim-perdeu": {
+          "fim": true,
+          "titulo": "El escéptico se fue y se llevó a la sala",
+          "texto": "Sérgio se desconectó de la clase y, la semana siguiente, dice en el café que \"eso no funciona\". Los curiosos escuchan a quien lleva 12 años en la empresa, no a quien pasó una hora allí."
+        },
+        "fim-morno": {
+          "fim": true,
+          "titulo": "Buena clase, ningún hábito",
+          "texto": "A la sala le gustó y Sérgio cambió de opinión, pero nadie acordó qué hacer. En dos semanas, la atención al cliente está igual que antes."
+        },
+        "fim-cedo": {
+          "fim": true,
+          "titulo": "Buen candidato, invitación apresurada",
+          "texto": "Sérgio desconfía de la invitación y se echa atrás. El referente se elige con criterio (clase 7): usa, muestra resultados y luego conversa con él y con Carlos."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "El escéptico se convirtió en el revisor del equipo",
+          "texto": "Usaste su duda como ejercicio, mediste en lugar de prometer, reconociste el hallazgo y saliste con compromiso y fecha. El jueves, él trae los 2 casos y es quien explica a sus colegas qué revisar."
+        }
+      },
+      "licao": "El participante escéptico es material de clase: valida el hecho, convierte la duda en experimento, reconoce el hallazgo en público y no prometas lo que no depende de ti."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "El guion de 1 hora es la pieza central de tu kit (clase 8).",
+      "blocos": [
+        {
+          "rot": "Guion de taller de 1 hora (5 partes)",
+          "icone": "lista",
+          "conteudo": "TALLER · <tema> · <empresa> · <fecha>\nAudiencia: <cargos> · obligatoria o voluntaria: <cuál> · hasta <n> personas\nDESTINO (1 frase): después de esta hora, ustedes van a poder <hacer qué>.\n\n00-05 CAMINHO\n- Problema con número de la empresa: <...>\n- Lo que la sala piensa hoy: <...>\n- Miedo a nombrar: <...>\n- Plan de vuelo: \"alrededor de los 20 minutos viene la parte más densa\"\n\n05-20 SERVIÇO DE BORDO 1 · demostración corta + ronda 1\n- Tarea real: <...>\n- Pregunta para la sala (esperar 15 s): <...>\n\n20-40 SERVIÇO DE BORDO 2 · el tramo denso + ronda 2\n- Cómo revisar: <checklist de 3 ítems>\n- Rehacer la tarea con el retorno de la ronda 1\n\n40-52 SERVIÇO DE BORDO 3 · aplicado\n- Caso de riesgo del área (2 min): <...>\n- Quien encontró un error lo muestra a la sala\n\n52-60 POUSO\n- 3 preguntas sin mirar el material\n- Compromiso: 1 tarea, 10 casos, hasta <día>\n- Seguimiento: <fecha> · 15 min\n\nRESERVA (sala muda): <bloque A> / <bloque B>\nSALTAR (sala habla mucho): <bloque>"
+        },
+        {
+          "rot": "Prompt · preparar respuestas a las objeciones",
+          "icone": "chat",
+          "conteudo": "Voy a dar un taller de IA de <duración> para <área y cargos> de <tipo de empresa>.\nEl diagnóstico mostró: <niveles y grupos>.\n\nEnumera las 5 objeciones más probables de este grupo (miedo, desconfianza, falta de tiempo, seguridad, \"ya lo intenté\").\nPara cada una:\n1. la frase como la diría la persona;\n2. una respuesta corta y honesta, sin prometer lo que yo no controlo\n   (empleo, resultado garantizado, \"la IA no se equivoca\");\n3. cómo convertir la objeción en un ejercicio de 3 minutos."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "El guion de esta práctica entra en el kit de la clase 8.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Guion completo de 1 hora",
+          "min": "40 min",
+          "texto": "Copia el guion y complétalo para el equipo de atención de Horizonte (o para tu grupo real), usando el diagnóstico de la clase 2 y el plan de clase de la clase 1.",
+          "pronto": "todos los campos están completos, la suma de los bloques da 60 minutos, hay 2 rondas de práctica y un compromiso con fecha."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Taller simulado",
+          "min": "10 min",
+          "texto": "Haz la conversación simulada con Sérgio. Si no llegas al puntaje máximo, lee los comentarios y vuelve a empezar.",
+          "pronto": "terminaste con el puntaje máximo y escribiste, para 3 objeciones de tu grupo, la respuesta que darías."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El taller se retrasó 10 minutos. ¿Qué recortas?",
+          "opcoes": [
+            "El aterrizaje: las preguntas pueden ir por correo electrónico",
+            "Un bloque del medio previsto como \"saltar si falta tiempo\"",
+            "La segunda ronda de práctica"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "El aterrizaje y la práctica son lo que el grupo se lleva. Por eso el guion ya trae un bloque marcado para saltar."
+        },
+        {
+          "p": "El cliente quiere \"un taller de 1 hora para que el equipo se vuelva especialista en IA\". ¿Qué le dices?",
+          "opcoes": [
+            "Aceptar: se puede hacer",
+            "Explicar que 1 hora abre la puerta y logra un compromiso; el hábito pide seguimiento o bootcamp",
+            "Rechazar el pedido"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Sé honesto sobre lo que entrega cada formato. 1 hora quita el miedo y muestra un uso; el hábito llega con seguimiento y espaciado."
+        },
+        {
+          "p": "Hiciste una pregunta y la sala quedó en silencio durante 5 segundos. ¿Qué haces?",
+          "opcoes": [
+            "Responder tú mismo",
+            "Esperar hasta unos 15 segundos; si nadie habla, seguir con ligereza",
+            "Llamar a alguien por su nombre para que responda"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Quien responde a los 3 segundos le enseña a la sala a no responder. Esperar muestra que la pregunta era de verdad."
+        },
+        {
+          "p": "Un participante pregunta si la IA va a recortar empleos en la empresa. ¿Cuál es la respuesta más honesta?",
+          "opcoes": [
+            "Garantizar que nadie será despedido",
+            "Decir que no controlas esa decisión, mostrar el valor de quien revisa e indicar quién responde por los planes del equipo",
+            "Decir que ese tema no cabe en la clase"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Prometer lo que no controlas destruye la credibilidad de la capacitación. Reconoce el miedo y quédate en tu rol."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "5 partes",
+          "texto": "Destino, camino, plan de vuelo, servicio a bordo y aterrizaje."
+        },
+        {
+          "t": "3 formatos",
+          "texto": "1 h abre la puerta, 4 h entrena 3 tareas, el bootcamp forma hábito en 5 encuentros."
+        },
+        {
+          "t": "Reglas del aula",
+          "texto": "Sobra preparada, 15 segundos de silencio, manos en los bolsillos."
+        },
+        {
+          "t": "El escéptico es material",
+          "texto": "Valida, mide, reconoce el hallazgo y no prometas lo que no controlas."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Mapa del Cliente: ruta 5, capacitar al cliente y dar seguimiento",
+          "href": "https://inematds.github.io/mapacliente/",
+          "icone": "lista"
+        },
+        {
+          "t": "CAIO: cambio y adopción dentro de la empresa (ruta 3)",
+          "href": "https://inematds.github.io/caio/",
+          "icone": "camadas"
+        },
+        {
+          "t": "Segunda Opinión: material para taller de líderes",
+          "href": "https://inematds.github.io/segunda-opiniao/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Efecto de espaciado: por qué espaciar los encuentros (en inglés)",
+          "href": "https://en.wikipedia.org/wiki/Spacing_effect",
+          "icone": "seta"
+        },
+        {
+          "t": "Laboratorio Horizonte: Agente de WhatsApp (F5–F7)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

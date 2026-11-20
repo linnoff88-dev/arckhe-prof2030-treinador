@@ -1,0 +1,265 @@
+{
+  "slug": "avaliar-turma",
+  "num": 7,
+  "menu": "Assess",
+  "titulo": "Assessing the class: rubric, practical test, internal champions and follow-up",
+  "titulo_curto": "Assessing the class",
+  "minutos": 20,
+  "lead": "\"I really liked it\" on a satisfaction survey doesn't prove anyone learned. You need to see the person doing the work, against a clear standard, and come back weeks later to see whether the habit stuck. This lesson covers the 4-level rubric, the practical test, how to choose the internal champion, and the 30-, 60- and 90-day follow-up plan.",
+  "objetivo": "assess the class with a 4-level rubric and a practical test, choose the internal champion and set up the 90-day follow-up.",
+  "competencias": [
+    "avaliar-com-rubrica",
+    "aplicar-prova-pratica",
+    "escolher-campeao-interno",
+    "planejar-acompanhamento"
+  ],
+  "aprende": [
+    {
+      "t": "The 4 levels of evaluating a training"
+    },
+    {
+      "t": "A 4-level rubric for the delegate, review, approve cycle"
+    },
+    {
+      "t": "Who the internal champion is (and who they are not)"
+    },
+    {
+      "t": "The follow-up ritual that makes the habit stick"
+    }
+  ],
+  "hero_alt": "Evaluation sheets with a four-column grid on the table and, in the background, people talking in pairs.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "What to measure, from easiest to what matters",
+      "sub": "The 4 levels of the Kirkpatrick model. Click each one.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Reaction",
+          "sub": "did they like it?",
+          "detalhe": "A survey at the end of class. Useful for adjusting pace and examples, but it doesn't prove learning. Also ask: \"what will you do differently next week?\"."
+        },
+        {
+          "icone": "check",
+          "titulo": "Learning",
+          "sub": "can they do it?",
+          "detalhe": "A hands-on test at the end of the workshop: one real task, with a planted output to review, scored by the rubric. Watching someone do it is worth more than asking if they understood."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Behavior",
+          "sub": "do they use it at work?",
+          "forte": true,
+          "detalhe": "Weeks later, is the person using the cycle at work? Count it in the usage log and the weekly check-ins. This is where training usually dies, and where the internal champion makes a difference."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Results",
+          "sub": "did the number change?",
+          "detalhe": "Did the number agreed on in the proposal (lesson 2) change? Response time, complaints resolved the same day, rework. Compare it with the number from before; without a baseline, there is no result to show (failure F11)."
+        }
+      ],
+      "legenda": "Almost all training measures only reaction. Yours measures at least learning and behavior.",
+      "dica": "Agree on the level 4 number before the workshop. Afterward, no one remembers what it was."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Test, champion and follow-up",
+      "sub": "Three pieces that turn a class into a habit.",
+      "passos": [
+        {
+          "titulo": "Hands-on test",
+          "sub": "20 minutes, at the end",
+          "texto": [
+            "One task from the area: delegate a request, review an output with 3 planted errors and decide 3 actions (go ahead, approve, block). Same as the lesson 4 exercises, with a new case.",
+            "Score it with the rubric and give back the level with one sentence of feedback. A score without feedback doesn't teach."
+          ],
+          "exemplo": {
+            "rot": "Feedback",
+            "texto": "Level 3 review: you found all 3 errors. To reach level 4, write the rule that would have prevented the wrong discount."
+          }
+        },
+        {
+          "titulo": "Internal champion",
+          "sub": "a person's name, not a job title",
+          "texto": [
+            "This is the person who watches usage every day, gathers questions and brings them to the weekly check-in. A good champion: has been at the company for over a year, has time set aside on their calendar, wants the role (their own words) and has the authority to make adjustments.",
+            "The wrong champion: someone who will leave in a few months, someone who already has too many duties, someone who was assigned without being asked."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Juliana uses the agent and the summaries every day: she's a natural candidate, if she wants the role and has time on her calendar. Or a senior attendant who scored level 3 or 4 on the test."
+          }
+        },
+        {
+          "titulo": "Weekly check-in",
+          "sub": "15 to 20 minutes, fixed time",
+          "texto": [
+            "Same day and time every week. Fixed agenda: the week's numbers, questions from the log, one improvement and the next date.",
+            "A question that comes up 3 times becomes a 3-to-4-minute microvideo or a line in the 1-page guide."
+          ],
+          "exemplo": {
+            "rot": "Agenda",
+            "texto": "5 min numbers · 10 min questions and adjustments · 5 min next week."
+          }
+        },
+        {
+          "titulo": "30, 60, 90 days",
+          "sub": "the end of the follow-up",
+          "texto": [
+            "Day 30: behavior (how many people use the cycle and how often). Day 60: a second short hands-on test, to see who moved up a level. Day 90: results against the number from before and a decision on the next step.",
+            "Recognize in public the people who brought results: people imitate what they see being valued."
+          ],
+          "exemplo": {
+            "rot": "Day 90 decision",
+            "texto": "Keep it, expand it to another area, or fix what didn't stick."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The rubric and the plan go in the lesson 8 kit.",
+      "blocos": [
+        {
+          "rot": "4-level rubric · delegate, review, approve",
+          "icone": "lista",
+          "conteudo": "RUBRIC · <class> · <date>\nLevels: 1 Beginner · 2 Developing · 3 Proficient · 4 Reference\n\nDELEGATE\n1 vague request (\"make a summary\")\n2 states the result, but with no context or format\n3 result + context + format + what is off limits\n4 level 3 + asks for proof (cite the source) and reuses it as a template\n\nREVIEW\n1 doesn't review, or only fixes grammar\n2 finds 1 of the 3 planted errors\n3 finds all 3 errors (fact, rule, personal data)\n4 level 3 + writes the rule that prevents the error next time\n\nAPPROVE AND SECURITY\n1 lets an irreversible action go out without approval\n2 recognizes the high value, but not the injection or the personal data\n3 classifies all 3 actions correctly (go ahead / approve / block)\n4 level 3 + says who approves and what to record\n\nAPPLY AT WORK (day 30)\n1 didn't use it\n2 used it 1 or 2 times\n3 uses it every week on the agreed task\n4 uses it and taught a colleague or created a template for the team\n\nClass goal: most people at level 3 in delegate and review on exam day."
+        },
+        {
+          "rot": "90-day follow-up plan + champion",
+          "icone": "calendario",
+          "conteudo": "FOLLOW-UP · <company> · <area> · start <date>\n\nINTERNAL CHAMPION\n- Name: <...> · time at the company: <...> · time in their schedule: <30 min/day>\n- Accepted the role in their own words? ( ) yes\n- Backup if they leave: <name>\n\nWEEKLY CHECK-IN · <fixed day and time> · 15-20 min\n- 0-5 numbers · 5-15 questions from the log · 15-20 next week\n\nUSE AND QUESTIONS LOG (1 tab)\ndate | person | task | what the AI got wrong | what we did\n- A question that comes up 3 times becomes a micro-video (3-4 min) or a line in the guide\n\nINDICATORS (4 at most)\n1. People using the cycle this week: <n of n>\n2. Cases done with AI and review: <n>\n3. Errors found in review: <n> (a rise at the start is a good sign)\n4. Agreed result number: before <...> · now <...>\n\nMILESTONES\n- Day 30: behavior (\"apply\" rubric)\n- Day 60: short practical exam\n- Day 90: result vs. before · decision: keep / expand / fix"
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Both pieces go into the lesson 8 kit.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Your class rubric",
+          "min": "20 min",
+          "texto": "Adapt the rubric to the area you chose in lesson 5: replace the examples at each level with situations from that area.",
+          "pronto": "each criterion has 4 levels described by something you can observe, with no words like \"good\" or \"satisfactory\"."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Follow-up plan",
+          "min": "20 min",
+          "texto": "Fill in the 90-day plan with a champion (real or from Horizonte), the day and time of the check-in, and the indicators.",
+          "pronto": "the plan has a champion with a backup, a check-in with a day and time, 4 indicators at most, and the 3 milestones with dates."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The survey at the end of the workshop scored 9.5. What does that prove?",
+          "opcoes": [
+            "That the class learned",
+            "That the class liked it; learning shows in the practical exam and in habit, weeks later",
+            "That the company's results will improve"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Reaction is level 1. Liking it is a good sign, but it doesn't show whether people can do it or will use it."
+        },
+        {
+          "p": "On the exam, the person found 2 of the 3 planted errors. Which review level is that?",
+          "opcoes": [
+            "Level 1",
+            "Level 2: developing",
+            "Level 3"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "Level 3 requires all 3 errors. Give the level back with one sentence: which error got through and how to find it."
+        },
+        {
+          "p": "Who is the best internal champion?",
+          "opcoes": [
+            "The intern who is good with computers and leaves in 3 months",
+            "The senior support agent, with set-aside time, who wants the role and scored level 3 on the exam",
+            "Whoever the owner picked without asking"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "A champion must stay, have time in their schedule, and want the role. A champion who leaves takes the knowledge with them, and the project is left orphaned."
+        },
+        {
+          "p": "The same question showed up 3 times in the log. What should you do?",
+          "opcoes": [
+            "Answer again, one by one",
+            "Turn it into a short micro-video or a line in the 1-page guide",
+            "Schedule another full workshop"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "A repeated question is material. Answering one by one doesn't scale; the micro-video answers everyone."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "4 evaluation levels",
+          "texto": "Reaction, learning, behavior, and result. Measure at least the middle ones."
+        },
+        {
+          "t": "4-level rubric",
+          "texto": "Delegate, review, approve, and apply, with observable descriptions."
+        },
+        {
+          "t": "Internal champion",
+          "texto": "A real name, time in their schedule, willingness stated in their own words, a backup defined."
+        },
+        {
+          "t": "Follow-up",
+          "texto": "A fixed weekly check-in and milestones at 30, 60, and 90 days."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Kirkpatrick Partners: the 4-level model",
+          "href": "https://www.kirkpatrickpartners.com/the-kirkpatrick-model/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Customer Map: internal champion and weekly follow-up (track 5)",
+          "href": "https://inematds.github.io/mapacliente/",
+          "icone": "usuario"
+        },
+        {
+          "t": "LOOP-R: measure before and after, with a decision card",
+          "href": "https://inematds.github.io/loop-r/curso/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Testing effect: why the exam also teaches (in English)",
+          "href": "https://en.wikipedia.org/wiki/Testing_effect",
+          "icone": "seta"
+        },
+        {
+          "t": "Horizonte Lab: Indicators dashboard (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

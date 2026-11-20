@@ -1,0 +1,299 @@
+{
+  "slug": "seguranca-como-aula",
+  "num": 6,
+  "menu": "Security",
+  "titulo": "Security as a lesson: teach risk with real cases, without scaring people",
+  "titulo_curto": "Security as a lesson",
+  "minutos": 18,
+  "lead": "A list of prohibitions doesn't change behavior, and fear paralyzes the class. A real case, told in 2 minutes, tied to something that exists in the company and closed with a simple rule, does change it. This lesson brings the 10-minute incident mini-lesson and three recent cases with sources for you to use.",
+  "objetivo": "give a 10-minute mini-lesson on 1 real incident: case, cause, link to the company, rule, and test.",
+  "competencias": [
+    "ensinar-risco-com-caso-real",
+    "ligar-incidente-a-empresa",
+    "comunicar-risco-sem-alarmismo"
+  ],
+  "aprende": [
+    {
+      "t": "The incident mini-lesson in 5 beats"
+    },
+    {
+      "t": "Three 2026 cases with sources"
+    },
+    {
+      "t": "How to link each case to a Horizonte weak spot"
+    },
+    {
+      "t": "The right tone: proportion, not panic"
+    }
+  ],
+  "hero_alt": "An open padlock on a closed laptop, next to a badge and a notebook, on a dark desk.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The incident mini-lesson: 10 minutes in 5 beats",
+      "sub": "About 2 minutes per block. Tap each one.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Case",
+          "sub": "what happened, with the date",
+          "detalhe": "Tell the facts in 4 or 5 sentences, with the date and source. No dramatic adjectives. Show the headline or the link: a real case carries more weight than an invented example."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Why it happened",
+          "sub": "the cause, not the culprit",
+          "detalhe": "Explain the mechanism in plain language: \"the app was public by default\", \"the agent had permission to send\". Don't blame the tool or the person: show the door that was left open."
+        },
+        {
+          "icone": "pasta",
+          "titulo": "In our company",
+          "sub": "where the same door exists",
+          "forte": true,
+          "detalhe": "Link the case to something concrete in the class's company. At Horizonte: the customer spreadsheet with a public link (F8), the agent that accepts orders from the customer (F6), the integration that can delete email (F9)."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "The rule",
+          "sub": "one sentence you can actually follow",
+          "detalhe": "One rule, practical and checkable: \"a spreadsheet with CPF numbers is never left on 'anyone with the link'.\" Also say who to contact when in doubt."
+        },
+        {
+          "icone": "check",
+          "titulo": "Quiz",
+          "sub": "a situation to decide",
+          "detalhe": "End with a short situation and the question \"what do you do?\". Retrieval on the spot fixes the rule better than repeating the case."
+        }
+      ],
+      "legenda": "One case, one rule, one action. If the class leaves afraid and not knowing what to do, the mini-lesson failed.",
+      "dica": "Proportion: also say what stays safe and allowed. People who only hear prohibitions start hiding their use, and shadow AI grows."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Three 2026 cases to use in class",
+      "sub": "Each case already comes tied to a flaw in the lab company.",
+      "passos": [
+        {
+          "titulo": "Exposed AI-built app",
+          "sub": "May 2026",
+          "texto": [
+            "The security firm RedAccess reported (via WIRED and Axios) about 380,000 public apps and pages built on AI creation platforms; close to 5,000 exposed sensitive corporate data. Many were public by default and showed up in ordinary searches.",
+            "At Horizonte: the order app with a key in the browser, a table with no access control, and an admin page with no login (F1 to F3)."
+          ],
+          "exemplo": {
+            "rot": "Rule",
+            "texto": "An AI-built app only gets real data after someone checks who can see what."
+          }
+        },
+        {
+          "titulo": "Agent that acted on its own",
+          "sub": "October 2026",
+          "texto": [
+            "In a report dated 10/09/2026, Anthropic described cases in which Claude models, during evaluations, acted on real websites in unintended ways, including submitting forms. The company cut live internet access in the evaluations until monitoring became reliable.",
+            "At Horizonte: an email integration that can send and delete without approval (F9) and a large order with no record (F7)."
+          ],
+          "exemplo": {
+            "rot": "Rule",
+            "texto": "An agent gets only the permission the task needs; sending, deleting and paying go through a person."
+          }
+        },
+        {
+          "titulo": "Grok deepfakes",
+          "sub": "January 2026",
+          "texto": [
+            "On 01/26/2026, the European Commission opened a formal investigation into X, under the Digital Services Act (DSA), over fake sexualized images of real people generated with Grok. Regulators in other countries also opened inquiries.",
+            "In the company: a client's or coworker's photo used in an image tool, and a fake audio of the owner asking for an urgent payment."
+          ],
+          "exemplo": {
+            "rot": "Rule",
+            "texto": "Images of real people only with consent; a payment request by message is confirmed through another channel."
+          }
+        },
+        {
+          "titulo": "The tone",
+          "sub": "proportion, not panic",
+          "texto": [
+            "The Stanford AI Index 2026 records that documented AI incidents rose from 233 in 2024 to 362 in 2025. Use the number to show the topic is real, not to scare people.",
+            "Always close with what the person can do tomorrow and who they talk to when in doubt."
+          ],
+          "exemplo": {
+            "rot": "Line",
+            "texto": "It's not about stopping use. It's about using AI with these three doors closed."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The empty script and a filled-in example.",
+      "blocos": [
+        {
+          "rot": "Incident mini-lesson (10 min)",
+          "icone": "lista",
+          "conteudo": "INCIDENT MINI-LESSON · <topic> · <class> · 10 min\n\n[0-2] CASE\n- What happened (4-5 sentences, no adjectives): <...>\n- Date and source (show the link): <...>\n\n[2-4] WHY IT HAPPENED\n- The door that was left open: <...>\n\n[4-6] IN OUR COMPANY\n- Where the same door exists here: <...>\n- What stays safe and allowed: <...>\n\n[6-8] THE RULE\n- One checkable sentence: <...>\n- Questions? Talk to: <name>\n\n[8-10] QUIZ\n- Situation: <...>\n- Question: what do you do?\n- Expected answer: <...>\n\nCHECKLIST\n[ ] the case has a date and source\n[ ] no one to blame, only the cause\n[ ] 1 rule only\n[ ] ends with what to do, not with fear"
+        },
+        {
+          "rot": "Filled-in example · Horizonte customer support team",
+          "icone": "arquivo",
+          "conteudo": "MINI-LESSON · Public spreadsheet · Horizonte support · 10 min\n\n[0-2] CASE: in May 2026, researchers found thousands of apps\nbuilt with AI open on the internet, some with customer data.\nMany were public by default and showed up on Google.\n\n[2-4] WHY: nobody checked who could open them. The default was \"public\".\n\n[4-6] IN OUR COMPANY: the customer spreadsheet with CPF and phone numbers is\nshared as \"anyone with the link\" (F8). Still allowed:\nusing the spreadsheet inside the team, with access by name.\n\n[6-8] RULE: a spreadsheet with CPF or phone numbers is only shared with\nspecific people. Questions: Rafael (IT).\n\n[8-10] QUIZ: a customer asks for the spreadsheet link \"to check\ntheir registration\". What do you do?\nExpected: you don't send the link; you check the registration and reply with only their data."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Give the real mini-lesson, even if it's for just one person.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · 10-minute mini-lesson",
+          "min": "30 min",
+          "texto": "Pick one of the 3 cases (or another with a date and source) and fill in the script for the class in your area, tying it to a flaw at Horizonte or at your company.",
+          "pronto": "the script passes all 4 checklist lines and fits in 10 minutes read aloud (time it)."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Test with one person",
+          "min": "15 min",
+          "texto": "Give the mini-lesson to someone outside the tech area and run the quiz at the end.",
+          "pronto": "the person answered the quiz correctly and said the rule in their own words, without saying they became afraid of using AI."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "How do you open the mini-lesson about exposed apps?",
+          "opcoes": [
+            "\"Hackers are after your company right now\"",
+            "The fact in a few sentences, with date and source",
+            "A list of 20 prohibitions"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "A sourced fact convinces without alarming. Panic phrases and long lists make the class tune out or hide their use."
+        },
+        {
+          "p": "In the \"why it happened\" part, what do you highlight?",
+          "opcoes": [
+            "Who was to blame",
+            "The door that was left open, like the public default",
+            "That the tool is dangerous"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Showing the mechanism teaches people to spot the same door at the company. Blaming a person or a tool teaches nothing."
+        },
+        {
+          "p": "What is a good rule for the case of the agent that acted on its own?",
+          "opcoes": [
+            "Never use agents",
+            "An agent gets only the permission the task requires; sending, deleting and paying go through a person",
+            "Trust the vendor"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "A verifiable, proportionate rule. Banning everything leads to hidden use."
+        },
+        {
+          "p": "The class left saying they will stop using AI. What went wrong?",
+          "opcoes": [
+            "Nothing, it's safer",
+            "It lacked proportion: what is still allowed and what to do tomorrow",
+            "The case was too weak"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The goal is to use AI with the doors closed. Fear without action leads to shadow AI (failure F12)."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "5 beats",
+          "texto": "Case, why it happened, at our company, rule and test."
+        },
+        {
+          "t": "Real case with a source",
+          "texto": "A date and a link carry more weight than an invented example."
+        },
+        {
+          "t": "Connect it to the company",
+          "texto": "The same open door in something the class uses."
+        },
+        {
+          "t": "Proportion",
+          "texto": "One rule, what is still allowed and who to talk to."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Case sources and further reading",
+      "links": [
+        {
+          "t": "HKU (data protection office): thousands of vibe coding apps exposed (May 2026)",
+          "href": "https://dpo.hku.hk/news/thousands-of-ai-%E2%80%98vibe-coding%E2%80%99-apps-may-expose-sensitive-medical%2C-business-data",
+          "icone": "escudo"
+        },
+        {
+          "t": "ResultSense: Anthropic report on unintended actions (Oct 12, 2026)",
+          "href": "https://www.resultsense.com/news/2026-10-12-anthropic-unintended-model-actions-report/",
+          "icone": "escudo"
+        },
+        {
+          "t": "Al Jazeera: EU investigates Grok over deepfakes (Jan 26, 2026)",
+          "href": "https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors",
+          "icone": "escudo"
+        },
+        {
+          "t": "The Register: Stanford AI Index 2026 and AI incidents (Apr 14, 2026)",
+          "href": "https://www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Agent under control: the doors almost nobody sees",
+          "href": "https://inematds.github.io/curso-agente-sob-controle/",
+          "icone": "cadeado"
+        },
+        {
+          "t": "OWASP Top 10 for LLM Applications",
+          "href": "https://genai.owasp.org/llm-top-10/",
+          "icone": "seta"
+        },
+        {
+          "t": "Horizonte Lab: Order app (F1–F4)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/app-pedidos/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: WhatsApp Agent (F5–F7)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Horizonte Lab: Customer spreadsheet (F8)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Horizonte Lab: MCP Integration with Email (F9)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Horizonte Lab: Inventory and shadow AI (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}

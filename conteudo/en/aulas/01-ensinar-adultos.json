@@ -1,0 +1,274 @@
+{
+  "slug": "ensinar-adultos",
+  "num": 1,
+  "menu": "Adults",
+  "titulo": "Teaching adults: the 5 principles that make the class use it on Monday",
+  "titulo_curto": "Teaching adults",
+  "minutos": 18,
+  "lead": "Adults don't learn AI by sitting through a lecture. They learn when they see the why, work on a problem of their own, practice with feedback, try to remember without looking, and use it again the following week. This lesson turns that into 5 principles and a lesson plan you can reuse in every workshop.",
+  "objetivo": "plan an AI lesson for adults with the 5 principles marked: why, real problem, practice, retrieval, and next week.",
+  "competencias": [
+    "aplicar-principios-aprendizagem-adultos",
+    "planejar-aula-pratica",
+    "usar-recuperacao-e-espacamento"
+  ],
+  "aprende": [
+    {
+      "t": "The 5 principles and where each one comes from"
+    },
+    {
+      "t": "Why an AI lecture doesn't change anyone's work"
+    },
+    {
+      "t": "How to swap a generic example for the learner's own task"
+    },
+    {
+      "t": "A ready-to-copy lesson plan"
+    }
+  ],
+  "hero_alt": "Adults at a work table doing a hands-on exercise on laptops, one showing the screen to a colleague.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The 5 principles, in lesson order",
+      "sub": "Each block is a moment in your lesson. Click to see what to do.",
+      "nos": [
+        {
+          "icone": "alvo",
+          "titulo": "Why",
+          "sub": "before the how",
+          "detalhe": "Adults ask \"what is this for in my work?\" before they pay attention. Open with the problem the class already feels (a queue of messages, a report that eats the afternoon) and only then show the tool. It comes from Malcolm Knowles' theory of adult learning: the need to know."
+        },
+        {
+          "icone": "pasta",
+          "titulo": "Real problem",
+          "sub": "from the learner's work",
+          "forte": true,
+          "detalhe": "The exercise uses the task the person does every week, not a textbook example. Juliana, in customer service, practices with a customer complaint; Patrícia, in sales, with a proposal. The learner's experience is the material of the lesson."
+        },
+        {
+          "icone": "check",
+          "titulo": "Practice",
+          "sub": "with instant feedback",
+          "detalhe": "Deliberate practice: a task a little above what the person already does, with immediate feedback and a second attempt. Showing 10 features is worth less than doing 1 task twice, with the second better than the first."
+        },
+        {
+          "icone": "memoria",
+          "titulo": "Retrieval",
+          "sub": "pull it from memory",
+          "detalhe": "Ask before you re-explain. Trying to remember (even getting it wrong) fixes more than rereading: it's the testing effect, measured in labs and in classrooms. A 3-question quiz at the end is worth more than a summary read aloud."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Next week",
+          "sub": "space it out and apply it",
+          "detalhe": "What isn't used within 7 days disappears. End with a commitment (1 real task during the week) and come back to the topic a few days later, with a short exercise. Spacing the review pays off more than cramming everything into one day."
+        }
+      ],
+      "legenda": "Why and real problem hold attention; practice, retrieval, and next week make the habit stick.",
+      "dica": "If you only have time for one principle, keep the real problem: it's what changes the outcome of an AI workshop the most."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The 5 principles in the room",
+      "sub": "What changes in how you teach. Click each tab.",
+      "passos": [
+        {
+          "titulo": "Why",
+          "sub": "the first 5 minutes",
+          "texto": [
+            "Start with the cost of the problem, with a number from the company itself: \"how many messages go unanswered after 6 p.m.?\".",
+            "Name the fear early (\"will this replace me?\") and calmly say what the lesson changes and what it doesn't."
+          ],
+          "exemplo": {
+            "rot": "Opening",
+            "texto": "Today you're going to leave able to answer complaints in half the time, without losing control of what goes to the customer."
+          }
+        },
+        {
+          "titulo": "Real problem",
+          "sub": "the learner's task",
+          "texto": [
+            "Ask before the lesson: \"bring a text, spreadsheet, or message you used this week\" (no customer personal data).",
+            "Without learner material, use the lab company, with the industry vocabulary: order, route, invoice, exchange."
+          ],
+          "exemplo": {
+            "rot": "Swap",
+            "texto": "Instead of \"write a poem about AI\", use \"summarize yesterday's 5 complaints and say which one needs action today\"."
+          }
+        },
+        {
+          "titulo": "Practice and retrieval",
+          "sub": "the middle of the lesson",
+          "texto": [
+            "Round 1: the person does it alone. You walk around and don't touch anyone's mouse. Round 2: they redo it with the feedback they received.",
+            "Before each new block, ask what stuck from the previous one. Wait 15 seconds for an answer."
+          ],
+          "exemplo": {
+            "rot": "Question",
+            "texto": "Without looking at the slide: what are the 3 things you check before sending the reply to the customer?"
+          }
+        },
+        {
+          "titulo": "Next week",
+          "sub": "the end of the lesson",
+          "texto": [
+            "Each person writes down 1 task they will do with AI in the next 7 days and who they will show the result to.",
+            "Schedule a short follow-up (15 minutes, a few days later) with 2 retrieval questions and the cases from the week."
+          ],
+          "exemplo": {
+            "rot": "Commitment",
+            "texto": "By Friday, I'll use the reply template on 10 complaints and show 2 of them to Juliana."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The lesson plan is your mold for every lesson in this program.",
+      "blocos": [
+        {
+          "rot": "Lesson plan with the 5 principles",
+          "icone": "lista",
+          "conteudo": "LESSON PLAN · <topic> · <class> · <duration>\nObjective (verb + what the person can do afterward):\n<...>\n\n[1] WHY (up to 5 min)\n- Problem the class already feels: <...>\n- Company number that shows the cost: <...>\n- Fear to name: <...>\n\n[2] REAL PROBLEM\n- Learner material requested beforehand: <...>\n- Backup (lab company): <...>\n\n[3] PRACTICE (round 1 and round 2)\n- Task: <...>\n- How the person knows they got it right: <...>\n- Feedback I give between rounds: <...>\n\n[4] RETRIEVAL\n- 3 questions without looking at the material: <...> / <...> / <...>\n\n[5] NEXT WEEK\n- Each person's commitment: 1 task in 7 days\n- Follow-up scheduled: <date> · 15 min\n\nFINAL CHECK\n[ ] the 5 principles appear above\n[ ] more practice time than talking time\n[ ] no real personal customer data in the exercise"
+        },
+        {
+          "rot": "Prompt · adapt the exercise to the class",
+          "icone": "chat",
+          "conteudo": "I'm going to teach an AI lesson to <area and roles> at a <type and size of company>.\nTasks they do every week: <list 3 to 5>.\n\nCreate 3 hands-on 10-minute exercises, one per task, with:\n1. the request the learner makes to the AI (with expected result and format);\n2. what they should check in the response before using it;\n3. how they know they got it right (done when).\nUse the real vocabulary of the area. Do not use real personal data.\nDon't invent company numbers: leave <number> where I should fill them in."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Do it with a lesson you will actually teach.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · One lesson plan",
+          "min": "30 min",
+          "texto": "Copy the lesson plan and fill it in for a 30- to 60-minute lesson about one use of AI at work for a class you know (or for the customer service team at Horizonte Distribuidora).",
+          "pronto": "the plan is saved and each of the 5 principles has one line filled in and checked; practice takes up more time than explanation."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Swap an example",
+          "min": "10 min",
+          "texto": "Take a generic example you usually use (\"ask for a poem\", \"ask for the capital of France\") and swap it for a real task from the class's area, using the adaptation prompt.",
+          "pronto": "you have 1 new exercise with a request, what to check, and a \"done when\" the person can verify on their own."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The class is distracted in the first few minutes. Which principle was missing?",
+          "opcoes": [
+            "Retrieval",
+            "Why: the class didn't see their own problem before the tool",
+            "Next week"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Adults pay attention when they see what something is for. Opening with the tool (\"today we'll look at feature X\") is the common mistake; open with the cost of the problem, using a company number."
+        },
+        {
+          "p": "You have 60 minutes. Which split follows the principles?",
+          "opcoes": [
+            "45 min of demonstration and 15 of questions",
+            "15 min of context and 45 of practice in two rounds, with retrieval in the middle",
+            "60 min of a well-done demonstration"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Deliberate practice means doing, getting feedback, and redoing. A long demonstration gives the feeling of learning, but nobody leaves able to do it."
+        },
+        {
+          "p": "At the end of the lesson, what best locks in the content?",
+          "opcoes": [
+            "Rereading the slides out loud",
+            "Three questions answered without looking at the material",
+            "Sending the PDF by email"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Trying to remember, even when you get it wrong, locks in more than rereading (the testing effect). The PDF helps later, but it doesn't replace retrieval."
+        },
+        {
+          "p": "Why ask learners for a piece of their own work material before the lesson?",
+          "opcoes": [
+            "To have prettier examples",
+            "Because the learner's real problem is what keeps the use going after the lesson",
+            "To collect company data"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Practice on the real task becomes habit; a textbook example stays in the classroom. Careful: ask for material without customer personal data."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Why and real problem",
+          "texto": "Open with the cost the class feels, and use their own task in the exercise."
+        },
+        {
+          "t": "Practice in two rounds",
+          "texto": "Doing, getting feedback and redoing is worth more than seeing ten features."
+        },
+        {
+          "t": "Retrieval",
+          "texto": "Ask before re-explaining; short quiz at the end."
+        },
+        {
+          "t": "Next week",
+          "texto": "Commitment to 1 task and a follow-up scheduled a few days later."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Andragogy and Malcolm Knowles's principles (Wikipedia, in English)",
+          "href": "https://en.wikipedia.org/wiki/Andragogy",
+          "icone": "seta"
+        },
+        {
+          "t": "Deliberate practice (Wikipedia, in English)",
+          "href": "https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice",
+          "icone": "seta"
+        },
+        {
+          "t": "Testing effect: recalling sticks better than rereading (Wikipedia, in English)",
+          "href": "https://en.wikipedia.org/wiki/Testing_effect",
+          "icone": "seta"
+        },
+        {
+          "t": "Spacing effect (Wikipedia, in English)",
+          "href": "https://en.wikipedia.org/wiki/Spacing_effect",
+          "icone": "seta"
+        },
+        {
+          "t": "Merrill (2002): First Principles of Instruction",
+          "href": "https://doi.org/10.1007/BF02505024",
+          "icone": "arquivo"
+        },
+        {
+          "t": "Retrieval Practice: retrieval guides for teachers",
+          "href": "https://www.retrievalpractice.org/",
+          "icone": "seta"
+        }
+      ]
+    }
+  ]
+}

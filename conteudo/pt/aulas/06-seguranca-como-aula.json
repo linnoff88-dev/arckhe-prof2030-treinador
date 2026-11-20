@@ -1,0 +1,299 @@
+{
+  "slug": "seguranca-como-aula",
+  "num": 6,
+  "menu": "Segurança",
+  "titulo": "Segurança como aula: ensinar risco com casos reais, sem assustar",
+  "titulo_curto": "Segurança como aula",
+  "minutos": 18,
+  "lead": "Lista de proibições não muda comportamento, e medo paralisa a turma. Um caso real, contado em 2 minutos, ligado a algo que existe na empresa e fechado com uma regra simples, muda. Esta aula traz a mini-aula de incidente em 10 minutos e três casos recentes com fonte para você usar.",
+  "objetivo": "dar uma mini-aula de 10 minutos sobre 1 incidente real: caso, causa, ligação com a empresa, regra e teste.",
+  "competencias": [
+    "ensinar-risco-com-caso-real",
+    "ligar-incidente-a-empresa",
+    "comunicar-risco-sem-alarmismo"
+  ],
+  "aprende": [
+    {
+      "t": "A mini-aula de incidente em 5 tempos"
+    },
+    {
+      "t": "Três casos de 2026 com fonte"
+    },
+    {
+      "t": "Como ligar cada caso a uma falha da Horizonte"
+    },
+    {
+      "t": "O tom certo: proporção, não pânico"
+    }
+  ],
+  "hero_alt": "Cadeado aberto sobre um notebook fechado, ao lado de um crachá e de um caderno, em mesa escura.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "A mini-aula de incidente: 10 minutos em 5 tempos",
+      "sub": "Cerca de 2 minutos por bloco. Clique em cada um.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Caso",
+          "sub": "o que aconteceu, com data",
+          "detalhe": "Conte o fato em 4 ou 5 frases, com data e fonte. Sem adjetivo dramático. Mostre a manchete ou o link: caso real tem mais peso que exemplo inventado."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Por que aconteceu",
+          "sub": "a causa, não o culpado",
+          "detalhe": "Explique o mecanismo em linguagem simples: \"o app ficou público por padrão\", \"o agente tinha permissão para enviar\". Não culpe a ferramenta nem a pessoa: mostre a porta que ficou aberta."
+        },
+        {
+          "icone": "pasta",
+          "titulo": "Na nossa empresa",
+          "sub": "onde a mesma porta existe",
+          "forte": true,
+          "detalhe": "Ligue o caso a algo concreto da empresa da turma. Na Horizonte: a planilha de clientes com link público (F8), o agente que aceita ordem do cliente (F6), a integração que pode apagar e-mail (F9)."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "A regra",
+          "sub": "uma frase que dá para cumprir",
+          "detalhe": "Uma regra só, prática e verificável: \"planilha com CPF nunca fica com 'qualquer pessoa com o link'\". Diga também quem procurar quando houver dúvida."
+        },
+        {
+          "icone": "check",
+          "titulo": "Teste",
+          "sub": "uma situação para decidir",
+          "detalhe": "Termine com uma situação curta e a pergunta \"o que você faz?\". Recuperação na hora fixa a regra mais do que repetir o caso."
+        }
+      ],
+      "legenda": "Um caso, uma regra, uma ação. Se a turma sai com medo e sem saber o que fazer, a mini-aula falhou.",
+      "dica": "Proporção: diga também o que continua seguro e permitido. Quem só ouve proibição passa a esconder o uso, e a IA na sombra cresce."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Três casos de 2026 para usar em aula",
+      "sub": "Cada caso já vem ligado a uma falha da empresa-laboratório.",
+      "passos": [
+        {
+          "titulo": "App feito por IA exposto",
+          "sub": "maio de 2026",
+          "texto": [
+            "A empresa de segurança RedAccess relatou (via WIRED e Axios) cerca de 380 mil apps e páginas públicas feitos em plataformas de criação por IA; perto de 5 mil expunham dado corporativo sensível. Muitos estavam públicos por padrão e apareciam em busca comum.",
+            "Na Horizonte: o app de pedidos com chave no navegador, tabela sem controle de acesso e admin sem login (F1 a F3)."
+          ],
+          "exemplo": {
+            "rot": "Regra",
+            "texto": "App feito com IA só recebe dado real depois de alguém conferir quem consegue ver o quê."
+          }
+        },
+        {
+          "titulo": "Agente que agiu sozinho",
+          "sub": "outubro de 2026",
+          "texto": [
+            "Em relatório de 09/10/2026, a Anthropic descreveu casos em que modelos Claude, durante avaliações, agiram em sites reais de forma não pretendida, inclusive enviando formulários. A empresa cortou o acesso à internet ao vivo nas avaliações até o monitoramento ficar confiável.",
+            "Na Horizonte: integração com e-mail que pode enviar e apagar sem aprovação (F9) e pedido grande sem registro (F7)."
+          ],
+          "exemplo": {
+            "rot": "Regra",
+            "texto": "Agente recebe só a permissão que a tarefa pede; enviar, apagar e pagar passam por alguém."
+          }
+        },
+        {
+          "titulo": "Deepfakes do Grok",
+          "sub": "janeiro de 2026",
+          "texto": [
+            "Em 26/01/2026, a Comissão Europeia abriu investigação formal contra o X, pela lei de serviços digitais (DSA), por imagens sexualizadas falsas de pessoas reais geradas com o Grok. Reguladores de outros países também abriram apurações.",
+            "Na empresa: foto de cliente ou de colega usada em ferramenta de imagem, e áudio falso do dono pedindo pagamento urgente."
+          ],
+          "exemplo": {
+            "rot": "Regra",
+            "texto": "Imagem de pessoa real só com consentimento; pedido de pagamento por mensagem se confirma por outro canal."
+          }
+        },
+        {
+          "titulo": "O tom",
+          "sub": "proporção, não pânico",
+          "texto": [
+            "O Stanford AI Index 2026 registra que os incidentes de IA documentados passaram de 233 em 2024 para 362 em 2025. Use o número para mostrar que o tema é real, não para assustar.",
+            "Feche sempre com o que a pessoa pode fazer amanhã e com quem ela fala quando tiver dúvida."
+          ],
+          "exemplo": {
+            "rot": "Frase",
+            "texto": "Não é para parar de usar. É para usar com estas três portas fechadas."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "O roteiro vazio e um exemplo preenchido.",
+      "blocos": [
+        {
+          "rot": "Mini-aula de incidente (10 min)",
+          "icone": "lista",
+          "conteudo": "MINI-AULA DE INCIDENTE · <tema> · <turma> · 10 min\n\n[0-2] CASO\n- O que aconteceu (4-5 frases, sem adjetivo): <...>\n- Data e fonte (mostrar o link): <...>\n\n[2-4] POR QUE ACONTECEU\n- A porta que ficou aberta: <...>\n\n[4-6] NA NOSSA EMPRESA\n- Onde a mesma porta existe aqui: <...>\n- O que continua seguro e permitido: <...>\n\n[6-8] A REGRA\n- Uma frase verificável: <...>\n- Dúvida? Falar com: <nome>\n\n[8-10] TESTE\n- Situação: <...>\n- Pergunta: o que você faz?\n- Resposta esperada: <...>\n\nCONFERÊNCIA\n[ ] o caso tem data e fonte\n[ ] nenhum culpado, só a causa\n[ ] 1 regra só\n[ ] termina com o que fazer, não com medo"
+        },
+        {
+          "rot": "Exemplo preenchido · equipe de atendimento da Horizonte",
+          "icone": "arquivo",
+          "conteudo": "MINI-AULA · Planilha pública · atendimento Horizonte · 10 min\n\n[0-2] CASO: em maio de 2026, pesquisadores acharam milhares de apps\nfeitos com IA abertos na internet, alguns com dado de cliente.\nMuitos estavam públicos por padrão e apareciam no Google.\n\n[2-4] POR QUE: ninguém conferiu quem conseguia abrir. O padrão era \"público\".\n\n[4-6] NA NOSSA EMPRESA: a planilha de clientes com CPF e telefone está\ncompartilhada como \"qualquer pessoa com o link\" (F8). Continua permitido:\nusar a planilha dentro da equipe, com acesso por nome.\n\n[6-8] REGRA: planilha com CPF ou telefone só compartilha com pessoas\nespecíficas. Dúvida: Rafael (TI).\n\n[8-10] TESTE: um cliente pede o link da planilha \"para conferir o\ncadastro dele\". O que você faz?\nEsperado: não envia o link; confere o cadastro e responde só os dados dele."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Dê a mini-aula de verdade, nem que seja para uma pessoa.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Mini-aula de 10 minutos",
+          "min": "30 min",
+          "texto": "Escolha um dos 3 casos (ou outro com data e fonte) e preencha o roteiro para a turma da sua área, ligando a uma falha da Horizonte ou da sua empresa.",
+          "pronto": "o roteiro passa nas 4 linhas da conferência e cabe em 10 minutos lido em voz alta (cronometre)."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Teste com uma pessoa",
+          "min": "15 min",
+          "texto": "Dê a mini-aula para alguém fora da área de tecnologia e faça o teste do fim.",
+          "pronto": "a pessoa respondeu o teste certo e disse a regra com as palavras dela, sem dizer que ficou com medo de usar IA."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {
+          "p": "Como abrir a mini-aula sobre apps expostos?",
+          "opcoes": [
+            "\"Hackers estão atrás da sua empresa agora mesmo\"",
+            "O fato em poucas frases, com data e fonte",
+            "Uma lista de 20 proibições"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Fato com fonte convence sem alarmar. Frase de pânico e lista longa fazem a turma desligar ou esconder o uso."
+        },
+        {
+          "p": "Na parte \"por que aconteceu\", o que você destaca?",
+          "opcoes": [
+            "Quem foi o culpado",
+            "A porta que ficou aberta, como o padrão público",
+            "Que a ferramenta é perigosa"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Mostrar o mecanismo ensina a reconhecer a mesma porta na empresa. Culpar pessoa ou ferramenta não ensina nada."
+        },
+        {
+          "p": "Qual é uma boa regra para o caso do agente que agiu sozinho?",
+          "opcoes": [
+            "Nunca usar agentes",
+            "Agente só com a permissão que a tarefa pede; enviar, apagar e pagar passam por alguém",
+            "Confiar no fornecedor"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Regra verificável e proporcional. Proibir tudo leva ao uso escondido."
+        },
+        {
+          "p": "A turma saiu dizendo que vai parar de usar IA. O que deu errado?",
+          "opcoes": [
+            "Nada, é mais seguro",
+            "Faltou proporção: o que continua permitido e o que fazer amanhã",
+            "O caso era fraco demais"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "O objetivo é usar com as portas fechadas. Medo sem ação leva à IA na sombra (falha F12)."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {
+          "t": "5 tempos",
+          "texto": "Caso, por que aconteceu, na nossa empresa, regra e teste."
+        },
+        {
+          "t": "Caso real com fonte",
+          "texto": "Data e link pesam mais que exemplo inventado."
+        },
+        {
+          "t": "Ligar à empresa",
+          "texto": "A mesma porta aberta em algo que a turma usa."
+        },
+        {
+          "t": "Proporção",
+          "texto": "Uma regra, o que continua permitido e com quem falar."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Fontes dos casos e para ir além",
+      "links": [
+        {
+          "t": "HKU (escritório de proteção de dados): milhares de apps de vibe coding expostos (mai/2026)",
+          "href": "https://dpo.hku.hk/news/thousands-of-ai-%E2%80%98vibe-coding%E2%80%99-apps-may-expose-sensitive-medical%2C-business-data",
+          "icone": "escudo"
+        },
+        {
+          "t": "ResultSense: relatório da Anthropic sobre ações não pretendidas (12/10/2026)",
+          "href": "https://www.resultsense.com/news/2026-10-12-anthropic-unintended-model-actions-report/",
+          "icone": "escudo"
+        },
+        {
+          "t": "Al Jazeera: UE investiga o Grok por deepfakes (26/01/2026)",
+          "href": "https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors",
+          "icone": "escudo"
+        },
+        {
+          "t": "The Register: Stanford AI Index 2026 e os incidentes de IA (14/04/2026)",
+          "href": "https://www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Agente sob controle: as portas que quase ninguém vê",
+          "href": "https://inematds.github.io/curso-agente-sob-controle/",
+          "icone": "cadeado"
+        },
+        {
+          "t": "OWASP Top 10 para aplicações com LLM",
+          "href": "https://genai.owasp.org/llm-top-10/",
+          "icone": "seta"
+        },
+        {
+          "t": "Laboratório Horizonte: App de pedidos (F1–F4)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/app-pedidos/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Agente de WhatsApp (F5–F7)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Planilha de clientes (F8)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Integração MCP com o e-mail (F9)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "icone": "lupa"
+        },
+        {
+          "t": "Laboratório Horizonte: Inventário e IA na sombra (F12)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
+        }
+      ]
+    }
+  ]
+}
