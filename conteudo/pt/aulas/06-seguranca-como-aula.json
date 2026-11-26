@@ -5,8 +5,8 @@
   "titulo": "Segurança como aula: ensinar risco com casos reais, sem assustar",
   "titulo_curto": "Segurança como aula",
   "minutos": 18,
-  "lead": "Lista de proibições não muda comportamento, e medo paralisa a turma. Um caso real, contado em 2 minutos, ligado a algo que existe na empresa e fechado com uma regra simples, muda. Esta aula traz a mini-aula de incidente em 10 minutos e três casos recentes com fonte para você usar.",
-  "objetivo": "dar uma mini-aula de 10 minutos sobre 1 incidente real: caso, causa, ligação com a empresa, regra e teste.",
+  "lead": "Lista de proibições nêo muda comportamento, e medo paralisa a turma. Um caso real, contado em 2 minutos, ligado a algo que existe na empresa e fechado com uma regra simples, muda. Esta aula traz a mini-aula de incidente em 10 minutos e três casos recentes com fonte para você usar.",
+  "objetivo": "dar uma mini-aula de 10 minutos sobre 1 incidente real: caso, causa, ligaçêo com a empresa, regra e teste.",
   "competencias": [
     "ensinar-risco-com-caso-real",
     "ligar-incidente-a-empresa",
@@ -23,7 +23,7 @@
       "t": "Como ligar cada caso a uma falha da Horizonte"
     },
     {
-      "t": "O tom certo: proporção, não pânico"
+      "t": "O tom certo: proporçêo, nêo pânico"
     }
   ],
   "hero_alt": "Cadeado aberto sobre um notebook fechado, ao lado de um crachá e de um caderno, em mesa escura.",
@@ -42,15 +42,15 @@
         {
           "icone": "lupa",
           "titulo": "Por que aconteceu",
-          "sub": "a causa, não o culpado",
-          "detalhe": "Explique o mecanismo em linguagem simples: \"o app ficou público por padrão\", \"o agente tinha permissão para enviar\". Não culpe a ferramenta nem a pessoa: mostre a porta que ficou aberta."
+          "sub": "a causa, nêo o culpado",
+          "detalhe": "Explique o mecanismo em linguagem simples: \"o app ficou público por padrêo\", \"o agente tinha permissêo para enviar\". Nêo culpe a ferramenta nem a pessoa: mostre a porta que ficou aberta."
         },
         {
           "icone": "pasta",
           "titulo": "Na nossa empresa",
           "sub": "onde a mesma porta existe",
           "forte": true,
-          "detalhe": "Ligue o caso a algo concreto da empresa da turma. Na Horizonte: a planilha de clientes com link público (F8), o agente que aceita ordem do cliente (F6), a integração que pode apagar e-mail (F9)."
+          "detalhe": "Ligue o caso a algo concreto da empresa da turma. Na Horizonte: a planilha de clientes com link público (F8), o agente que aceita ordem do cliente (F6), a integraçêo que pode apagar e-mail (F9)."
         },
         {
           "icone": "escudo",
@@ -61,12 +61,12 @@
         {
           "icone": "check",
           "titulo": "Teste",
-          "sub": "uma situação para decidir",
-          "detalhe": "Termine com uma situação curta e a pergunta \"o que você faz?\". Recuperação na hora fixa a regra mais do que repetir o caso."
+          "sub": "uma situaçêo para decidir",
+          "detalhe": "Termine com uma situaçêo curta e a pergunta \"o que você faz?\". Recuperaçêo na hora fixa a regra mais do que repetir o caso."
         }
       ],
-      "legenda": "Um caso, uma regra, uma ação. Se a turma sai com medo e sem saber o que fazer, a mini-aula falhou.",
-      "dica": "Proporção: diga também o que continua seguro e permitido. Quem só ouve proibição passa a esconder o uso, e a IA na sombra cresce."
+      "legenda": "Um caso, uma regra, uma açêo. Se a turma sai com medo e sem saber o que fazer, a mini-aula falhou.",
+      "dica": "Proporçêo: diga também o que continua seguro e permitido. Quem só ouve proibiçêo passa a esconder o uso, e a IA na sombra cresce."
     },
     {
       "tipo": "passos",
@@ -77,7 +77,7 @@
           "titulo": "App feito por IA exposto",
           "sub": "maio de 2026",
           "texto": [
-            "A empresa de segurança RedAccess relatou (via WIRED e Axios) cerca de 380 mil apps e páginas públicas feitos em plataformas de criação por IA; perto de 5 mil expunham dado corporativo sensível. Muitos estavam públicos por padrão e apareciam em busca comum.",
+            "A empresa de segurança RedAccess relatou (via WIRED e Axios) cerca de 380 mil apps e páginas públicas feitos em plataformas de criaçêo por IA; perto de 5 mil expunham dado corporativo sensível. Muitos estavam públicos por padrêo e apareciam em busca comum.",
             "Na Horizonte: o app de pedidos com chave no navegador, tabela sem controle de acesso e admin sem login (F1 a F3)."
           ],
           "exemplo": {
@@ -89,19 +89,19 @@
           "titulo": "Agente que agiu sozinho",
           "sub": "outubro de 2026",
           "texto": [
-            "Em relatório de 09/10/2026, a Anthropic descreveu casos em que modelos Claude, durante avaliações, agiram em sites reais de forma não pretendida, inclusive enviando formulários. A empresa cortou o acesso à internet ao vivo nas avaliações até o monitoramento ficar confiável.",
-            "Na Horizonte: integração com e-mail que pode enviar e apagar sem aprovação (F9) e pedido grande sem registro (F7)."
+            "Em relatório de 09/10/2026, a Anthropic descreveu casos em que modelos Claude, durante avaliações, agiram em sites reais de forma nêo pretendida, inclusive enviando formulários. A empresa cortou o acesso à internet ao vivo nas avaliações até o monitoramento ficar confiável.",
+            "Na Horizonte: integraçêo com e-mail que pode enviar e apagar sem aprovaçêo (F9) e pedido grande sem registro (F7)."
           ],
           "exemplo": {
             "rot": "Regra",
-            "texto": "Agente recebe só a permissão que a tarefa pede; enviar, apagar e pagar passam por alguém."
+            "texto": "Agente recebe só a permissêo que a tarefa pede; enviar, apagar e pagar passam por alguém."
           }
         },
         {
           "titulo": "Deepfakes do Grok",
           "sub": "janeiro de 2026",
           "texto": [
-            "Em 26/01/2026, a Comissão Europeia abriu investigação formal contra o X, pela lei de serviços digitais (DSA), por imagens sexualizadas falsas de pessoas reais geradas com o Grok. Reguladores de outros países também abriram apurações.",
+            "Em 26/01/2026, a Comissêo Europeia abriu investigaçêo formal contra o X, pela lei de serviços digitais (DSA), por imagens sexualizadas falsas de pessoas reais geradas com o Grok. Reguladores de outros países também abriram apurações.",
             "Na empresa: foto de cliente ou de colega usada em ferramenta de imagem, e áudio falso do dono pedindo pagamento urgente."
           ],
           "exemplo": {
@@ -111,14 +111,14 @@
         },
         {
           "titulo": "O tom",
-          "sub": "proporção, não pânico",
+          "sub": "proporçêo, nêo pânico",
           "texto": [
-            "O Stanford AI Index 2026 registra que os incidentes de IA documentados passaram de 233 em 2024 para 362 em 2025. Use o número para mostrar que o tema é real, não para assustar.",
-            "Feche sempre com o que a pessoa pode fazer amanhã e com quem ela fala quando tiver dúvida."
+            "O Stanford AI Index 2026 registra que os incidentes de IA documentados passaram de 233 em 2024 para 362 em 2025. Use o número para mostrar que o tema é real, nêo para assustar.",
+            "Feche sempre com o que a pessoa pode fazer amanhê e com quem ela fala quando tiver dúvida."
           ],
           "exemplo": {
             "rot": "Frase",
-            "texto": "Não é para parar de usar. É para usar com estas três portas fechadas."
+            "texto": "Nêo é para parar de usar. É para usar com estas três portas fechadas."
           }
         }
       ]
@@ -131,12 +131,12 @@
         {
           "rot": "Mini-aula de incidente (10 min)",
           "icone": "lista",
-          "conteudo": "MINI-AULA DE INCIDENTE · <tema> · <turma> · 10 min\n\n[0-2] CASO\n- O que aconteceu (4-5 frases, sem adjetivo): <...>\n- Data e fonte (mostrar o link): <...>\n\n[2-4] POR QUE ACONTECEU\n- A porta que ficou aberta: <...>\n\n[4-6] NA NOSSA EMPRESA\n- Onde a mesma porta existe aqui: <...>\n- O que continua seguro e permitido: <...>\n\n[6-8] A REGRA\n- Uma frase verificável: <...>\n- Dúvida? Falar com: <nome>\n\n[8-10] TESTE\n- Situação: <...>\n- Pergunta: o que você faz?\n- Resposta esperada: <...>\n\nCONFERÊNCIA\n[ ] o caso tem data e fonte\n[ ] nenhum culpado, só a causa\n[ ] 1 regra só\n[ ] termina com o que fazer, não com medo"
+          "conteudo": "MINI-AULA DE INCIDENTE · <tema> · <turma> · 10 min\n\n[0-2] CASO\n- O que aconteceu (4-5 frases, sem adjetivo): <...>\n- Data e fonte (mostrar o link): <...>\n\n[2-4] POR QUE ACONTECEU\n- A porta que ficou aberta: <...>\n\n[4-6] NA NOSSA EMPRESA\n- Onde a mesma porta existe aqui: <...>\n- O que continua seguro e permitido: <...>\n\n[6-8] A REGRA\n- Uma frase verificável: <...>\n- Dúvida? Falar com: <nome>\n\n[8-10] TESTE\n- Situaçêo: <...>\n- Pergunta: o que você faz?\n- Resposta esperada: <...>\n\nCONFERÊNCIA\n[ ] o caso tem data e fonte\n[ ] nenhum culpado, só a causa\n[ ] 1 regra só\n[ ] termina com o que fazer, nêo com medo"
         },
         {
           "rot": "Exemplo preenchido · equipe de atendimento da Horizonte",
           "icone": "arquivo",
-          "conteudo": "MINI-AULA · Planilha pública · atendimento Horizonte · 10 min\n\n[0-2] CASO: em maio de 2026, pesquisadores acharam milhares de apps\nfeitos com IA abertos na internet, alguns com dado de cliente.\nMuitos estavam públicos por padrão e apareciam no Google.\n\n[2-4] POR QUE: ninguém conferiu quem conseguia abrir. O padrão era \"público\".\n\n[4-6] NA NOSSA EMPRESA: a planilha de clientes com CPF e telefone está\ncompartilhada como \"qualquer pessoa com o link\" (F8). Continua permitido:\nusar a planilha dentro da equipe, com acesso por nome.\n\n[6-8] REGRA: planilha com CPF ou telefone só compartilha com pessoas\nespecíficas. Dúvida: Rafael (TI).\n\n[8-10] TESTE: um cliente pede o link da planilha \"para conferir o\ncadastro dele\". O que você faz?\nEsperado: não envia o link; confere o cadastro e responde só os dados dele."
+          "conteudo": "MINI-AULA · Planilha pública · atendimento Horizonte · 10 min\n\n[0-2] CASO: em maio de 2026, pesquisadores acharam milhares de apps\nfeitos com IA abertos na internet, alguns com dado de cliente.\nMuitos estavam públicos por padrêo e apareciam no Google.\n\n[2-4] POR QUE: ninguém conferiu quem conseguia abrir. O padrêo era \"público\".\n\n[4-6] NA NOSSA EMPRESA: a planilha de clientes com CPF e telefone está\ncompartilhada como \"qualquer pessoa com o link\" (F8). Continua permitido:\nusar a planilha dentro da equipe, com acesso por nome.\n\n[6-8] REGRA: planilha com CPF ou telefone só compartilha com pessoas\nespecíficas. Dúvida: Rafael (TI).\n\n[8-10] TESTE: um cliente pede o link da planilha \"para conferir o\ncadastro dele\". O que você faz?\nEsperado: nêo envia o link; confere o cadastro e responde só os dados dele."
         }
       ]
     },
@@ -164,12 +164,12 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "Como abrir a mini-aula sobre apps expostos?",
           "opcoes": [
-            "\"Hackers estão atrás da sua empresa agora mesmo\"",
+            "\"Hackers estêo atrás da sua empresa agora mesmo\"",
             "O fato em poucas frases, com data e fonte",
             "Uma lista de 20 proibições"
           ],
@@ -181,18 +181,18 @@
           "p": "Na parte \"por que aconteceu\", o que você destaca?",
           "opcoes": [
             "Quem foi o culpado",
-            "A porta que ficou aberta, como o padrão público",
+            "A porta que ficou aberta, como o padrêo público",
             "Que a ferramenta é perigosa"
           ],
           "certa": 1,
           "ref": "diagrama",
-          "explica": "Mostrar o mecanismo ensina a reconhecer a mesma porta na empresa. Culpar pessoa ou ferramenta não ensina nada."
+          "explica": "Mostrar o mecanismo ensina a reconhecer a mesma porta na empresa. Culpar pessoa ou ferramenta nêo ensina nada."
         },
         {
           "p": "Qual é uma boa regra para o caso do agente que agiu sozinho?",
           "opcoes": [
             "Nunca usar agentes",
-            "Agente só com a permissão que a tarefa pede; enviar, apagar e pagar passam por alguém",
+            "Agente só com a permissêo que a tarefa pede; enviar, apagar e pagar passam por alguém",
             "Confiar no fornecedor"
           ],
           "certa": 1,
@@ -203,12 +203,12 @@
           "p": "A turma saiu dizendo que vai parar de usar IA. O que deu errado?",
           "opcoes": [
             "Nada, é mais seguro",
-            "Faltou proporção: o que continua permitido e o que fazer amanhã",
+            "Faltou proporçêo: o que continua permitido e o que fazer amanhê",
             "O caso era fraco demais"
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "O objetivo é usar com as portas fechadas. Medo sem ação leva à IA na sombra (falha F12)."
+          "explica": "O objetivo é usar com as portas fechadas. Medo sem açêo leva à IA na sombra (falha F12)."
         }
       ]
     },
@@ -229,7 +229,7 @@
           "texto": "A mesma porta aberta em algo que a turma usa."
         },
         {
-          "t": "Proporção",
+          "t": "Proporçêo",
           "texto": "Uma regra, o que continua permitido e com quem falar."
         }
       ]
@@ -239,12 +239,12 @@
       "titulo": "Fontes dos casos e para ir além",
       "links": [
         {
-          "t": "HKU (escritório de proteção de dados): milhares de apps de vibe coding expostos (mai/2026)",
+          "t": "HKU (escritório de proteçêo de dados): milhares de apps de vibe coding expostos (mai/2026)",
           "href": "https://dpo.hku.hk/news/thousands-of-ai-%E2%80%98vibe-coding%E2%80%99-apps-may-expose-sensitive-medical%2C-business-data",
           "icone": "escudo"
         },
         {
-          "t": "ResultSense: relatório da Anthropic sobre ações não pretendidas (12/10/2026)",
+          "t": "ResultSense: relatório da Anthropic sobre ações nêo pretendidas (12/10/2026)",
           "href": "https://www.resultsense.com/news/2026-10-12-anthropic-unintended-model-actions-report/",
           "icone": "escudo"
         },
@@ -284,7 +284,7 @@
           "icone": "lupa"
         },
         {
-          "t": "Laboratório Horizonte: Integração MCP com o e-mail (F9)",
+          "t": "Laboratório Horizonte: Integraçêo MCP com o e-mail (F9)",
           "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
           "icone": "lupa"
         },

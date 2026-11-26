@@ -5,8 +5,8 @@
   "titulo": "Avaliar a turma: rubrica, prova prática, campeões internos e acompanhamento",
   "titulo_curto": "Avaliar a turma",
   "minutos": 20,
-  "lead": "\"Gostei muito\" na pesquisa de satisfação não prova que alguém aprendeu. Você precisa ver a pessoa fazendo, com critério claro, e voltar semanas depois para ver se o hábito ficou. Esta aula traz a rubrica de 4 níveis, a prova prática, como escolher o campeão interno e o plano de acompanhamento de 30, 60 e 90 dias.",
-  "objetivo": "avaliar a turma com rubrica de 4 níveis e prova prática, escolher o campeão interno e montar o acompanhamento de 90 dias.",
+  "lead": "\"Gostei muito\" na pesquisa de satisfaçêo nêo prova que alguém aprendeu. Você precisa ver a pessoa fazendo, com critério claro, e voltar semanas depois para ver se o hábito ficou. Esta aula traz a rubrica de 4 níveis, a prova prática, como escolher o campeêo interno e o plano de acompanhamento de 30, 60 e 90 dias.",
+  "objetivo": "avaliar a turma com rubrica de 4 níveis e prova prática, escolher o campeêo interno e montar o acompanhamento de 90 dias.",
   "competencias": [
     "avaliar-com-rubrica",
     "aplicar-prova-pratica",
@@ -15,19 +15,19 @@
   ],
   "aprende": [
     {
-      "t": "Os 4 níveis de avaliação de um treinamento"
+      "t": "Os 4 níveis de avaliaçêo de um treinamento"
     },
     {
       "t": "Uma rubrica de 4 níveis para o ciclo delegar, revisar, aprovar"
     },
     {
-      "t": "Quem é (e quem não é) o campeão interno"
+      "t": "Quem é (e quem nêo é) o campeêo interno"
     },
     {
       "t": "O ritual de acompanhamento que segura o hábito"
     }
   ],
-  "hero_alt": "Folhas de avaliação com grade de quatro colunas sobre a mesa e, ao fundo, pessoas conversando em dupla.",
+  "hero_alt": "Folhas de avaliaçêo com grade de quatro colunas sobre a mesa e, ao fundo, pessoas conversando em dupla.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -37,9 +37,9 @@
       "nos": [
         {
           "icone": "chat",
-          "titulo": "Reação",
+          "titulo": "Reaçêo",
           "sub": "gostaram?",
-          "detalhe": "Pesquisa no fim da aula. Útil para ajustar ritmo e exemplos, mas não prova aprendizagem. Pergunte também: \"o que você vai fazer diferente na semana que vem?\"."
+          "detalhe": "Pesquisa no fim da aula. Útil para ajustar ritmo e exemplos, mas nêo prova aprendizagem. Pergunte também: \"o que você vai fazer diferente na semana que vem?\"."
         },
         {
           "icone": "check",
@@ -52,21 +52,21 @@
           "titulo": "Comportamento",
           "sub": "usam no trabalho?",
           "forte": true,
-          "detalhe": "Semanas depois, a pessoa usa o ciclo no trabalho? Conte no registro de uso e nos retornos semanais. É aqui que o treinamento costuma morrer, e onde o campeão interno faz diferença."
+          "detalhe": "Semanas depois, a pessoa usa o ciclo no trabalho? Conte no registro de uso e nos retornos semanais. É aqui que o treinamento costuma morrer, e onde o campeêo interno faz diferença."
         },
         {
           "icone": "grafico",
           "titulo": "Resultado",
           "sub": "mudou o número?",
-          "detalhe": "O número combinado na proposta (aula 2) mudou? Tempo de resposta, reclamações resolvidas no dia, retrabalho. Compare com o número de antes; sem linha de base, não há resultado para mostrar (falha F11)."
+          "detalhe": "O número combinado na proposta (aula 2) mudou? Tempo de resposta, reclamações resolvidas no dia, retrabalho. Compare com o número de antes; sem linha de base, nêo há resultado para mostrar (falha F11)."
         }
       ],
-      "legenda": "Quase todo treinamento mede só a reação. O seu mede pelo menos aprendizagem e comportamento.",
+      "legenda": "Quase todo treinamento mede só a reaçêo. O seu mede pelo menos aprendizagem e comportamento.",
       "dica": "Combine o número do nível 4 antes do workshop. Depois, ninguém lembra quanto era."
     },
     {
       "tipo": "passos",
-      "titulo": "Prova, campeão e acompanhamento",
+      "titulo": "Prova, campeêo e acompanhamento",
       "sub": "Três peças que transformam aula em hábito.",
       "passos": [
         {
@@ -74,19 +74,19 @@
           "sub": "20 minutos, no fim",
           "texto": [
             "Uma tarefa da área: delegar um pedido, revisar uma saída com 3 erros plantados e decidir 3 ações (segue, aprova, bloqueia). Igual aos exercícios da aula 4, com caso novo.",
-            "Avalie pela rubrica e devolva o nível com uma frase de retorno. Nota sem retorno não ensina."
+            "Avalie pela rubrica e devolva o nível com uma frase de retorno. Nota sem retorno nêo ensina."
           ],
           "exemplo": {
             "rot": "Retorno",
-            "texto": "Revisão nível 3: achou os 3 erros. Para chegar ao 4, escreva a regra que evitaria o desconto errado."
+            "texto": "Revisêo nível 3: achou os 3 erros. Para chegar ao 4, escreva a regra que evitaria o desconto errado."
           }
         },
         {
-          "titulo": "Campeão interno",
-          "sub": "nome próprio, não cargo",
+          "titulo": "Campeêo interno",
+          "sub": "nome próprio, nêo cargo",
           "texto": [
-            "É quem olha o uso todo dia, junta as dúvidas e leva ao retorno semanal. Bom campeão: está na casa há mais de um ano, tem tempo reservado na agenda, quer o papel (dito por ele) e tem autoridade para ajustar.",
-            "Campeão errado: quem vai sair em poucos meses, quem já tem funções demais, quem foi escalado sem ser consultado."
+            "É quem olha o uso todo dia, junta as dúvidas e leva ao retorno semanal. Bom campeêo: está na casa há mais de um ano, tem tempo reservado na agenda, quer o papel (dito por ele) e tem autoridade para ajustar.",
+            "Campeêo errado: quem vai sair em poucos meses, quem já tem funções demais, quem foi escalado sem ser consultado."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
@@ -109,12 +109,12 @@
           "titulo": "30, 60, 90 dias",
           "sub": "o fim do acompanhamento",
           "texto": [
-            "Dia 30: comportamento (quantos usam o ciclo e com que frequência). Dia 60: segunda prova prática curta, para ver quem subiu de nível. Dia 90: resultado contra o número de antes e decisão de próximo passo.",
+            "Dia 30: comportamento (quantos usam o ciclo e com que frequência). Dia 60: segunda prova prática curta, para ver quem subiu de nível. Dia 90: resultado contra o número de antes e decisêo de próximo passo.",
             "Reconheça em público quem trouxe resultado: as pessoas imitam o que veem ser valorizado."
           ],
           "exemplo": {
-            "rot": "Decisão do dia 90",
-            "texto": "Manter, ampliar para outra área ou corrigir o que não pegou."
+            "rot": "Decisêo do dia 90",
+            "texto": "Manter, ampliar para outra área ou corrigir o que nêo pegou."
           }
         }
       ]
@@ -127,19 +127,19 @@
         {
           "rot": "Rubrica de 4 níveis · delegar, revisar, aprovar",
           "icone": "lista",
-          "conteudo": "RUBRICA · <turma> · <data>\nNíveis: 1 Iniciante · 2 Em desenvolvimento · 3 Proficiente · 4 Referência\n\nDELEGAR\n1 pedido vago (\"faz um resumo\")\n2 diz o resultado, mas sem contexto ou formato\n3 resultado + contexto + formato + o que é proibido\n4 nível 3 + pede prova (citar a fonte) e reaproveita como modelo\n\nREVISAR\n1 não revisa ou só corrige gramática\n2 acha 1 dos 3 erros plantados\n3 acha os 3 erros (fato, regra, dado pessoal)\n4 nível 3 + escreve a regra que evita o erro da próxima vez\n\nAPROVAR E SEGURANÇA\n1 deixa sair ação irreversível sem aprovação\n2 reconhece valor alto, mas não a injeção ou o dado pessoal\n3 classifica certo as 3 ações (segue / aprova / bloqueia)\n4 nível 3 + diz quem aprova e o que registrar\n\nAPLICAR NO TRABALHO (dia 30)\n1 não usou\n2 usou 1 ou 2 vezes\n3 usa toda semana na tarefa combinada\n4 usa e ensinou um colega ou criou um modelo para a equipe\n\nMeta da turma: maioria no nível 3 em delegar e revisar no dia da prova."
+          "conteudo": "RUBRICA · <turma> · <data>\nNíveis: 1 Iniciante · 2 Em desenvolvimento · 3 Proficiente · 4 Referência\n\nDELEGAR\n1 pedido vago (\"faz um resumo\")\n2 diz o resultado, mas sem contexto ou formato\n3 resultado + contexto + formato + o que é proibido\n4 nível 3 + pede prova (citar a fonte) e reaproveita como modelo\n\nREVISAR\n1 nêo revisa ou só corrige gramática\n2 acha 1 dos 3 erros plantados\n3 acha os 3 erros (fato, regra, dado pessoal)\n4 nível 3 + escreve a regra que evita o erro da próxima vez\n\nAPROVAR E SEGURANÇA\n1 deixa sair açêo irreversível sem aprovaçêo\n2 reconhece valor alto, mas nêo a injeçêo ou o dado pessoal\n3 classifica certo as 3 ações (segue / aprova / bloqueia)\n4 nível 3 + diz quem aprova e o que registrar\n\nAPLICAR NO TRABALHO (dia 30)\n1 nêo usou\n2 usou 1 ou 2 vezes\n3 usa toda semana na tarefa combinada\n4 usa e ensinou um colega ou criou um modelo para a equipe\n\nMeta da turma: maioria no nível 3 em delegar e revisar no dia da prova."
         },
         {
-          "rot": "Plano de acompanhamento 90 dias + campeão",
+          "rot": "Plano de acompanhamento 90 dias + campeêo",
           "icone": "calendario",
-          "conteudo": "ACOMPANHAMENTO · <empresa> · <área> · início <data>\n\nCAMPEÃO INTERNO\n- Nome: <...> · tempo na casa: <...> · tempo na agenda: <30 min/dia>\n- Topou o papel com as próprias palavras? ( ) sim\n- Substituto se sair: <nome>\n\nRETORNO SEMANAL · <dia e hora fixos> · 15-20 min\n- 0-5 números · 5-15 dúvidas do registro · 15-20 próxima semana\n\nREGISTRO DE USO E DÚVIDAS (1 aba)\ndata | pessoa | tarefa | o que a IA errou | o que fizemos\n- Dúvida que aparece 3 vezes vira microvídeo (3-4 min) ou linha no guia\n\nINDICADORES (no máximo 4)\n1. Pessoas usando o ciclo na semana: <n de n>\n2. Casos feitos com IA e revisão: <n>\n3. Erros achados na revisão: <n> (subir no começo é bom sinal)\n4. Número do resultado combinado: antes <...> · agora <...>\n\nMARCOS\n- Dia 30: comportamento (rubrica \"aplicar\")\n- Dia 60: prova prática curta\n- Dia 90: resultado x antes · decisão: manter / ampliar / corrigir"
+          "conteudo": "ACOMPANHAMENTO · <empresa> · <área> · início <data>\n\nCAMPEêO INTERNO\n- Nome: <...> · tempo na casa: <...> · tempo na agenda: <30 min/dia>\n- Topou o papel com as próprias palavras? ( ) sim\n- Substituto se sair: <nome>\n\nRETORNO SEMANAL · <dia e hora fixos> · 15-20 min\n- 0-5 números · 5-15 dúvidas do registro · 15-20 próxima semana\n\nREGISTRO DE USO E DÚVIDAS (1 aba)\ndata | pessoa | tarefa | o que a IA errou | o que fizemos\n- Dúvida que aparece 3 vezes vira microvídeo (3-4 min) ou linha no guia\n\nINDICADORES (no máximo 4)\n1. Pessoas usando o ciclo na semana: <n de n>\n2. Casos feitos com IA e revisêo: <n>\n3. Erros achados na revisêo: <n> (subir no começo é bom sinal)\n4. Número do resultado combinado: antes <...> · agora <...>\n\nMARCOS\n- Dia 30: comportamento (rubrica \"aplicar\")\n- Dia 60: prova prática curta\n- Dia 90: resultado x antes · decisêo: manter / ampliar / corrigir"
         }
       ]
     },
     {
       "tipo": "pratica",
       "titulo": "Prática",
-      "sub": "As duas peças vão para o kit da aula 8.",
+      "sub": "As duas peças vêo para o kit da aula 8.",
       "exercicios": [
         {
           "id": "e1",
@@ -152,15 +152,15 @@
           "id": "e2",
           "titulo": "2 · Plano de acompanhamento",
           "min": "20 min",
-          "texto": "Preencha o plano de 90 dias com um campeão (real ou da Horizonte), dia e hora do retorno e os indicadores.",
-          "pronto": "o plano tem campeão com substituto, retorno com dia e hora, no máximo 4 indicadores e os 3 marcos datados."
+          "texto": "Preencha o plano de 90 dias com um campeêo (real ou da Horizonte), dia e hora do retorno e os indicadores.",
+          "pronto": "o plano tem campeêo com substituto, retorno com dia e hora, no máximo 4 indicadores e os 3 marcos datados."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "A pesquisa do fim do workshop deu nota 9,5. O que isso prova?",
@@ -171,10 +171,10 @@
           ],
           "certa": 1,
           "ref": "diagrama",
-          "explica": "Reação é o nível 1. Gostar é bom sinal, mas não mostra se a pessoa consegue fazer nem se vai usar."
+          "explica": "Reaçêo é o nível 1. Gostar é bom sinal, mas nêo mostra se a pessoa consegue fazer nem se vai usar."
         },
         {
-          "p": "Na prova, a pessoa achou 2 dos 3 erros plantados. Qual nível de revisão?",
+          "p": "Na prova, a pessoa achou 2 dos 3 erros plantados. Qual nível de revisêo?",
           "opcoes": [
             "Nível 1",
             "Nível 2: em desenvolvimento",
@@ -185,7 +185,7 @@
           "explica": "Nível 3 pede os 3 erros. Devolva o nível com uma frase: qual erro passou e como achá-lo."
         },
         {
-          "p": "Quem é o melhor campeão interno?",
+          "p": "Quem é o melhor campeêo interno?",
           "opcoes": [
             "A estagiária que mexe bem no computador e sai em 3 meses",
             "O atendente sênior, com tempo reservado, que quer o papel e tirou nível 3 na prova",
@@ -193,7 +193,7 @@
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Campeão precisa ficar, ter tempo na agenda e querer o papel. Campeão que sai leva o conhecimento e o projeto fica órfão."
+          "explica": "Campeêo precisa ficar, ter tempo na agenda e querer o papel. Campeêo que sai leva o conhecimento e o projeto fica órfêo."
         },
         {
           "p": "A mesma dúvida apareceu 3 vezes no registro. O que fazer?",
@@ -204,7 +204,7 @@
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Dúvida repetida é material. Responder uma a uma não escala; o microvídeo responde para todos."
+          "explica": "Dúvida repetida é material. Responder uma a uma nêo escala; o microvídeo responde para todos."
         }
       ]
     },
@@ -213,15 +213,15 @@
       "titulo": "Resumo",
       "itens": [
         {
-          "t": "4 níveis de avaliação",
-          "texto": "Reação, aprendizagem, comportamento e resultado. Meça pelo menos os do meio."
+          "t": "4 níveis de avaliaçêo",
+          "texto": "Reaçêo, aprendizagem, comportamento e resultado. Meça pelo menos os do meio."
         },
         {
           "t": "Rubrica de 4 níveis",
-          "texto": "Delegar, revisar, aprovar e aplicar, com descrição observável."
+          "texto": "Delegar, revisar, aprovar e aplicar, com descriçêo observável."
         },
         {
-          "t": "Campeão interno",
+          "t": "Campeêo interno",
           "texto": "Nome próprio, tempo na agenda, vontade dita por ele, substituto definido."
         },
         {
@@ -240,12 +240,12 @@
           "icone": "grafico"
         },
         {
-          "t": "Mapa do Cliente: campeão interno e acompanhamento semanal (trilha 5)",
+          "t": "Mapa do Cliente: campeêo interno e acompanhamento semanal (trilha 5)",
           "href": "https://inematds.github.io/mapacliente/",
           "icone": "usuario"
         },
         {
-          "t": "LOOP-R: medir antes e depois, com cartão de decisão",
+          "t": "LOOP-R: medir antes e depois, com cartêo de decisêo",
           "href": "https://inematds.github.io/loop-r/curso/",
           "icone": "grafico"
         },

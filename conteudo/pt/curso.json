@@ -3,7 +3,7 @@
   "lang": "pt-BR",
   "url": "https://inematds.github.io/prof2030-treinador/",
   "nome": "Treinador de IA",
-  "sub": "Profissional 2030 · formação",
+  "sub": "Profissional 2030 · formaçêo",
   "icone": "megafone",
   "volta": {
     "t": "Profissional 2030",
@@ -16,10 +16,10 @@
     "link": "Abrir a empresa-laboratório",
     "href": "https://inematds.github.io/prof2030-lab/"
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · A certificação INEMA é de qualificação, não de profissão regulada. · <a href=\"https://www.inema.club/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">Ficha deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender IA</a>",
+  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · A certificaçêo INEMA é de qualificaçêo, nêo de profissêo regulada. · <a href=\"https://www.inema.club/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">Ficha deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender IA</a>",
   "videos": {},
   "inicio": {
-    "kicker": "Profissional 2030 · formação Treinador de IA · 8 aulas",
+    "kicker": "Profissional 2030 · formaçêo Treinador de IA · 8 aulas",
     "titulo": "Treinador de IA: ensine equipes a delegar, revisar e aprovar o trabalho feito com IA",
     "lead": "Para quem vai dar workshops, bootcamps e formar equipes e lideranças usando o conteúdo aberto do INEMA. Você aprende a ensinar adultos, diagnosticar a turma, montar o workshop, treinar o hábito certo, ensinar segurança com casos reais e avaliar quem aprendeu.",
     "cta": "Começar pela aula 1",
@@ -53,8 +53,8 @@
         "t": "Para quem é",
         "itens": [
           "Quem vai dar workshop ou bootcamp de IA para equipes e lideranças de empresas.",
-          "Gestores e profissionais de RH, T&D ou operação que viraram a referência de IA da casa.",
-          "Consultores que querem incluir capacitação no trabalho, com método e sem promessa de milagre."
+          "Gestores e profissionais de RH, T&D ou operaçêo que viraram a referência de IA da casa.",
+          "Consultores que querem incluir capacitaçêo no trabalho, com método e sem promessa de milagre."
         ]
       },
       {
@@ -69,8 +69,8 @@
       {
         "t": "Parte do Profissional 2030",
         "itens": [
-          "Este curso faz parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a>. Cada formação terá certificação INEMA; detalhes em breve.",
-          "Pré-requisito recomendado (não obrigatório): <a href=\"https://inematds.github.io/prof2030-base/\">Base comum</a>.",
+          "Este curso faz parte do <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a>. Cada formaçêo terá certificaçêo INEMA; detalhes em breve.",
+          "Pré-requisito recomendado (nêo obrigatório): <a href=\"https://inematds.github.io/prof2030-base/\">Base comum</a>.",
           "Outras formações: <a href=\"https://inematds.github.io/prof2030-consultor/\">Consultor</a> · <a href=\"https://inematds.github.io/prof2030-auditor/\">Auditor</a> · <a href=\"https://inematds.github.io/prof2030-mentor/\">Mentor</a> · <a href=\"https://inematds.github.io/prof2030-treinador/\">Treinador</a>.",
           "Empresa usada nos exercícios: <a href=\"https://inematds.github.io/prof2030-lab/\">Laboratório Horizonte Distribuidora</a>."
         ]
@@ -91,7 +91,7 @@
     "dg_dica": "Clique em cada bloco do diagrama para ver o que ele faz.",
     "copiar": "Copiar",
     "copiado": "Copiado",
-    "selo_simulacao": "Simulação: exemplo ilustrativo",
+    "selo_simulacao": "Simulaçêo: exemplo ilustrativo",
     "selo_real": "Exemplo do repositório",
     "pronto_quando": "Pronto quando:",
     "fiz": "Fiz este exercício",
@@ -100,8 +100,8 @@
     "de": "de",
     "cert_tag": "competência",
     "correto": "Correto",
-    "errado": "Não é essa",
-    "quiz_aguarda": "Escolha uma alternativa. A explicação aparece depois da sua tentativa.",
+    "errado": "Nêo é essa",
+    "quiz_aguarda": "Escolha uma alternativa. A explicaçêo aparece depois da sua tentativa.",
     "proxima_pergunta": "Próxima pergunta",
     "quiz_ver": "Ver resultado",
     "quiz_fim": "Teste concluído",
@@ -128,7 +128,7 @@
     "baixar_ics": "Baixar para o calendário (.ics)",
     "ind_estudo": "Estudo (aulas)",
     "ind_pratica": "Prática declarada",
-    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovação vem na prova da certificação.",
+    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovaçêo vem na prova da certificaçêo.",
     "estudo": {
       "titulo": "Seu estudo",
       "continuar": "Continuar de onde parei",
@@ -141,7 +141,7 @@
       "notas": "Minhas anotações",
       "dados": "Copiar meus dados",
       "sem_testes": "Nenhum teste feito ainda. O teste fica no fim de cada aula.",
-      "nao_fez": "teste ainda não feito",
+      "nao_fez": "teste ainda nêo feito",
       "ultimo": "Último",
       "melhor": "Melhor",
       "tentativas": "tentativas",
@@ -150,21 +150,21 @@
       "rever": "Para rever",
       "resposta": "Resposta certa:",
       "ir_teste": "Refazer o teste",
-      "sem_notas": "Nenhuma anotação ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
+      "sem_notas": "Nenhuma anotaçêo ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
       "so_marcado": "(só marcado)",
       "marcar": "Marcar",
       "anotar": "Anotar",
       "salvar": "Salvar",
       "apagar": "Apagar marca",
       "fechar": "Fechar",
-      "nota_ph": "Escreva sua anotação sobre este trecho…",
+      "nota_ph": "Escreva sua anotaçêo sobre este trecho…",
       "um_bloco": "Marque dentro de um parágrafo só.",
-      "nao_marca": "Este trecho não pode ser marcado.",
-      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e não apaga nada.",
+      "nao_marca": "Este trecho nêo pode ser marcado.",
+      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e nêo apaga nada.",
       "exportar": "Baixar cópia",
       "importar": "Carregar cópia",
       "import_ok": "Cópia carregada ({n} itens). Atualizando a página…",
-      "import_erro": "Arquivo não reconhecido. Nada foi alterado.",
+      "import_erro": "Arquivo nêo reconhecido. Nada foi alterado.",
       "import_outro": "Esta cópia é de outro curso. Nada foi alterado.",
       "export_ok": "Cópia baixada."
     },
@@ -176,7 +176,7 @@
     "conv_ruim": "Escolha fraca",
     "conv_fim": "Fim da conversa",
     "conv_placar": "Você fez {p} de {m} pontos possíveis.",
-    "conv_licao": "Lição:",
+    "conv_licao": "Liçêo:",
     "conv_recomecar": "Recomeçar a conversa",
     "conv_feita": "Seu melhor placar: {p} de {m} pontos."
   }

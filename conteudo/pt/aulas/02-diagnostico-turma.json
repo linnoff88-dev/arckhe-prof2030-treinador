@@ -5,7 +5,7 @@
   "titulo": "Letramento em IA como produto: diagnosticar a turma e propor o treinamento",
   "titulo_curto": "Diagnóstico da turma",
   "minutos": 17,
-  "lead": "Treinamento que serve para todo mundo não serve para ninguém. Antes de desenhar o workshop, você descobre em que nível a turma está, quem já usa e quem tem medo. Com isso na mão, a proposta para o dono deixa de ser \"um curso de IA\" e vira um letramento com objetivo e medida.",
+  "lead": "Treinamento que serve para todo mundo nêo serve para ninguém. Antes de desenhar o workshop, você descobre em que nível a turma está, quem já usa e quem tem medo. Com isso na mêo, a proposta para o dono deixa de ser \"um curso de IA\" e vira um letramento com objetivo e medida.",
   "objetivo": "aplicar um questionário de diagnóstico, classificar a turma em 4 níveis e escrever a proposta de treinamento em 1 página.",
   "competencias": [
     "diagnosticar-nivel-da-turma",
@@ -17,7 +17,7 @@
       "t": "Os 4 níveis de uso de IA numa equipe"
     },
     {
-      "t": "Os 3 grupos de pessoas e a ordem de atenção"
+      "t": "Os 3 grupos de pessoas e a ordem de atençêo"
     },
     {
       "t": "Por que letramento em IA virou exigência e argumento"
@@ -44,7 +44,7 @@
           "icone": "chat",
           "titulo": "Nível 1",
           "sub": "usa o chat para texto",
-          "detalhe": "Pede e-mail, resumo, correção. Copia e cola sem conferir com método. Objetivo: pedido com resultado, contexto e formato, e revisão antes de usar."
+          "detalhe": "Pede e-mail, resumo, correçêo. Copia e cola sem conferir com método. Objetivo: pedido com resultado, contexto e formato, e revisêo antes de usar."
         },
         {
           "icone": "check",
@@ -56,11 +56,11 @@
         {
           "icone": "robo",
           "titulo": "Nível 3",
-          "sub": "agente com aprovação",
-          "detalhe": "Usa ou supervisiona agente que age sozinho em parte do processo, com limites, registro e aprovação humana nas decisões caras. Pede formação de gestão, não só de uso."
+          "sub": "agente com aprovaçêo",
+          "detalhe": "Usa ou supervisiona agente que age sozinho em parte do processo, com limites, registro e aprovaçêo humana nas decisões caras. Pede formaçêo de gestêo, nêo só de uso."
         }
       ],
-      "legenda": "Desenhe o workshop para levar a maioria um nível acima, não para o nível mais alto da sala.",
+      "legenda": "Desenhe o workshop para levar a maioria um nível acima, nêo para o nível mais alto da sala.",
       "dica": "Os 3 grupos de pessoas (ativos, curiosos, resistentes) cortam os níveis: tem resistente no nível 2 e curioso no nível 0."
     },
     {
@@ -73,19 +73,19 @@
           "sub": "5 minutos, anônimo",
           "texto": [
             "Mande o questionário uma semana antes, por formulário anônimo. Anônimo dá resposta honesta sobre medo e sobre ferramentas usadas por conta própria.",
-            "Peça ao gestor que diga para que serve: desenhar a aula, não avaliar ninguém."
+            "Peça ao gestor que diga para que serve: desenhar a aula, nêo avaliar ninguém."
           ],
           "exemplo": {
             "rot": "Convite",
-            "texto": "São 10 perguntas, 5 minutos, sem nome. Serve para a aula começar do ponto em que vocês estão."
+            "texto": "Sêo 10 perguntas, 5 minutos, sem nome. Serve para a aula começar do ponto em que vocês estêo."
           }
         },
         {
           "titulo": "Classificar",
           "sub": "níveis e grupos",
           "texto": [
-            "Conte quantos estão em cada nível e separe três grupos: ativos (já usam e gostam), curiosos (querem, mas não sabem por onde) e resistentes (desconfiam ou temem).",
-            "Ativos viram aliados e exemplos. Curiosos são o alvo do workshop. Resistentes não se convencem no mês 1: dê espaço e mostre resultado dos colegas."
+            "Conte quantos estêo em cada nível e separe três grupos: ativos (já usam e gostam), curiosos (querem, mas nêo sabem por onde) e resistentes (desconfiam ou temem).",
+            "Ativos viram aliados e exemplos. Curiosos sêo o alvo do workshop. Resistentes nêo se convencem no mês 1: dê espaço e mostre resultado dos colegas."
           ],
           "exemplo": {
             "rot": "Leitura",
@@ -96,7 +96,7 @@
           "titulo": "Achar a IA na sombra",
           "sub": "o que já está em uso",
           "texto": [
-            "Uma pergunta do questionário revela ferramentas que a equipe usa sem a TI saber. Isso não é para punir: é o mapa do risco e do interesse real.",
+            "Uma pergunta do questionário revela ferramentas que a equipe usa sem a TI saber. Isso nêo é para punir: é o mapa do risco e do interesse real.",
             "Na Horizonte, o inventário achou 4 ferramentas assim (falha F12 do laboratório)."
           ],
           "exemplo": {
@@ -108,12 +108,12 @@
           "titulo": "Escrever a proposta",
           "sub": "1 página",
           "texto": [
-            "A proposta diz o objetivo em comportamento (\"responder reclamação com IA e revisão\"), o formato, o que a equipe sai fazendo e como vamos medir em 30 dias.",
-            "Sem promessa de ganho que você não mediu. Diga o número de hoje e combine medir de novo."
+            "A proposta diz o objetivo em comportamento (\"responder reclamaçêo com IA e revisêo\"), o formato, o que a equipe sai fazendo e como vamos medir em 30 dias.",
+            "Sem promessa de ganho que você nêo mediu. Diga o número de hoje e combine medir de novo."
           ],
           "exemplo": {
             "rot": "Objetivo",
-            "texto": "Em 30 dias, 6 das 8 pessoas do atendimento usam o modelo de resposta com revisão em pelo menos 10 casos por semana."
+            "texto": "Em 30 dias, 6 das 8 pessoas do atendimento usam o modelo de resposta com revisêo em pelo menos 10 casos por semana."
           }
         }
       ]
@@ -122,8 +122,8 @@
       "tipo": "texto",
       "titulo": "Por que letramento em IA virou argumento",
       "paragrafos": [
-        "Na União Europeia, o artigo 4 do AI Act obriga quem fornece ou usa sistemas de IA a garantir um nível suficiente de letramento em IA da sua equipe. Essa regra vale desde 02/02/2025, mesmo com o adiamento das regras de alto risco para 02/12/2027.",
-        "No Brasil não há obrigação equivalente em vigor, mas a pressão é a mesma: a Deloitte (State of AI in the Enterprise 2026) mostra que só 27% das empresas brasileiras dizem ter governança madura de IA. Treinar a equipe é o primeiro passo dessa governança, e é um argumento honesto para o dono."
+        "Na Uniêo Europeia, o artigo 4 do AI Act obriga quem fornece ou usa sistemas de IA a garantir um nível suficiente de letramento em IA da sua equipe. Essa regra vale desde 02/02/2025, mesmo com o adiamento das regras de alto risco para 02/12/2027.",
+        "No Brasil nêo há obrigaçêo equivalente em vigor, mas a pressêo é a mesma: a Deloitte (State of AI in the Enterprise 2026) mostra que só 27% das empresas brasileiras dizem ter governança madura de IA. Treinar a equipe é o primeiro passo dessa governança, e é um argumento honesto para o dono."
       ]
     },
     {
@@ -134,12 +134,12 @@
         {
           "rot": "Questionário de diagnóstico de turma (anônimo)",
           "icone": "lista",
-          "conteudo": "DIAGNÓSTICO DE TURMA · <empresa> · <área> · 5 minutos, sem nome\n\n1. Com que frequência você usa IA no trabalho?\n   ( ) nunca ( ) já testei ( ) toda semana ( ) todo dia\n2. Para quê? (marque todas)\n   ( ) texto/e-mail ( ) resumo ( ) planilha/análise ( ) atendimento ( ) outro: ___\n3. Que ferramentas de IA você já usou no trabalho, mesmo por conta própria? ___\n4. Você já entregou uma tarefa inteira para a IA e revisou depois? ( ) sim ( ) não\n5. Antes de usar uma resposta da IA, o que você confere? ___\n6. Você já colou dado de cliente (nome, CPF, telefone) numa IA? ( ) sim ( ) não ( ) não sei\n7. De 1 a 5, quanto você confia nas respostas da IA? ___\n8. De 1 a 5, quanto você se preocupa com a IA mudar o seu trabalho? ___\n9. Qual tarefa da sua semana você mais gostaria de fazer mais rápido? ___\n10. O que faria esta aula valer a pena para você? ___\n\nLEITURA (para o treinador)\n- Nível 0: P1 nunca/testei e P4 não\n- Nível 1: P1 semana/dia e P4 não\n- Nível 2: P4 sim e P5 com critério claro\n- Nível 3: usa agente que age sozinho (P2/P3)\n- Grupos: P7 e P8 altos + uso alto = ativo; uso baixo + P10 claro = curioso; P8 alto + P7 baixo = resistente\n- P3 e P6 = mapa de risco (IA na sombra, dado pessoal)"
+          "conteudo": "DIAGNÓSTICO DE TURMA · <empresa> · <área> · 5 minutos, sem nome\n\n1. Com que frequência você usa IA no trabalho?\n   ( ) nunca ( ) já testei ( ) toda semana ( ) todo dia\n2. Para quê? (marque todas)\n   ( ) texto/e-mail ( ) resumo ( ) planilha/análise ( ) atendimento ( ) outro: ___\n3. Que ferramentas de IA você já usou no trabalho, mesmo por conta própria? ___\n4. Você já entregou uma tarefa inteira para a IA e revisou depois? ( ) sim ( ) nêo\n5. Antes de usar uma resposta da IA, o que você confere? ___\n6. Você já colou dado de cliente (nome, CPF, telefone) numa IA? ( ) sim ( ) nêo ( ) nêo sei\n7. De 1 a 5, quanto você confia nas respostas da IA? ___\n8. De 1 a 5, quanto você se preocupa com a IA mudar o seu trabalho? ___\n9. Qual tarefa da sua semana você mais gostaria de fazer mais rápido? ___\n10. O que faria esta aula valer a pena para você? ___\n\nLEITURA (para o treinador)\n- Nível 0: P1 nunca/testei e P4 nêo\n- Nível 1: P1 semana/dia e P4 nêo\n- Nível 2: P4 sim e P5 com critério claro\n- Nível 3: usa agente que age sozinho (P2/P3)\n- Grupos: P7 e P8 altos + uso alto = ativo; uso baixo + P10 claro = curioso; P8 alto + P7 baixo = resistente\n- P3 e P6 = mapa de risco (IA na sombra, dado pessoal)"
         },
         {
           "rot": "Proposta de treinamento em 1 página",
           "icone": "arquivo",
-          "conteudo": "PROPOSTA DE LETRAMENTO EM IA · <empresa> · <área>\n\nPOR QUE AGORA\n- Diagnóstico: <n> pessoas · nível 0: <n> · nível 1: <n> · nível 2: <n> · nível 3: <n>\n- Risco achado: <ex.: dado de cliente colado em ferramenta não aprovada>\n\nOBJETIVO (comportamento, em 30 dias)\n- <quantas pessoas> fazendo <tarefa> com IA e revisão, <frequência>\n\nFORMATO\n- <workshop 1 h | 4 h | bootcamp em 5 encontros>\n- Turma de até <n> pessoas · material da própria área\n\nO QUE A EQUIPE SAI FAZENDO\n1. <...>\n2. <...>\n3. <...>\n\nCOMO VAMOS MEDIR\n- Antes: <número de hoje> · Depois de 30 dias: <mesmo número>\n- Rubrica de 4 níveis na prova prática\n\nO QUE NÃO ESTÁ INCLUÍDO\n- Implantação de sistema, parecer jurídico, auditoria técnica\n\nACOMPANHAMENTO\n- Campeão interno: <nome> · retorno semanal de 15 min por <n> semanas"
+          "conteudo": "PROPOSTA DE LETRAMENTO EM IA · <empresa> · <área>\n\nPOR QUE AGORA\n- Diagnóstico: <n> pessoas · nível 0: <n> · nível 1: <n> · nível 2: <n> · nível 3: <n>\n- Risco achado: <ex.: dado de cliente colado em ferramenta nêo aprovada>\n\nOBJETIVO (comportamento, em 30 dias)\n- <quantas pessoas> fazendo <tarefa> com IA e revisêo, <frequência>\n\nFORMATO\n- <workshop 1 h | 4 h | bootcamp em 5 encontros>\n- Turma de até <n> pessoas · material da própria área\n\nO QUE A EQUIPE SAI FAZENDO\n1. <...>\n2. <...>\n3. <...>\n\nCOMO VAMOS MEDIR\n- Antes: <número de hoje> · Depois de 30 dias: <mesmo número>\n- Rubrica de 4 níveis na prova prática\n\nO QUE NêO ESTÁ INCLUÍDO\n- Implantaçêo de sistema, parecer jurídico, auditoria técnica\n\nACOMPANHAMENTO\n- Campeêo interno: <nome> · retorno semanal de 15 min por <n> semanas"
         }
       ]
     },
@@ -152,7 +152,7 @@
           "id": "e1",
           "titulo": "1 · Diagnóstico pronto",
           "min": "20 min",
-          "texto": "Copie o questionário, troque <empresa> e <área> e ajuste a pergunta 9 com tarefas reais da área. Se tiver uma turma, aplique. Se não, responda como se fossem 3 pessoas diferentes da Horizonte (Juliana, uma atendente nova e uma atendente cética).",
+          "texto": "Copie o questionário, troque <empresa> e <área> e ajuste a pergunta 9 com tarefas reais da área. Se tiver uma turma, aplique. Se nêo, responda como se fossem 3 pessoas diferentes da Horizonte (Juliana, uma atendente nova e uma atendente cética).",
           "pronto": "o questionário está pronto para enviar e você classificou pelo menos 3 respostas em nível e grupo, com a justificativa de cada uma."
         },
         {
@@ -160,14 +160,14 @@
           "titulo": "2 · Proposta de 1 página",
           "min": "20 min",
           "texto": "Preencha a proposta com o resultado do diagnóstico. O objetivo tem que ser um comportamento que alguém consiga contar em 30 dias.",
-          "pronto": "a proposta cabe em 1 página, tem objetivo em comportamento, número de hoje e o que não está incluído."
+          "pronto": "a proposta cabe em 1 página, tem objetivo em comportamento, número de hoje e o que nêo está incluído."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "O diagnóstico mostrou 2 pessoas no nível 0, 4 no nível 1 e 2 no nível 2. Para qual nível você desenha o workshop?",
@@ -181,7 +181,7 @@
           "explica": "Desenhe para a maioria subir um nível. Os do nível 2 viram ajudantes na prática; os do nível 0 recebem um exercício de entrada."
         },
         {
-          "p": "Uma pessoa marcou preocupação 5 e confiança 1. O que fazer no mês 1?",
+          "p": "Uma pessoa marcou preocupaçêo 5 e confiança 1. O que fazer no mês 1?",
           "opcoes": [
             "Insistir até ela mudar de ideia",
             "Dar espaço, nomear o medo na aula e deixar o resultado dos colegas falar",
@@ -189,29 +189,29 @@
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Resistente não se converte por pressão. Tempo gasto convencendo resistente é tempo tirado dos curiosos, que são o alvo."
+          "explica": "Resistente nêo se converte por pressêo. Tempo gasto convencendo resistente é tempo tirado dos curiosos, que sêo o alvo."
         },
         {
           "p": "O que a regra de letramento do AI Act exige de uma empresa que usa IA na UE?",
           "opcoes": [
-            "Certificação oficial de cada funcionário",
+            "Certificaçêo oficial de cada funcionário",
             "Medidas para garantir um nível suficiente de letramento em IA da equipe",
             "Nada até 2027"
           ],
           "certa": 1,
           "ref": "texto",
-          "explica": "O artigo 4 vale desde 02/02/2025 e pede medidas de letramento, não um certificado específico. O adiamento para 2027 é das regras de alto risco."
+          "explica": "O artigo 4 vale desde 02/02/2025 e pede medidas de letramento, nêo um certificado específico. O adiamento para 2027 é das regras de alto risco."
         },
         {
           "p": "Qual objetivo serve para medir o treinamento em 30 dias?",
           "opcoes": [
             "A equipe vai entender IA",
-            "6 de 8 atendentes usam o modelo de resposta com revisão em 10 casos por semana",
+            "6 de 8 atendentes usam o modelo de resposta com revisêo em 10 casos por semana",
             "A equipe vai ficar mais produtiva"
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Objetivo em comportamento dá para contar. \"Entender\" e \"mais produtiva\" não dizem o que observar."
+          "explica": "Objetivo em comportamento dá para contar. \"Entender\" e \"mais produtiva\" nêo dizem o que observar."
         }
       ]
     },
@@ -221,7 +221,7 @@
       "itens": [
         {
           "t": "4 níveis",
-          "texto": "Nunca usou, usa chat, delega e revisa, agente com aprovação."
+          "texto": "Nunca usou, usa chat, delega e revisa, agente com aprovaçêo."
         },
         {
           "t": "3 grupos",
@@ -233,7 +233,7 @@
         },
         {
           "t": "Proposta em 1 página",
-          "texto": "Objetivo em comportamento, número de hoje e o que não está incluído."
+          "texto": "Objetivo em comportamento, número de hoje e o que nêo está incluído."
         }
       ]
     },
@@ -242,12 +242,12 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "AI Act, artigo 4: letramento em IA (texto e explicação)",
+          "t": "AI Act, artigo 4: letramento em IA (texto e explicaçêo)",
           "href": "https://artificialintelligenceact.eu/article/4/",
           "icone": "escudo"
         },
         {
-          "t": "Comissão Europeia: perguntas e respostas sobre letramento em IA",
+          "t": "Comissêo Europeia: perguntas e respostas sobre letramento em IA",
           "href": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
           "icone": "escudo"
         },

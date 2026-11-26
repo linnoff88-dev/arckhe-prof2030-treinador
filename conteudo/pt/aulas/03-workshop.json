@@ -5,7 +5,7 @@
   "titulo": "Workshop de 1 hora, de 4 horas e bootcamp: a mesma estrutura em 5 partes",
   "titulo_curto": "Workshop 1 h, 4 h, bootcamp",
   "minutos": 22,
-  "lead": "O formato muda, a espinha não. Um workshop de 1 hora, uma manhã de 4 horas e um bootcamp de 5 encontros seguem as mesmas 5 partes: destino, caminho, plano de voo, serviço de bordo e pouso. Nesta aula você monta o roteiro de 1 hora e treina a parte mais difícil: o participante cético.",
+  "lead": "O formato muda, a espinha nêo. Um workshop de 1 hora, uma manhê de 4 horas e um bootcamp de 5 encontros seguem as mesmas 5 partes: destino, caminho, plano de voo, serviço de bordo e pouso. Nesta aula você monta o roteiro de 1 hora e treina a parte mais difícil: o participante cético.",
   "objetivo": "montar o roteiro completo de um workshop de 1 hora nas 5 partes e saber esticá-lo para 4 horas ou para um bootcamp de 5 encontros.",
   "competencias": [
     "desenhar-workshop-em-5-partes",
@@ -20,10 +20,10 @@
       "t": "Como a mesma espinha vira 1 h, 4 h ou bootcamp"
     },
     {
-      "t": "Regras de sala: silêncio, sobra e mãos no bolso"
+      "t": "Regras de sala: silêncio, sobra e mêos no bolso"
     },
     {
-      "t": "Conduzir um participante cético numa simulação"
+      "t": "Conduzir um participante cético numa simulaçêo"
     }
   ],
   "hero_alt": "Sala de workshop com cadeiras, projetor, flipchart, relógio de parede e mesa com café.",
@@ -37,7 +37,7 @@
           "icone": "alvo",
           "titulo": "Destino",
           "sub": "o que a pessoa faz depois",
-          "detalhe": "Não é o que você vai falar: é o que a pessoa vai conseguir fazer quando sair. Se não cabe numa frase, o workshop não está pronto. Ex.: responder reclamação com IA e revisão em metade do tempo."
+          "detalhe": "Nêo é o que você vai falar: é o que a pessoa vai conseguir fazer quando sair. Se nêo cabe numa frase, o workshop nêo está pronto. Ex.: responder reclamaçêo com IA e revisêo em metade do tempo."
         },
         {
           "icone": "seta",
@@ -49,44 +49,44 @@
           "icone": "relogio",
           "titulo": "Plano de voo",
           "sub": "avisar o trecho difícil",
-          "detalhe": "Anuncie antes: \"por volta da metade vem uma parte chata, mas rápida\". Avisada, a sala aguenta. Coloque o conteúdo mais denso no pico de atenção, entre os minutos 20 e 40."
+          "detalhe": "Anuncie antes: \"por volta da metade vem uma parte chata, mas rápida\". Avisada, a sala aguenta. Coloque o conteúdo mais denso no pico de atençêo, entre os minutos 20 e 40."
         },
         {
           "icone": "check",
           "titulo": "Serviço de bordo",
           "sub": "entrega a cada poucos minutos",
           "forte": true,
-          "detalhe": "Um atalho, um exemplo, uma prática curta a cada poucos minutos. Atenção não se sustenta por promessa de final feliz. Aqui entram as duas rodadas de prática da aula 1."
+          "detalhe": "Um atalho, um exemplo, uma prática curta a cada poucos minutos. Atençêo nêo se sustenta por promessa de final feliz. Aqui entram as duas rodadas de prática da aula 1."
         },
         {
           "icone": "calendario",
           "titulo": "Pouso",
           "sub": "o que fazer na segunda-feira",
-          "detalhe": "Recapitule em 3 pontos, faça as perguntas de recuperação, colha o compromisso de cada um e só então abra para dúvidas. Terminar sem pouso deixa a sensação de que nada aconteceu."
+          "detalhe": "Recapitule em 3 pontos, faça as perguntas de recuperaçêo, colha o compromisso de cada um e só entêo abra para dúvidas. Terminar sem pouso deixa a sensaçêo de que nada aconteceu."
         }
       ],
-      "legenda": "Destino e pouso são as partes que a turma lembra. Se faltar tempo, corte do meio, nunca do pouso."
+      "legenda": "Destino e pouso sêo as partes que a turma lembra. Se faltar tempo, corte do meio, nunca do pouso."
     },
     {
       "tipo": "passos",
       "titulo": "Três formatos, a mesma espinha",
-      "sub": "Escolha pelo objetivo, não pela agenda livre do cliente.",
+      "sub": "Escolha pelo objetivo, nêo pela agenda livre do cliente.",
       "passos": [
         {
           "titulo": "1 hora",
           "sub": "abrir a porta",
           "texto": [
-            "Serve para tirar o medo, mostrar um uso que funciona e colher 1 compromisso. Não forma hábito sozinho.",
+            "Serve para tirar o medo, mostrar um uso que funciona e colher 1 compromisso. Nêo forma hábito sozinho.",
             "Uma tarefa real, duas rodadas de prática, retorno marcado. Turma de até 12 pessoas para dar tempo de circular."
           ],
           "exemplo": {
             "rot": "Destino",
-            "texto": "Sair respondendo 1 tipo de reclamação com IA e revisão."
+            "texto": "Sair respondendo 1 tipo de reclamaçêo com IA e revisêo."
           }
         },
         {
           "titulo": "4 horas",
-          "sub": "uma manhã",
+          "sub": "uma manhê",
           "texto": [
             "As 5 partes com 3 tarefas reais da área em vez de 1, uma pausa de 15 minutos e um bloco de segurança com caso real.",
             "Termina com cada pessoa mostrando 1 resultado aos colegas: reconhecimento público ensina que usar é o esperado."
@@ -100,7 +100,7 @@
           "titulo": "Bootcamp",
           "sub": "5 encontros espaçados",
           "texto": [
-            "Cinco encontros de 1 a 2 horas, um por semana. Cada um segue as 5 partes e abre com a recuperação da semana anterior.",
+            "Cinco encontros de 1 a 2 horas, um por semana. Cada um segue as 5 partes e abre com a recuperaçêo da semana anterior.",
             "Sequência: 1 delegar e revisar · 2 tarefas da área · 3 segurança · 4 projeto pessoal · 5 prova prática e escolha dos campeões."
           ],
           "exemplo": {
@@ -113,11 +113,11 @@
           "sub": "valem para os três",
           "texto": [
             "Prepare conteúdo de sobra: dois blocos de reserva se a sala ficar muda e um bloco que você pula se ela falar muito.",
-            "Faça a pergunta e espere 15 segundos. Na prática, mãos no bolso: quem toca no mouse do aluno ensina a olhar, não a fazer."
+            "Faça a pergunta e espere 15 segundos. Na prática, mêos no bolso: quem toca no mouse do aluno ensina a olhar, nêo a fazer."
           ],
           "exemplo": {
             "rot": "Plateia",
-            "texto": "Pergunte antes ao contratante: a turma é obrigada ou voluntária? Obrigada: abra com demonstração. Voluntária: quer fundamento."
+            "texto": "Pergunte antes ao contratante: a turma é obrigada ou voluntária? Obrigada: abra com demonstraçêo. Voluntária: quer fundamento."
           }
         }
       ]
@@ -133,16 +133,16 @@
       "inicio": "abre",
       "falas": {
         "abre": {
-          "cliente": "Já vi isso. A IA inventa coisa. Semana passada ela me deu um prazo de entrega que não existe. Pra que perder uma hora com isso?",
+          "cliente": "Já vi isso. A IA inventa coisa. Semana passada ela me deu um prazo de entrega que nêo existe. Pra que perder uma hora com isso?",
           "opcoes": [
             {
-              "t": "Os modelos novos quase não erram mais, pode confiar.",
+              "t": "Os modelos novos quase nêo erram mais, pode confiar.",
               "vai": "fim-defensivo",
               "nota": 0,
-              "comenta": "Você defendeu a ferramenta contra a experiência real dele. A sala inteira ouviu que o erro do Sérgio não conta."
+              "comenta": "Você defendeu a ferramenta contra a experiência real dele. A sala inteira ouviu que o erro do Sérgio nêo conta."
             },
             {
-              "t": "Você tem razão: ela inventa. Por isso a aula de hoje é sobre conferir antes de mandar. Posso usar o seu caso como exemplo?",
+              "t": "Você tem razêo: ela inventa. Por isso a aula de hoje é sobre conferir antes de mandar. Posso usar o seu caso como exemplo?",
               "vai": "caso",
               "nota": 2,
               "comenta": "Você validou o fato, ligou a dúvida ao destino da aula e transformou o cético em material. Ele virou parte do exercício."
@@ -151,7 +151,7 @@
               "t": "Boa pergunta, vamos deixar para o fim.",
               "vai": "caso",
               "nota": 1,
-              "comenta": "Não é errado, mas a dúvida fica no ar a aula toda. Quando a objeção é o próprio tema da aula, use-a já."
+              "comenta": "Nêo é errado, mas a dúvida fica no ar a aula toda. Quando a objeçêo é o próprio tema da aula, use-a já."
             }
           ]
         },
@@ -159,10 +159,10 @@
           "cliente": "Pode usar. Mas aí eu demoro mais conferindo do que escrevendo do meu jeito.",
           "opcoes": [
             {
-              "t": "Vamos medir: você responde uma reclamação do seu jeito e outra com a IA mais revisão. A gente compara o tempo e a qualidade.",
+              "t": "Vamos medir: você responde uma reclamaçêo do seu jeito e outra com a IA mais revisêo. A gente compara o tempo e a qualidade.",
               "vai": "pratica",
               "nota": 2,
-              "comenta": "Você trocou opinião por experimento. Seja qual for o resultado, a sala aprende a medir antes de acreditar."
+              "comenta": "Você trocou opiniêo por experimento. Seja qual for o resultado, a sala aprende a medir antes de acreditar."
             },
             {
               "t": "Com o tempo você fica mais rápido, confia em mim.",
@@ -171,27 +171,27 @@
               "comenta": "Pode ser verdade, mas é promessa. Com cético, mostrar vale mais que garantir."
             },
             {
-              "t": "Então talvez esse uso não seja para você.",
+              "t": "Entêo talvez esse uso nêo seja para você.",
               "vai": "fim-perdeu",
               "nota": 0,
-              "comenta": "Você dispensou o participante mais experiente da sala. Os curiosos entenderam que dúvida não é bem-vinda."
+              "comenta": "Você dispensou o participante mais experiente da sala. Os curiosos entenderam que dúvida nêo é bem-vinda."
             }
           ]
         },
         "pratica": {
-          "cliente": "Olha aí: na resposta ela ofereceu 15% de desconto pro cliente. A gente não pode dar isso.",
+          "cliente": "Olha aí: na resposta ela ofereceu 15% de desconto pro cliente. A gente nêo pode dar isso.",
           "opcoes": [
             {
               "t": "Ótimo achado. Pessoal, parem um minuto: o Sérgio pegou o erro mais caro do dia. Isso é revisar.",
               "vai": "medo",
               "nota": 2,
-              "comenta": "Reconhecimento público na hora certa. O erro virou a melhor aula do dia e o cético virou referência de revisão."
+              "comenta": "Reconhecimento público na hora certa. O erro virou a melhor aula do dia e o cético virou referência de revisêo."
             },
             {
               "t": "Apaga e pede de novo.",
               "vai": "medo",
               "nota": 1,
-              "comenta": "Resolve o caso, mas perde a lição. A turma não viu por que conferir o desconto importa (é a falha F5 do laboratório)."
+              "comenta": "Resolve o caso, mas perde a liçêo. A turma nêo viu por que conferir o desconto importa (é a falha F5 do laboratório)."
             },
             {
               "t": "Isso é raro, pode seguir.",
@@ -205,19 +205,19 @@
           "cliente": "No fim, a ideia é diminuir a equipe, né?",
           "opcoes": [
             {
-              "t": "Não sei o que a empresa vai decidir e não vou prometer nada. O que vi hoje é que alguém precisa conferir o que a IA escreve, e você fez isso melhor que todos. Sobre planos da equipe, quem responde é o Carlos, o dono.",
+              "t": "Nêo sei o que a empresa vai decidir e nêo vou prometer nada. O que vi hoje é que alguém precisa conferir o que a IA escreve, e você fez isso melhor que todos. Sobre planos da equipe, quem responde é o Carlos, o dono.",
               "vai": "compromisso",
               "nota": 2,
-              "comenta": "Honesto e no seu papel: você não prometeu o que não controla, mostrou o valor dele e passou a pergunta de gestão a quem responde por ela."
+              "comenta": "Honesto e no seu papel: você nêo prometeu o que nêo controla, mostrou o valor dele e passou a pergunta de gestêo a quem responde por ela."
             },
             {
               "t": "Imagina, ninguém vai ser demitido.",
               "vai": "compromisso",
               "nota": 0,
-              "comenta": "Promessa que você não pode cumprir. Se algo mudar, a sua credibilidade e a do treinamento acabam juntas."
+              "comenta": "Promessa que você nêo pode cumprir. Se algo mudar, a sua credibilidade e a do treinamento acabam juntas."
             },
             {
-              "t": "Isso não é assunto desta aula.",
+              "t": "Isso nêo é assunto desta aula.",
               "vai": "compromisso",
               "nota": 1,
               "comenta": "É verdade, mas soa como fuga. Reconheça o medo em uma frase antes de seguir."
@@ -228,7 +228,7 @@
           "cliente": "Tá. E agora, faço o quê com isso?",
           "opcoes": [
             {
-              "t": "Escolha um tipo de reclamação e use o modelo com revisão em 10 casos até sexta. Me mostra 2 na quinta, no retorno de 15 minutos.",
+              "t": "Escolha um tipo de reclamaçêo e use o modelo com revisêo em 10 casos até sexta. Me mostra 2 na quinta, no retorno de 15 minutos.",
               "vai": "fim-bom",
               "nota": 2,
               "comenta": "Compromisso pequeno, contável e com data. É o princípio da próxima semana."
@@ -240,32 +240,32 @@
               "comenta": "Sem compromisso, o que foi treinado some em poucos dias."
             },
             {
-              "t": "Quer ser o campeão de IA da equipe?",
+              "t": "Quer ser o campeêo de IA da equipe?",
               "vai": "fim-cedo",
               "nota": 1,
-              "comenta": "Ele tem o olhar crítico de um bom campeão, mas o convite veio cedo. Campeão se escolhe depois de ver uso, com vontade dita pela própria pessoa."
+              "comenta": "Ele tem o olhar crítico de um bom campeêo, mas o convite veio cedo. Campeêo se escolhe depois de ver uso, com vontade dita pela própria pessoa."
             }
           ]
         },
         "fim-defensivo": {
           "fim": true,
           "titulo": "A sala parou de ouvir",
-          "texto": "Ao defender a ferramenta, você perdeu o participante mais experiente e ensinou que dúvida atrapalha. O resto da hora virou demonstração para uma sala calada."
+          "texto": "Ao defender a ferramenta, você perdeu o participante mais experiente e ensinou que dúvida atrapalha. O resto da hora virou demonstraçêo para uma sala calada."
         },
         "fim-perdeu": {
           "fim": true,
           "titulo": "O cético saiu e levou a sala",
-          "texto": "O Sérgio se desligou da aula e, na semana seguinte, diz no café que \"aquilo não funciona\". Os curiosos ouvem quem tem 12 anos de casa, não quem passou uma hora lá."
+          "texto": "O Sérgio se desligou da aula e, na semana seguinte, diz no café que \"aquilo nêo funciona\". Os curiosos ouvem quem tem 12 anos de casa, nêo quem passou uma hora lá."
         },
         "fim-morno": {
           "fim": true,
           "titulo": "Boa aula, nenhum hábito",
-          "texto": "A sala gostou e o Sérgio mudou de opinião, mas ninguém combinou o que fazer. Em duas semanas, o atendimento está igual a antes."
+          "texto": "A sala gostou e o Sérgio mudou de opiniêo, mas ninguém combinou o que fazer. Em duas semanas, o atendimento está igual a antes."
         },
         "fim-cedo": {
           "fim": true,
           "titulo": "Bom candidato, convite apressado",
-          "texto": "O Sérgio desconfia do convite e recua. Campeão se escolhe com critério (aula 7): use, mostre resultado e então converse com ele e com o Carlos."
+          "texto": "O Sérgio desconfia do convite e recua. Campeêo se escolhe com critério (aula 7): use, mostre resultado e entêo converse com ele e com o Carlos."
         },
         "fim-bom": {
           "fim": true,
@@ -273,7 +273,7 @@
           "texto": "Você usou a dúvida dele como exercício, mediu em vez de prometer, reconheceu o achado e saiu com compromisso e data. Na quinta, ele traz os 2 casos e é quem explica aos colegas o que conferir."
         }
       },
-      "licao": "Participante cético é material de aula: valide o fato, transforme a dúvida em experimento, reconheça o achado em público e não prometa o que não depende de você."
+      "licao": "Participante cético é material de aula: valide o fato, transforme a dúvida em experimento, reconheça o achado em público e nêo prometa o que nêo depende de você."
     },
     {
       "tipo": "codigo",
@@ -283,12 +283,12 @@
         {
           "rot": "Roteiro de workshop de 1 hora (5 partes)",
           "icone": "lista",
-          "conteudo": "WORKSHOP · <tema> · <empresa> · <data>\nPlateia: <cargos> · obrigada ou voluntária: <qual> · até <n> pessoas\nDESTINO (1 frase): depois desta hora, vocês vão conseguir <fazer o quê>.\n\n00-05 CAMINHO\n- Problema com número da empresa: <...>\n- O que a sala pensa hoje: <...>\n- Medo a nomear: <...>\n- Plano de voo: \"por volta dos 20 minutos vem a parte mais densa\"\n\n05-20 SERVIÇO DE BORDO 1 · demonstração curta + rodada 1\n- Tarefa real: <...>\n- Pergunta para a sala (esperar 15 s): <...>\n\n20-40 SERVIÇO DE BORDO 2 · o trecho denso + rodada 2\n- Como revisar: <checklist de 3 itens>\n- Refazer a tarefa com o retorno da rodada 1\n\n40-52 SERVIÇO DE BORDO 3 · aplicado\n- Caso de risco da área (2 min): <...>\n- Quem achou um erro mostra para a sala\n\n52-60 POUSO\n- 3 perguntas sem olhar o material\n- Compromisso: 1 tarefa, 10 casos, até <dia>\n- Retorno: <data> · 15 min\n\nRESERVA (sala muda): <bloco A> / <bloco B>\nPULAR (sala fala muito): <bloco>"
+          "conteudo": "WORKSHOP · <tema> · <empresa> · <data>\nPlateia: <cargos> · obrigada ou voluntária: <qual> · até <n> pessoas\nDESTINO (1 frase): depois desta hora, vocês vêo conseguir <fazer o quê>.\n\n00-05 CAMINHO\n- Problema com número da empresa: <...>\n- O que a sala pensa hoje: <...>\n- Medo a nomear: <...>\n- Plano de voo: \"por volta dos 20 minutos vem a parte mais densa\"\n\n05-20 SERVIÇO DE BORDO 1 · demonstraçêo curta + rodada 1\n- Tarefa real: <...>\n- Pergunta para a sala (esperar 15 s): <...>\n\n20-40 SERVIÇO DE BORDO 2 · o trecho denso + rodada 2\n- Como revisar: <checklist de 3 itens>\n- Refazer a tarefa com o retorno da rodada 1\n\n40-52 SERVIÇO DE BORDO 3 · aplicado\n- Caso de risco da área (2 min): <...>\n- Quem achou um erro mostra para a sala\n\n52-60 POUSO\n- 3 perguntas sem olhar o material\n- Compromisso: 1 tarefa, 10 casos, até <dia>\n- Retorno: <data> · 15 min\n\nRESERVA (sala muda): <bloco A> / <bloco B>\nPULAR (sala fala muito): <bloco>"
         },
         {
           "rot": "Prompt · preparar respostas para objeções",
           "icone": "chat",
-          "conteudo": "Vou dar um workshop de IA de <duração> para <área e cargos> de <tipo de empresa>.\nO diagnóstico mostrou: <níveis e grupos>.\n\nListe as 5 objeções mais prováveis dessa turma (medo, desconfiança, falta de tempo, segurança, \"já tentei\").\nPara cada uma:\n1. a frase como a pessoa diria;\n2. uma resposta curta e honesta, sem prometer o que eu não controlo\n   (emprego, resultado garantido, \"a IA não erra\");\n3. como transformar a objeção num exercício de 3 minutos."
+          "conteudo": "Vou dar um workshop de IA de <duraçêo> para <área e cargos> de <tipo de empresa>.\nO diagnóstico mostrou: <níveis e grupos>.\n\nListe as 5 objeções mais prováveis dessa turma (medo, desconfiança, falta de tempo, segurança, \"já tentei\").\nPara cada uma:\n1. a frase como a pessoa diria;\n2. uma resposta curta e honesta, sem prometer o que eu nêo controlo\n   (emprego, resultado garantido, \"a IA nêo erra\");\n3. como transformar a objeçêo num exercício de 3 minutos."
         }
       ]
     },
@@ -302,13 +302,13 @@
           "titulo": "1 · Roteiro de 1 hora completo",
           "min": "40 min",
           "texto": "Copie o roteiro e preencha para a equipe de atendimento da Horizonte (ou para a sua turma real), usando o diagnóstico da aula 2 e o plano de aula da aula 1.",
-          "pronto": "todos os campos estão preenchidos, a soma dos blocos dá 60 minutos, há 2 rodadas de prática e um compromisso com data."
+          "pronto": "todos os campos estêo preenchidos, a soma dos blocos dá 60 minutos, há 2 rodadas de prática e um compromisso com data."
         },
         {
           "id": "e2",
           "titulo": "2 · Workshop simulado",
           "min": "10 min",
-          "texto": "Faça a conversa simulada com o Sérgio. Se não chegar ao placar máximo, leia os comentários e recomece.",
+          "texto": "Faça a conversa simulada com o Sérgio. Se nêo chegar ao placar máximo, leia os comentários e recomece.",
           "pronto": "você terminou com o placar máximo e escreveu, para 3 objeções da sua turma, a resposta que daria."
         }
       ]
@@ -316,7 +316,7 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "O workshop atrasou 10 minutos. O que você corta?",
@@ -327,7 +327,7 @@
           ],
           "certa": 1,
           "ref": "diagrama",
-          "explica": "Pouso e prática são o que a turma leva. Por isso o roteiro já traz um bloco marcado para pular."
+          "explica": "Pouso e prática sêo o que a turma leva. Por isso o roteiro já traz um bloco marcado para pular."
         },
         {
           "p": "O cliente quer \"um workshop de 1 hora para a equipe virar especialista em IA\". O que dizer?",
@@ -349,18 +349,18 @@
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Quem responde em 3 segundos ensina a sala a não responder. Esperar mostra que a pergunta era de verdade."
+          "explica": "Quem responde em 3 segundos ensina a sala a nêo responder. Esperar mostra que a pergunta era de verdade."
         },
         {
           "p": "Um participante pergunta se a IA vai cortar empregos na empresa. Qual resposta é a mais honesta?",
           "opcoes": [
             "Garantir que ninguém será demitido",
-            "Dizer que não controla essa decisão, mostrar o valor de quem revisa e indicar quem responde por planos da equipe",
-            "Dizer que esse assunto não cabe na aula"
+            "Dizer que nêo controla essa decisêo, mostrar o valor de quem revisa e indicar quem responde por planos da equipe",
+            "Dizer que esse assunto nêo cabe na aula"
           ],
           "certa": 1,
           "ref": "simconversa",
-          "explica": "Prometer o que você não controla destrói a credibilidade do treinamento. Reconheça o medo e fique no seu papel."
+          "explica": "Prometer o que você nêo controla destrói a credibilidade do treinamento. Reconheça o medo e fique no seu papel."
         }
       ]
     },
@@ -378,11 +378,11 @@
         },
         {
           "t": "Regras de sala",
-          "texto": "Sobra preparada, 15 segundos de silêncio, mãos no bolso."
+          "texto": "Sobra preparada, 15 segundos de silêncio, mêos no bolso."
         },
         {
           "t": "Cético é material",
-          "texto": "Valide, meça, reconheça o achado e não prometa o que não controla."
+          "texto": "Valide, meça, reconheça o achado e nêo prometa o que nêo controla."
         }
       ]
     },
@@ -396,12 +396,12 @@
           "icone": "lista"
         },
         {
-          "t": "CAIO: mudança e adoção dentro da empresa (trilha 3)",
+          "t": "CAIO: mudança e adoçêo dentro da empresa (trilha 3)",
           "href": "https://inematds.github.io/caio/",
           "icone": "camadas"
         },
         {
-          "t": "Segunda Opinião: material para workshop de líderes",
+          "t": "Segunda Opiniêo: material para workshop de líderes",
           "href": "https://inematds.github.io/segunda-opiniao/",
           "icone": "usuario"
         },

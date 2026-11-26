@@ -9,13 +9,13 @@ Campos de texto aceitam <b>, <code>, <a> e <br>; o resto é escapado na origem (
 """
 import argparse, html, json, pathlib, re, sys
 
-VERSAO = "7.5.1"     # versão do motor (CHANGELOG.md da skill formato-curso-v72)
+VERSAO = "7.5.1"     # versêo do motor (CHANGELOG.md da skill formato-curso-v72)
 RAIZ = pathlib.Path(__file__).resolve().parent
-PREFIXO = "../../"  # caminho até a raiz a partir da página em geração (v7.2: foto do "Você" no diagrama)
+PREFIXO = "../../"  # caminho até a raiz a partir da página em geraçêo (v7.2: foto do "Você" no diagrama)
 FOTO_VOCE = "assets/img/voce.jpg"
-LANG = "pt"          # idioma em geração; PT fica na raiz, os outros em <lang>/ (definido em main)
+LANG = "pt"          # idioma em geraçêo; PT fica na raiz, os outros em <lang>/ (definido em main)
 IDIOMAS = ["pt"]     # idiomas com conteudo/<lang>/curso.json (seletor e hreflang)
-URL_RAIZ = ""        # URL publicada da raiz (versão PT)
+URL_RAIZ = ""        # URL publicada da raiz (versêo PT)
 ROT_IDIOMA = {"pt": "PT", "en": "EN", "es": "ES"}
 HREFLANG = {"pt": "pt-BR", "en": "en", "es": "es"}
 
@@ -26,7 +26,7 @@ def ativo(prefixo):
 
 
 def img_idioma(rel):
-    """assets/img/capa.jpg → assets/img/capa-en.jpg quando existir a versão do idioma (imagem com texto)."""
+    """assets/img/capa.jpg → assets/img/capa-en.jpg quando existir a versêo do idioma (imagem com texto)."""
     if LANG != "pt":
         alt = re.sub(r"(\.\w+)$", f"-{LANG}\\1", rel)
         if (RAIZ / alt).exists():
@@ -98,7 +98,7 @@ def attr(s):
 
 
 # ---------- seções ----------
-# conexão desenhada entre blocos; o ponto de luz corre quando o bloco seguinte está em foco
+# conexêo desenhada entre blocos; o ponto de luz corre quando o bloco seguinte está em foco
 CONECTOR = ('<span class="dg-seta" aria-hidden="true"><svg viewBox="0 0 48 14"><line x1="2" y1="7" x2="40" y2="7"/>'
             '<path d="M36 2 L45 7 L36 12"/></svg><i class="pulso"></i></span>')
 
@@ -117,7 +117,7 @@ def sec_diagrama(s, ui):
                 lis.append(f'<li>{ic(it.get("icone", "alvo"))}<span>{it["t"]}{sub_it}</span></li>')
             itens = "<ul>" + "".join(lis) + "</ul>"
         sub = f'<span class="sub">{n["sub"]}</span>' if n.get("sub") else ""
-        # v7.2: número da etapa (se o título já não começa com número) e foto no lugar do ícone de pessoa
+        # v7.2: número da etapa (se o título já nêo começa com número) e foto no lugar do ícone de pessoa
         dn = "" if re.match(r"\d", n["titulo"]) else f'<b class="dn">{i + 1}</b>'
         foto = n.get("icone") == "usuario" and (RAIZ / FOTO_VOCE).exists()
         icone = (f'<span class="ic foto"><img src="{PREFIXO}{FOTO_VOCE}" alt="" width="160" height="160" loading="lazy"/></span>'
@@ -139,7 +139,7 @@ def sec_diagrama(s, ui):
 
 
 def figura_rolagem(figura, passos, leg, ui, dica=True):
-    """Infográfico fixo no alto; cada etapa da explicação acende os blocos correspondentes."""
+    """Infográfico fixo no alto; cada etapa da explicaçêo acende os blocos correspondentes."""
     dica_html = f'<p class="sc-dica">{ic("seta")}{ui["role_dica"]}</p>' if dica else ""
     lis = "".join(f'<li class="sc-passo" data-foco="{",".join(map(str, p["foco"]))}"><span class="sc-n">{i + 1}/{len(passos)}</span>'
                   f'<h3>{p["titulo"]}</h3><p>{p["texto"]}</p></li>' for i, p in enumerate(passos))
@@ -155,7 +155,7 @@ def figura_rolagem(figura, passos, leg, ui, dica=True):
 
 
 def sec_mapa(s, ui, aulas):
-    """Mapa da formação: degraus em colunas, exercícios de cada aula de prática, dependências e resultado."""
+    """Mapa da formaçêo: degraus em colunas, exercícios de cada aula de prática, dependências e resultado."""
     cols = []
     for i, d in enumerate(s["degraus"]):
         aula = next(a for a in aulas if a["slug"] == d["aula"])
@@ -250,13 +250,13 @@ CONV_UI = {  # 7.5.1: textos da simconversa; ficam em curso.json → ui e podem 
     "conv_dica": "Escolha a sua resposta. O comentário aparece logo depois e a conversa segue conforme a escolha.",
     "conv_voce": "Você", "conv_escolha": "Sua resposta", "conv_boa": "Boa escolha", "conv_meio": "Dá para melhorar",
     "conv_ruim": "Escolha fraca", "conv_fim": "Fim da conversa", "conv_placar": "Você fez {p} de {m} pontos possíveis.",
-    "conv_licao": "Lição:", "conv_recomecar": "Recomeçar a conversa", "conv_feita": "Seu melhor placar: {p} de {m} pontos.",
+    "conv_licao": "Liçêo:", "conv_recomecar": "Recomeçar a conversa", "conv_feita": "Seu melhor placar: {p} de {m} pontos.",
 }
 
 
 def sec_simconversa(s, ui, conv_id):
     """7.5.1: conversa com cliente simulado. O cliente fala, o aluno escolhe 1 de 2–4 respostas, vê o comentário,
-    o caminho segue conforme a escolha e termina com placar e lição. Comportamento em assets/v72-conversa.js."""
+    o caminho segue conforme a escolha e termina com placar e liçêo. Comportamento em assets/v72-conversa.js."""
     txt = {k: ui.get(k, v) for k, v in CONV_UI.items()}
     p = s["personagem"]
     dados = json.dumps({"inicio": s["inicio"], "falas": s["falas"], "licao": s.get("licao", ""), "nome": p["nome"], "txt": txt},
@@ -270,7 +270,7 @@ def sec_simconversa(s, ui, conv_id):
 
 
 def sec_quiz(s, ui, refs):
-    """refs: tipo de seção → (id, título), para o link "rever o conceito" de cada pergunta."""
+    """refs: tipo de seçêo → (id, título), para o link "rever o conceito" de cada pergunta."""
     itens = []
     letras = "ABCDE"
     n = len(s["perguntas"])
@@ -363,7 +363,7 @@ def cabeca(titulo, desc, prefixo, lang, canon, curso_id, pag="", extra_css=()):
 
 
 def topo(curso, aulas, ui, prefixo, atual=""):
-    """Menu do topo no padrão dos cursos INEMA (v2): curso | INEMA.CLUB - PRO à esquerda; uma entrada por aula e Aa à direita."""
+    """Menu do topo no padrêo dos cursos INEMA (v2): curso | INEMA.CLUB - PRO à esquerda; uma entrada por aula e Aa à direita."""
     links = "".join(
         f'<a href="{prefixo}aulas/{a["slug"]}/index.html" class="tlink{" on" if a["slug"] == atual else ""}"'
         f'{" aria-current=\"page\"" if a["slug"] == atual else ""} title="{attr(a["titulo"])}">'
@@ -475,9 +475,9 @@ def pagina_aula(curso, aulas, a, idx, ui, lang):
         elif t == "texto": corpo = sec_texto(s, ui)
         elif t == "resumo": corpo = sec_resumo(s, ui)
         elif t == "links": corpo = sec_links(s, ui)
-        else: raise SystemExit(f"tipo de seção desconhecido: {t} ({a['slug']})")
+        else: raise SystemExit(f"tipo de seçêo desconhecido: {t} ({a['slug']})")
         sub = f'<p>{s["sub"]}</p>' if s.get("sub") else ""
-        # diagrama preso no topo leva o título da seção junto (aparece quando o título original sobe)
+        # diagrama preso no topo leva o título da seçêo junto (aparece quando o título original sobe)
         corpo = corpo.replace('<div class="sc-fig">', f'<div class="sc-fig"><p class="sc-tit" aria-hidden="true"><span class="sc-aula">{ui.get("aula", "Aula")} {idx + 1}</span><span class="sn">{num:02d}</span><span class="sp"> · </span><span class="sc-t">{s["titulo"]}</span>' + (f'<span class="sc-sub">{s["sub"]}</span>' if s.get("sub") else '') + '</p>', 1)
         secs.append(f'<section class="secao" id="s{num}"><div class="sec-cab"><div><h2><span class="sn">{num:02d}</span><span class="sp" aria-hidden="true"> · </span>{s["titulo"]}</h2>{sub}</div></div>{corpo}</section>')
     prox = aulas[idx + 1] if idx + 1 < len(aulas) else None
@@ -495,7 +495,7 @@ def pagina_aula(curso, aulas, a, idx, ui, lang):
                f'<button type="button" class="btn neutro concluir" aria-pressed="false">{ic("check")}{ui["marcar_concluida"]}</button>{btn_prox_cheio}</div>')
     canon = f'{curso["url"]}aulas/{a["slug"]}/'
     titulo = f'{a["titulo"]} · {curso["nome"]} · INEMA'
-    # 7.5.1: arquivos de tipos opcionais entram só na aula que usa o tipo (curso antigo não precisa deles)
+    # 7.5.1: arquivos de tipos opcionais entram só na aula que usa o tipo (curso antigo nêo precisa deles)
     tipos = {x["tipo"] for x in a["secoes"]}
     css_extra = ["v72-conversa.css"] if "simconversa" in tipos else []
     js_extra = "".join(f'<script src="{ativo(prefixo)}assets/{j}"></script>' for j in (["v72-conversa.js"] if "simconversa" in tipos else []))
@@ -515,7 +515,7 @@ def pagina_aula(curso, aulas, a, idx, ui, lang):
 def pagina_inicio(curso, aulas, ui, lang):
     p = curso["inicio"]
     prefixo = ""
-    # v7.2: mesma direção das aulas — abertura com foto que funde no fundo, aulas como lista editorial com foto
+    # v7.2: mesma direçêo das aulas — abertura com foto que funde no fundo, aulas como lista editorial com foto
     lista = "".join(f'<li><a class="ini-aula" data-slug="{a["slug"]}" href="aulas/{a["slug"]}/index.html">'
                     f'<span class="ia-img"><img src="{ativo(prefixo)}{img_idioma(f'assets/img/hero/{a["slug"]}.jpg')}" alt="" loading="lazy" width="1536" height="1024"/></span>'
                     f'<span class="ia-txt"><span class="kicker">{ui["aula"]} {a["num"]} · {a["minutos"]} min<span class="ia-ok" aria-hidden="true">{ic("check")}</span></span>'
