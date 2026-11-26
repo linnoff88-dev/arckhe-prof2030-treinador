@@ -6,11 +6,11 @@
 </div>
 
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha no INEMA.CLUB](https://www.inema.club/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/)
-- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha no ARCKHÉ AI](https://www.ARCKHÉ AI/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/)
+- [Guia: como aprender inteligência artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
 
 ---
 

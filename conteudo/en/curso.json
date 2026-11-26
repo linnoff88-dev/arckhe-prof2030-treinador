@@ -1,31 +1,31 @@
 {
   "id": "prof2030-treinador",
   "lang": "en",
-  "url": "https://inematds.github.io/prof2030-treinador/en/",
+  "url": "https://linnoff88-dev.github.io/arckhe-/en/",
   "nome": "AI Trainer",
   "sub": "Professional 2030 · program",
   "icone": "megafone",
   "volta": {
     "t": "Professional 2030",
-    "href": "https://inematds.github.io/profissional-2030/"
+    "href": "https://linnoff88-dev.github.io/arckhe-/"
   },
   "lado_card": {
     "rot": "Final project",
     "t": "1-hour workshop kit",
     "texto": "For the Horizonte Distribuidora customer service team: script, exercises, rubric and follow-up.",
     "link": "Open the lab company",
-    "href": "https://inematds.github.io/prof2030-lab/"
+    "href": "https://linnoff88-dev.github.io/arckhe-/"
   },
-  "rodape": "INEMA.CLUB · open and free content · INEMA Learning v7.2 format · part of <a href=\"https://inematds.github.io/profissional-2030/\">Professional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · The INEMA certification is a qualification, not a regulated profession. · <a href=\"https://www.inema.club/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">This course's page on INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guide: how to learn AI</a>",
+  "rodape": "ARCKHÉ AI · open and free content · ARCKHÉ Learning v7.2 format · part of <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Professional 2030</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a> · The ARCKHÉ certification is a qualification, not a regulated profession. · <a href=\"https://www.ARCKHÉ AI/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">This course's page on ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/aprender-inteligencia-artificial/\">Guide: how to learn AI</a>",
   "videos": {},
   "inicio": {
     "kicker": "Professional 2030 · AI Trainer program · 8 lessons",
     "titulo": "AI Trainer: teach teams to delegate, review and approve work done with AI",
-    "lead": "For people who will run workshops and bootcamps and train teams and leaders using INEMA's open content. You learn how to teach adults, diagnose the class, build the workshop, train the right habit, teach safety with real cases and assess who learned.",
+    "lead": "For people who will run workshops and bootcamps and train teams and leaders using ARCKHÉ's open content. You learn how to teach adults, diagnose the class, build the workshop, train the right habit, teach safety with real cases and assess who learned.",
     "cta": "Start with lesson 1",
     "cta2": {
       "t": "See Professional 2030",
-      "href": "https://inematds.github.io/profissional-2030/"
+      "href": "https://linnoff88-dev.github.io/arckhe-/"
     },
     "capa_alt": "Small training room with a flipchart, chairs in a semicircle and a facilitator pointing at the board.",
     "numeros": [
@@ -69,10 +69,10 @@
       {
         "t": "Part of Professional 2030",
         "itens": [
-          "This course is part of <a href=\"https://inematds.github.io/profissional-2030/\">Professional 2030</a>. Each program will have INEMA certification; details soon.",
-          "Recommended prerequisite (not required): <a href=\"https://inematds.github.io/prof2030-base/\">Common base</a>.",
-          "Other programs: <a href=\"https://inematds.github.io/prof2030-consultor/\">Consultant</a> · <a href=\"https://inematds.github.io/prof2030-auditor/\">Auditor</a> · <a href=\"https://inematds.github.io/prof2030-mentor/\">Mentor</a> · <a href=\"https://inematds.github.io/prof2030-treinador/\">Trainer</a>.",
-          "Company used in the exercises: <a href=\"https://inematds.github.io/prof2030-lab/\">Horizonte Distribuidora Lab</a>."
+          "This course is part of <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Professional 2030</a>. Each program will have ARCKHÉ certification; details soon.",
+          "Recommended prerequisite (not required): <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Common base</a>.",
+          "Other programs: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Consultant</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Auditor</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Mentor</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Trainer</a>.",
+          "Company used in the exercises: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Horizonte Distribuidora Lab</a>."
         ]
       }
     ]

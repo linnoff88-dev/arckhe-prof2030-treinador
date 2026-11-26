@@ -1,31 +1,31 @@
 {
   "id": "prof2030-treinador",
   "lang": "es",
-  "url": "https://inematds.github.io/prof2030-treinador/es/",
+  "url": "https://linnoff88-dev.github.io/arckhe-/es/",
   "nome": "Formador de IA",
   "sub": "Profesional 2030 · formación",
   "icone": "megafone",
   "volta": {
     "t": "Profesional 2030",
-    "href": "https://inematds.github.io/profissional-2030/"
+    "href": "https://linnoff88-dev.github.io/arckhe-/"
   },
   "lado_card": {
     "rot": "Proyecto final",
     "t": "Kit de taller de 1 hora",
     "texto": "Para el equipo de atención de Horizonte Distribuidora: guion, ejercicios, rúbrica y seguimiento.",
     "link": "Abrir la empresa laboratorio",
-    "href": "https://inematds.github.io/prof2030-lab/"
+    "href": "https://linnoff88-dev.github.io/arckhe-/"
   },
-  "rodape": "INEMA.CLUB · contenido abierto y gratuito · formato INEMA Learning v7.2 · parte de <a href=\"https://inematds.github.io/profissional-2030/\">Profesional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · La certificación INEMA es de calificación, no de una profesión regulada. · <a href=\"https://www.inema.club/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">Ficha de este curso en INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guía: cómo aprender IA</a>",
+  "rodape": "ARCKHÉ AI · contenido abierto y gratuito · formato ARCKHÉ Learning v7.2 · parte de <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Profesional 2030</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a> · La certificación ARCKHÉ es de calificación, no de una profesión regulada. · <a href=\"https://www.ARCKHÉ AI/cursos/340-profissional-2030-treinador-de-ia-workshops-e-formacao-de-equipes-8-aulas/\">Ficha de este curso en ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/aprender-inteligencia-artificial/\">Guía: cómo aprender IA</a>",
   "videos": {},
   "inicio": {
     "kicker": "Profesional 2030 · formación Formador de IA · 8 clases",
     "titulo": "Formador de IA: enseña a los equipos a delegar, revisar y aprobar el trabajo hecho con IA",
-    "lead": "Para quienes van a dar talleres, bootcamps y formar equipos y liderazgos con el contenido abierto de INEMA. Aprenderás a enseñar a adultos, diagnosticar al grupo, armar el taller, entrenar el hábito correcto, enseñar seguridad con casos reales y evaluar quién aprendió.",
+    "lead": "Para quienes van a dar talleres, bootcamps y formar equipos y liderazgos con el contenido abierto de ARCKHÉ. Aprenderás a enseñar a adultos, diagnosticar al grupo, armar el taller, entrenar el hábito correcto, enseñar seguridad con casos reales y evaluar quién aprendió.",
     "cta": "Empezar por la clase 1",
     "cta2": {
       "t": "Ver Profesional 2030",
-      "href": "https://inematds.github.io/profissional-2030/"
+      "href": "https://linnoff88-dev.github.io/arckhe-/"
     },
     "capa_alt": "Sala de capacitación pequeña con rotafolio, sillas en semicírculo y un facilitador señalando la pizarra.",
     "numeros": [
@@ -69,10 +69,10 @@
       {
         "t": "Parte de Profesional 2030",
         "itens": [
-          "Este curso forma parte de <a href=\"https://inematds.github.io/profissional-2030/\">Profesional 2030</a>. Cada formación tendrá certificación INEMA; detalles pronto.",
-          "Requisito previo recomendado (no obligatorio): <a href=\"https://inematds.github.io/prof2030-base/\">Base común</a>.",
-          "Otras formaciones: <a href=\"https://inematds.github.io/prof2030-consultor/\">Consultor</a> · <a href=\"https://inematds.github.io/prof2030-auditor/\">Auditor</a> · <a href=\"https://inematds.github.io/prof2030-mentor/\">Mentor</a> · <a href=\"https://inematds.github.io/prof2030-treinador/\">Formador</a>.",
-          "Empresa usada en los ejercicios: <a href=\"https://inematds.github.io/prof2030-lab/\">Laboratorio Horizonte Distribuidora</a>."
+          "Este curso forma parte de <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Profesional 2030</a>. Cada formación tendrá certificación ARCKHÉ; detalles pronto.",
+          "Requisito previo recomendado (no obligatorio): <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Base común</a>.",
+          "Otras formaciones: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Consultor</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Auditor</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Mentor</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Formador</a>.",
+          "Empresa usada en los ejercicios: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Laboratorio Horizonte Distribuidora</a>."
         ]
       }
     ]

@@ -149,7 +149,7 @@
       "tipo": "pratica",
       "titulo": "Projeto final",
       "sub": "O kit é a entrega desta formaçêo.",
-      "fonte": "Cenário: <a href=\"https://inematds.github.io/prof2030-lab/\">empresa-laboratório Horizonte Distribuidora</a> (dados fictícios).",
+      "fonte": "Cenário: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">empresa-laboratório Horizonte Distribuidora</a> (dados fictícios).",
       "exercicios": [
         {
           "id": "e1",
@@ -260,22 +260,22 @@
       "links": [
         {
           "t": "Empresa-laboratório: Horizonte Distribuidora",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "pasta"
         },
         {
           "t": "Profissional 2030: as formações e a certificaçêo",
-          "href": "https://inematds.github.io/profissional-2030/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "camadas"
         },
         {
           "t": "Base comum do Profissional 2030",
-          "href": "https://inematds.github.io/prof2030-base/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "seta"
         },
         {
           "t": "Segunda Opiniêo: o pedido de clareza em 5 partes",
-          "href": "https://inematds.github.io/segunda-opiniao/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "usuario"
         },
         {
@@ -285,7 +285,7 @@
         },
         {
           "t": "Laboratório Horizonte: Painel de indicadores (F11)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/painel/",
           "icone": "lupa"
         }
       ]

@@ -149,7 +149,7 @@
       "tipo": "pratica",
       "titulo": "Final project",
       "sub": "The kit is the deliverable of this program.",
-      "fonte": "Scenario: <a href=\"https://inematds.github.io/prof2030-lab/\">lab company Horizonte Distribuidora</a> (fictional data).",
+      "fonte": "Scenario: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">lab company Horizonte Distribuidora</a> (fictional data).",
       "exercicios": [
         {
           "id": "e1",
@@ -260,22 +260,22 @@
       "links": [
         {
           "t": "Lab company: Horizonte Distribuidora",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "pasta"
         },
         {
           "t": "Professional 2030: the programs and the certification",
-          "href": "https://inematds.github.io/profissional-2030/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "camadas"
         },
         {
           "t": "Professional 2030 common base",
-          "href": "https://inematds.github.io/prof2030-base/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "seta"
         },
         {
           "t": "Second Opinion: the 5-part request for clarity",
-          "href": "https://inematds.github.io/segunda-opiniao/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "usuario"
         },
         {
@@ -285,7 +285,7 @@
         },
         {
           "t": "Horizonte Lab: Indicators dashboard (F11)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/painel/",
           "icone": "lupa"
         }
       ]

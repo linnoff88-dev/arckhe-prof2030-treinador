@@ -5,8 +5,8 @@
   "titulo": "Adaptar al área del alumno: ventas, atención al cliente, RR. HH., jurídico, finanzas y operación",
   "titulo_curto": "Adaptar al área",
   "minutos": 18,
-  "lead": "Al vendedor no le sirve el ejemplo de un abogado, y a finanzas no le sirve el de marketing. El mismo ciclo de delegar, revisar y aprobar gana fuerza cuando usa la tarea, el vocabulario y el riesgo de cada área. Esta clase trae el método de adaptación y un mapa de los cursos abiertos de INEMA por área, para que armes la ruta de cada grupo.",
-  "objetivo": "armar una ruta para 1 área con tareas, vocabulario, riesgo típico y cursos abiertos de INEMA con enlace.",
+  "lead": "Al vendedor no le sirve el ejemplo de un abogado, y a finanzas no le sirve el de marketing. El mismo ciclo de delegar, revisar y aprobar gana fuerza cuando usa la tarea, el vocabulario y el riesgo de cada área. Esta clase trae el método de adaptación y un mapa de los cursos abiertos de ARCKHÉ por área, para que armes la ruta de cada grupo.",
+  "objetivo": "armar una ruta para 1 área con tareas, vocabulario, riesgo típico y cursos abiertos de ARCKHÉ con enlace.",
   "competencias": [
     "adaptar-conteudo-por-area",
     "montar-trilha-com-cursos-abertos",
@@ -17,7 +17,7 @@
       "t": "Los 4 ingredientes de una adaptación"
     },
     {
-      "t": "Qué curso abierto de INEMA sirve para cada área"
+      "t": "Qué curso abierto de ARCKHÉ sirve para cada área"
     },
     {
       "t": "El riesgo típico de cada área para usar en clase"
@@ -56,14 +56,14 @@
           "icone": "camadas",
           "titulo": "Cursos abiertos",
           "sub": "la ruta después del taller",
-          "detalhe": "El taller abre la puerta; los cursos abiertos y gratuitos de INEMA continúan el estudio. Recomienda como máximo 2 o 3 por área, en el orden correcto, para que la persona no se pierda en el catálogo."
+          "detalhe": "El taller abre la puerta; los cursos abiertos y gratuitos de ARCKHÉ continúan el estudio. Recomienda como máximo 2 o 3 por área, en el orden correcto, para que la persona no se pierda en el catálogo."
         }
       ],
       "legenda": "Tarea y vocabulario captan la atención; el riesgo típico se convierte en el ejercicio de aprobación; los cursos mantienen el estudio después."
     },
     {
       "tipo": "passos",
-      "titulo": "Mapa: área → cursos abiertos de INEMA",
+      "titulo": "Mapa: área → cursos abiertos de ARCKHÉ",
       "sub": "Todos gratuitos. Haz clic en el área para ver tareas, riesgo y cursos.",
       "passos": [
         {
@@ -71,7 +71,7 @@
           "sub": "comercial y representantes",
           "texto": [
             "Tareas: preparar una propuesta, resumir una visita, responder una cotización, priorizar la cartera. Riesgo típico: descuento o plazo fuera de la política (falla F5 del laboratorio).",
-            "Cursos: <a href=\"https://inematds.github.io/8020/\">8020 — Ventas, gestión y estrategia comercial</a> · <a href=\"https://inematds.github.io/gpt6-astra/\">GPT-6 Astra en la práctica</a> (delegar la propuesta completa con prueba)."
+            "Cursos: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">8020 — Ventas, gestión y estrategia comercial</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">GPT-6 Astra en la práctica</a> (delegar la propuesta completa con prueba)."
           ],
           "exemplo": {
             "rot": "Ejercicio",
@@ -83,7 +83,7 @@
           "sub": "SAC y WhatsApp",
           "texto": [
             "Tareas: responder un reclamo, avisar de un retraso, registrar un cambio. Riesgo típico: una orden escondida en el mensaje del cliente y datos personales (fallas F6 y F8).",
-            "Cursos: <a href=\"https://inematds.github.io/curso-agente-sob-controle/\">Agente bajo control</a> · <a href=\"https://inematds.github.io/criaagentes/guia/\">criaagentes: un asistente de WhatsApp que nunca inventa</a>."
+            "Cursos: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Agente bajo control</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/guia/\">criaagentes: un asistente de WhatsApp que nunca inventa</a>."
           ],
           "exemplo": {
             "rot": "Ejercicio",
@@ -95,7 +95,7 @@
           "sub": "gestión de personas",
           "texto": [
             "Tareas: descripción de puesto, guion de entrevista, preparar una conversación difícil, plan de desarrollo. Riesgo típico: datos personales de empleados y decisiones sobre personas entregadas a la IA.",
-            "Cursos: <a href=\"https://inematds.github.io/segunda-opiniao/\">Segunda Opinión</a> (conversaciones difíciles y desarrollo de personas) · <a href=\"https://inematds.github.io/empresas-2027-v62/\">Empresas de 2027</a> (personas, procesos y agentes)."
+            "Cursos: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Segunda Opinión</a> (conversaciones difíciles y desarrollo de personas) · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Empresas de 2027</a> (personas, procesos y agentes)."
           ],
           "exemplo": {
             "rot": "Regla",
@@ -107,7 +107,7 @@
           "sub": "despacho y jurídico interno",
           "texto": [
             "Tareas: primera lectura de contrato, plazos, resumen de proceso. Riesgo típico: secreto profesional y secreto de justicia en la herramienta equivocada.",
-            "Curso: <a href=\"https://inematds.github.io/arquiteto-agentes-advocacia/\">Agentes en el despacho de abogados</a> (el agente lee, cuenta y prepara; el abogado decide y firma)."
+            "Curso: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Agentes en el despacho de abogados</a> (el agente lee, cuenta y prepara; el abogado decide y firma)."
           ],
           "exemplo": {
             "rot": "Ejercicio",
@@ -119,7 +119,7 @@
           "sub": "cuentas y contabilidad",
           "texto": [
             "Tareas: conciliar extracto, cobrar a un moroso, explicar la variación del mes. Riesgo típico: quien registra también aprueba, y datos de clientes enviados fuera sin contrato (falla F10).",
-            "Cursos: <a href=\"https://inematds.github.io/arquiteto-agentes-contabil/\">Agentes en contabilidad y finanzas</a> · <a href=\"https://inematds.github.io/loop-r/curso/\">LOOP-R</a> (mejora con número antes y después)."
+            "Cursos: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Agentes en contabilidad y finanzas</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/curso/\">LOOP-R</a> (mejora con número antes y después)."
           ],
           "exemplo": {
             "rot": "Regla",
@@ -131,7 +131,7 @@
           "sub": "procesos, logística, gestores",
           "texto": [
             "Tareas: mapear un proceso, armar una rutina de pedidos, medir antes y después, decidir con claridad. Riesgo típico: automatizar sin línea de base y no saber si ayudó (falla F11).",
-            "Cursos: <a href=\"https://inematds.github.io/pffia/\">Arquitecto de Trabajo con IA</a> · <a href=\"https://inematds.github.io/copilot-agentic/\">Copilot + Agentes para Empresas</a> · <a href=\"https://inematds.github.io/curso-7pa/\">Gestión de Agentes: los 7 principios</a>."
+            "Cursos: <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Arquitecto de Trabajo con IA</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Copilot + Agentes para Empresas</a> · <a href=\"https://linnoff88-dev.github.io/arckhe-/\">Gestión de Agentes: los 7 principios</a>."
           ],
           "exemplo": {
             "rot": "Para todos",
@@ -148,7 +148,7 @@
         {
           "rot": "Ruta por área (entregar al grupo)",
           "icone": "lista",
-          "conteudo": "RUTA DE IA · <área> · <empresa>\n\nTAREAS QUE VAMOS A MEJORAR\n1. <tarea de la semana>\n2. <tarea de la semana>\n3. <tarea de la semana>\n\nPALABRAS DEL ÁREA (usar en los ejercicios)\n<pedido, ruta, factura, cambio...>\n\nRIESGO TÍPICO DEL ÁREA\n- El error caro: <...>\n- Quién aprueba: <nombre/cargo>\n\nDESPUÉS DEL TALLER (cursos abiertos y gratuitos de INEMA)\nSemana 1: <curso 1> · <enlace>\nSemana 2: <curso 2> · <enlace>\nSemana 3: <curso 3> · <enlace>\nBase para todos: Del chat al agente · https://inematds.github.io/do-chat-ao-agente-v72/es/\n\nSEGUIMIENTO\n- Referente del área: <nombre> · encuentro de 15 min el <día/hora>"
+          "conteudo": "RUTA DE IA · <área> · <empresa>\n\nTAREAS QUE VAMOS A MEJORAR\n1. <tarea de la semana>\n2. <tarea de la semana>\n3. <tarea de la semana>\n\nPALABRAS DEL ÁREA (usar en los ejercicios)\n<pedido, ruta, factura, cambio...>\n\nRIESGO TÍPICO DEL ÁREA\n- El error caro: <...>\n- Quién aprueba: <nombre/cargo>\n\nDESPUÉS DEL TALLER (cursos abiertos y gratuitos de ARCKHÉ)\nSemana 1: <curso 1> · <enlace>\nSemana 2: <curso 2> · <enlace>\nSemana 3: <curso 3> · <enlace>\nBase para todos: Del chat al agente · https://linnoff88-dev.github.io/arckhe-/es/\n\nSEGUIMIENTO\n- Referente del área: <nombre> · encuentro de 15 min el <día/hora>"
         },
         {
           "rot": "Prompt · adaptar un ejercicio a otra área",
@@ -245,43 +245,43 @@
       "titulo": "Para ir más allá",
       "links": [
         {
-          "t": "Catálogo completo de cursos abiertos: INEMA.CLUB",
-          "href": "https://inema.club/",
+          "t": "Catálogo completo de cursos abiertos: ARCKHÉ AI",
+          "href": "https://ARCKHÉ AI/",
           "icone": "camadas"
         },
         {
           "t": "Del chat al agente: base para cualquier área",
-          "href": "https://inematds.github.io/do-chat-ao-agente-v72/es/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/es/",
           "icone": "seta"
         },
         {
           "t": "Agentes en la clínica: cuaderno del área de salud",
-          "href": "https://inematds.github.io/arquiteto-agentes-saude/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "pasta"
         },
         {
           "t": "Agentes: el Nuevo Office, formación por perfil",
-          "href": "https://inematds.github.io/agentes-office/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "usuario"
         },
         {
           "t": "Laboratorio Horizonte: Agente de WhatsApp (F5–F7)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/agente-whatsapp/",
           "icone": "lupa"
         },
         {
           "t": "Laboratorio Horizonte: Planilla de clientes (F8)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/planilha-clientes/",
           "icone": "lupa"
         },
         {
           "t": "Laboratorio Horizonte: Resumen de atención (F10)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/resumo-atendimento/",
           "icone": "lupa"
         },
         {
           "t": "Laboratorio Horizonte: Panel de indicadores (F11)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/painel/",
           "icone": "lupa"
         }
       ]

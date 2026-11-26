@@ -239,17 +239,17 @@
       "links": [
         {
           "t": "Del chat al agente: el ciclo pedir, ejecutar, verificar y decidir",
-          "href": "https://inematds.github.io/do-chat-ao-agente-v72/es/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/es/",
           "icone": "camadas"
         },
         {
           "t": "Gestión de Agentes: los 7 principios (autonomía con límites)",
-          "href": "https://inematds.github.io/curso-7pa/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "robo"
         },
         {
           "t": "GPT-6 Astra en la práctica: delegar la tarea completa con prueba",
-          "href": "https://inematds.github.io/gpt6-astra/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "chat"
         },
         {
@@ -269,12 +269,12 @@
         },
         {
           "t": "Laboratorio Horizonte: Agente de WhatsApp (F5–F7)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/agente-whatsapp/",
           "icone": "lupa"
         },
         {
           "t": "Laboratorio Horizonte: Integración MCP con el correo electrónico (F9)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/mcp-email/",
           "icone": "lupa"
         }
       ]
